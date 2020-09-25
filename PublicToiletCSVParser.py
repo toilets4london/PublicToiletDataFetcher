@@ -14,27 +14,31 @@ LONGITUDE = 'Longitude'
 LATITUDE = 'Latitude'
 LAST_UPLOADED = 'Last Uploaded'
 
+
 def read_camden_data(path_to_csv="Data/Public_toilets.csv"):
-    ''' Data downloaded from https://opendata.camden.gov.uk/People-Places/Public-toilets/v8f3-kxqp '''
+    """  Data downloaded from https://opendata.camden.gov.uk/People-Places/Public-toilets/v8f3-kxqp """
     with open(path_to_csv, newline='\n') as csvfile:
         csvreader = csv.DictReader(csvfile, delimiter=',')
         toilets = [row for row in csvreader]
     return toilets
 
+
 def addr_builder(toilet):
     return "%s %s, %s" % (toilet[BUILDING_NUMBER],toilet[STREET],toilet[POSTCODE])
 
-def camden_csv_to_json:
+
+def camden_csv_to_json():
     camden_data = read_camden_data()
     with open("Data/camden_data.json", 'w') as dataFile:
         toilets = []
         for t in camden_data:
-            toilet = {}
-            toilet['borough'] = 'Camden'
-            toilet['address'] = addr_builder(t)
-            toilet['opening_hours'] = t[OPENING_HOURS]
-            toilet['name'] = t[NAME]
-            toilet['latitude'] = t[LATITUDE]
-            toilet['longitude'] = t[LONGITUDE]
+            toilet = {
+                'borough':'Camden',
+                'address': addr_builder(t),
+                'opening_hours': t[OPENING_HOURS],
+                'name' : t[NAME],
+                'latitude' : t[LATITUDE],
+                'longitude' : t[LONGITUDE]
+            }
             toilets.append(toilet)
         json.dump(toilets, dataFile)

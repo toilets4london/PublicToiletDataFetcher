@@ -7,6 +7,7 @@ HEADERS = {'Content-Type': 'application/xml'}
 
 def get_data(save_to="Data/data.json", query_file="Data/query.xml"):
     """ Public toilet data from openstreetmap"""
+    print("Getting data from OpenStreetMap using query in %s"%query_file)
     with open(query_file, 'r') as query:
         xml = query.read()
     response = requests.post(
@@ -14,6 +15,7 @@ def get_data(save_to="Data/data.json", query_file="Data/query.xml"):
         data=xml,
         headers=HEADERS
     )
+    print("Saving data to file %s"%save_to)
     with open(save_to, 'w') as dataFile:
         json.dump(response.json(), dataFile)
 

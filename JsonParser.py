@@ -1,10 +1,21 @@
 import json
 import itertools
-import numpy as np
 import Geocoder
 
-TAGS = ["access","toilets:wheelchair","disabled","note","male","opening_hours","wheelchair",
-        "female","name","fee","unisex","description","changing_table"]
+# Tags used on OpenStreetMap toilets
+TAGS = ["access",
+        "toilets:wheelchair",
+        "disabled",
+        "note",
+        "male",
+        "opening_hours",
+        "wheelchair",
+        "female",
+        "name",
+        "fee",
+        "unisex",
+        "description",
+        "changing_table"]
 
 bfile = open("Data/boroughs.txt","r")
 BOROUGHS = bfile.read().split(", ")
@@ -46,14 +57,6 @@ def get_hours(toilet):
         return ""
 
 
-def read_json_coords(path_to_json_data="Data/data.json"):
-    with open(path_to_json_data) as dataFile:
-        geoData = json.loads(dataFile.read())
-        elements = geoData["elements"]
-        points = [(node["lat"], node["lon"]) for node in elements]
-    return points
-
-
 def load_all_json(path):
     with open(path) as datafile:
         d = json.loads(datafile.read())
@@ -64,7 +67,7 @@ def count_occurances_of_tag(nodes, tag):
     tot = 0
     for node in nodes:
         try:
-            v = node['tags'][tag]
+            _ = node['tags'][tag]
             tot += 1
         except KeyError:
             pass
@@ -83,6 +86,7 @@ def explore_tags(path):
     [print("%s, %d times out of %d"%(t,count_occurances_of_tag(nodes,t),total_number)) for t in tags]
     return {"tags": tags, "occurrences": [count_occurances_of_tag(nodes, t) for t in tags]}
 
+
 def get_borough(address):
     for b in BOROUGHS:
         if b in address:
@@ -91,28 +95,37 @@ def get_borough(address):
 
 
 def filter_json_data():
-    with open("Data/locations.txt",'r') as locs:
-        locations = locs.read().split("\n")
-        wcs = []
-        dict = load_all_json("Data/data.json")
-        toilets = dict['elements']
-        for i, t in enumerate(toilets):
-            toilet_tags = t['tags']
-            filtered_dict = {}
-            filtered_dict['address'] = locations[i]
-            filtered_dict['latitude'] = t['lat']
-            filtered_dict['longitude'] = t['lon']
-            filtered_dict['borough'] = get_borough(locations[i])
-            filtered_dict['disabled'] = is_disabled(toilet_tags)
-            filtered_dict['wheelchair'] = is_wheelchair_accessible(toilet_tags)
-            filtered_dict['name'] = get_name(toilet_tags)
-            filtered_dict['opening_hours'] = get_hours(toilet_tags)
-            wcs.append(filtered_dict)
+
+    """Return a new list of dicts with cleaned and filtered data to match input into toilets4london backend"""
+
+    wcs = []
+    dict = load_all_json("Data/data.json")
+    toilets = dict['elements']
+
+    for i, t in enumerate(toilets):
+
+        toilet_tags = t['tags']
+        filtered_dict = {}
+        address = Geocoder.reverse_geocode(t['lat'],t['lon'])
+
+        filtered_dict['address'] = address
+        filtered_dict['latitude'] = t['lat']
+        filtered_dict['longitude'] = t['lon']
+        filtered_dict['borough'] = get_borough(address)
+        filtered_dict['disabled'] = is_disabled(toilet_tags)
+        filtered_dict['wheelchair'] = is_wheelchair_accessible(toilet_tags)
+        filtered_dict['name'] = get_name(toilet_tags)
+        filtered_dict['opening_hours'] = get_hours(toilet_tags)
+
+        wcs.append(filtered_dict)
+
     return wcs
 
 
 def write_filtered_json_osm(newpath):
+
     new_toilets = filter_json_data()
+
     with open(newpath, 'w') as dataFile:
         json.dump(new_toilets, dataFile)
 
