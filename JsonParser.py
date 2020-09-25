@@ -1,7 +1,6 @@
 import json
 import itertools
 import numpy as np
-import matplotlib.pyplot as plt
 import Geocoder
 
 TAGS = ["access","toilets:wheelchair","disabled","note","male","opening_hours","wheelchair",
@@ -84,24 +83,6 @@ def explore_tags(path):
     [print("%s, %d times out of %d"%(t,count_occurances_of_tag(nodes,t),total_number)) for t in tags]
     return {"tags": tags, "occurrences": [count_occurances_of_tag(nodes, t) for t in tags]}
 
-
-def plot_tags(path):
-    tags_info = explore_tags(path)
-    height = tags_info['occurrences']
-    bars = tags_info['tags']
-    y_pos = np.arange(len(bars))
-    # Create bars
-    plt.bar(y_pos, height)
-    # Create names on the x-axis
-    plt.xticks(y_pos, bars)
-    # Show graphic
-    plt.show()
-
-
-def clean_dict(dict, tags):
-    return {k: v for k, v in dict.items() if (k in tags)}
-
-
 def get_borough(address):
     for b in BOROUGHS:
         if b in address:
@@ -135,7 +116,6 @@ def write_filtered_json_osm(newpath):
     with open(newpath, 'w') as dataFile:
         json.dump(new_toilets, dataFile)
 
-write_filtered_json_osm("Data/filtered_data.json")
 
 
 
