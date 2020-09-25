@@ -1,0 +1,13 @@
+<osm-script output="json">
+  <union>
+      <query type="node">
+        <has-kv k="amenity" v="toilets"/>
+        <bbox-query s="51.2456" w="-0.5493" n="51.733" e="0.4697"/>
+      </query>
+      <query type="node">
+        <has-kv k="building" v="toilets"/>
+        <bbox-query s="51.2456" w="-0.5493" n="51.733" e="0.4697"/>
+      </query>
+  </union>
+  <print mode="body"/>
+</osm-script>
