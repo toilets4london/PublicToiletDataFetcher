@@ -29,20 +29,15 @@ def get_name(toilet):
         return ""
 
 
-def is_disabled(toilet):
-    try:
-        if toilet['disabled'] == 'yes':
-            return True
-        return False
-    except KeyError:
-        return False
-
-
 def is_wheelchair_accessible(toilet):
     try:
         if toilet['wheelchair'] == 'yes':
             return True
+        elif toilet['disabled'] == 'yes':
+            return True
         elif toilet['toilets:wheelchair'] == 'yes':
+            return True
+        elif toilet['wheelchair:description']:
             return True
         else:
             return False
@@ -56,6 +51,15 @@ def get_hours(toilet):
     except KeyError:
         return ""
 
+
+def get_baby_change(tags):
+    try:
+        if tags['changing_table'] == 'yes':
+            return True
+        else:
+            return False
+    except KeyError:
+        return False
 
 def load_all_json(path):
     with open(path) as datafile:
@@ -102,21 +106,18 @@ def filter_json_data():
     dict = load_all_json("Data/data.json")
     toilets = dict['elements']
 
-    for i, t in enumerate(toilets):
-
+    for t in toilets:
         toilet_tags = t['tags']
         filtered_dict = {}
         address = Geocoder.reverse_geocode(t['lat'],t['lon'])
-
         filtered_dict['address'] = address
         filtered_dict['latitude'] = t['lat']
         filtered_dict['longitude'] = t['lon']
         filtered_dict['borough'] = get_borough(address)
-        filtered_dict['disabled'] = is_disabled(toilet_tags)
         filtered_dict['wheelchair'] = is_wheelchair_accessible(toilet_tags)
         filtered_dict['name'] = get_name(toilet_tags)
         filtered_dict['opening_hours'] = get_hours(toilet_tags)
-
+        filtered_dict['baby_change'] = get_baby_change(toilet_tags)
         wcs.append(filtered_dict)
 
     return wcs
@@ -128,8 +129,5 @@ def write_filtered_json_osm(newpath):
 
     with open(newpath, 'w') as dataFile:
         json.dump(new_toilets, dataFile)
-
-
-
 
 
