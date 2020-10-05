@@ -56,7 +56,7 @@ def sutton_excel_to_json():
             latLng = Geocoder.geocode(get_address(t))
             if latLng != "unavailable":
                 toilet = {
-                    'borough':'Barnes',
+                    'borough':'Sutton',
                     'address': get_address(t),
                     'opening_hours': get_opening_hours(t),
                     'name' : get_name(t),
