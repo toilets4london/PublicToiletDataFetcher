@@ -72,7 +72,7 @@ def clean_data():
         filtered_dict['address'] = get_address(t)
         filtered_dict['latitude'] = get_latitude(t)
         filtered_dict['longitude'] = get_longitude(t)
-        filtered_dict['borough'] = "Richmond"
+        filtered_dict['borough'] = "Richmond upon Thames"
         filtered_dict['wheelchair'] = get_disabled(t)
         filtered_dict['name'] = get_name(t)
         filtered_dict['opening_hours'] = get_opening_hours(t)
