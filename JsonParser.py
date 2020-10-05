@@ -131,3 +131,4 @@ def write_filtered_json_osm(newpath):
         json.dump(new_toilets, dataFile)
 
 
+
