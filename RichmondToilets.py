@@ -69,15 +69,16 @@ def clean_data():
     wcs = []
     for t in toilets:
         filtered_dict = {}
-        filtered_dict['address'] = get_address(t)
-        filtered_dict['latitude'] = get_latitude(t)
-        filtered_dict['longitude'] = get_longitude(t)
-        filtered_dict['borough'] = "Richmond upon Thames"
-        filtered_dict['wheelchair'] = get_disabled(t)
-        filtered_dict['name'] = get_name(t)
-        filtered_dict['opening_hours'] = get_opening_hours(t)
-        filtered_dict['baby_change'] = get_baby_change(t)
-        wcs.append(filtered_dict)
+        if t['type'] == "Community Toilet Scheme":
+            filtered_dict['address'] = get_address(t)
+            filtered_dict['latitude'] = get_latitude(t)
+            filtered_dict['longitude'] = get_longitude(t)
+            filtered_dict['borough'] = "Richmond upon Thames"
+            filtered_dict['wheelchair'] = get_disabled(t)
+            filtered_dict['name'] = get_name(t)
+            filtered_dict['opening_hours'] = get_opening_hours(t)
+            filtered_dict['baby_change'] = get_baby_change(t)
+            wcs.append(filtered_dict)
     return wcs
 
 
