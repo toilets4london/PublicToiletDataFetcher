@@ -1,6 +1,6 @@
 [
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Church Road SM6 7NN",
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summer",
     "name": "Beddington Park toilets",
@@ -10,7 +10,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Tudor Close  SM3 8QS",
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summer",
     "name": "Cheam Recreation Ground toilets",
@@ -20,7 +20,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "High Street  SM5 3AL",
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summer",
     "name": "Grove Park toilets",
@@ -30,7 +30,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Throwley Way SM1 4AF",
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summer",
     "name": "Manor Park toilets",
@@ -40,7 +40,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Stafford Road SM6 9BU ",
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summers",
     "name": "Mellows Park toilets",
@@ -50,7 +50,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Croydon Lane  SM7 3BA",
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summers",
     "name": "Oaks Park toilets",
@@ -60,7 +60,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Rosehill Park West  SM1 3LD",
     "opening_hours": "Opening hours - vary throughout the year but usually from 8am to dusk",
     "name": "Rosehill Park toilets",
@@ -70,7 +70,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Alcorn Close SM3 9NX",
     "opening_hours": "Opening hours - vary throughout the year but usually from 8am to dusk",
     "name": "Sutton Cemetery toilets",
@@ -80,7 +80,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Plough Lane  SM6 8AQ",
     "opening_hours": "Opening hours - vary throughout the year but usually from 8am to dusk",
     "name": "Bandon Hill Cemetery toilets",
@@ -90,7 +90,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Westcroft Rd SM5 2TG",
     "opening_hours": "opening hours on website https://www.everyoneactive.com/centre/westcroft-leisure-centre/",
     "name": "Westcroft LC toilets",
@@ -100,7 +100,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Mollison Drive SM6 9NZ",
     "opening_hours": "opening hours on website https://www.everyoneactive.com/centre/the-phoenix-centre/",
     "name": "Phoenix Centre toilets",
@@ -110,7 +110,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Malden Rd SM3 8EP",
     "opening_hours": "opening hours on website https://www.everyoneactive.com/centre/cheam-leisure-centre/",
     "name": "Cheam LC toilets",
@@ -120,7 +120,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Middleton Rd SM5 1SL",
     "opening_hours": "opening hours on website https://www.everyoneactive.com/centre/david-weir-leisure-centre/",
     "name": "David Weir Leisure Centre toilets",
@@ -130,7 +130,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Civic Offices St Nicholas Way Sutton SM1 1EA",
     "opening_hours": "6AM-11PM ",
     "name": "Civic Offices toilets",
@@ -140,7 +140,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Church Road, Cheam SM3 8QH",
     "opening_hours": "Mon:  closed Tues:  9:30am - 7pm  Wed:  9:30am - 5pm  Thurs:  9:30am - 6pm  Fri:  9:30am - 5pm  Sat:  9:30am - 5pm ",
     "name": "Cheam Library toilets",
@@ -150,7 +150,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "St Nicholas Way, Sutton SM1 1EA",
     "opening_hours": "Mon:  9:00am - 8pm Tues:  9:00am - 8pm  Wed:  9:00am - 8pm  Thurs:  9:00am - 8pm  Fri:  9:00am - 5pm  Sat:  9:00am - 5pm  Sun:  1:00pm - 4:30pm",
     "name": "Sutton Central Library toilets",
@@ -160,7 +160,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Sutton Life Centre, Alcorn Road, Sutton SM3 9PX",
     "opening_hours": "Mon - Thurs: 9:30am - 8pm (self service only between 7pm - 8pm)  Fri: 9:30am - 5pm (self service only between 5pm - 8pm) Sat: 9:30am - 5pm  Sun: 10am - 2pm",
     "name": "Sutton Life centre Library toilets",
@@ -170,7 +170,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Shotfield, Wallington SM6 0HY",
     "opening_hours": "Mon: closed Tues: 9:30am - 7pm  Wed: 9:30am - 5pm  Thurs: 9:30am - 6pm  Fri: 9:30am - 5pm  Sat: 9:30am - 5pm  Sun: closed ",
     "name": "Wallington Library toilets",
@@ -180,7 +180,7 @@
     "wheelchair": true
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Mollison Drive, Roundshaw, Wallington SM6 9NZ",
     "opening_hours": "Mon & Tues: 9am - 7pm (unstaffed 9am - 9:30am)  Wed, Fri & Sat: 9am - 5pm (unstaffed 9am - 9:30am)  Thurs: 9am - 6pm (unstaffed 9am - 9:30am)  Sun: 1pm - 4:30pm",
     "name": "Phoneix Library toilets",
@@ -190,7 +190,7 @@
     "wheelchair": false
   },
   {
-    "borough": "Barnes",
+    "borough": "Sutton",
     "address": "Westcroft Leisure Centre, Westcroft Road, Carshalton SM5 2TG",
     "opening_hours": "Mon - Thurs: 7am - 9pm (self service between 7am - 9:30am and 7pm - 9pm)  Fri: 7am - 9pm (self service between 7am - 9:30am and 5pm - 9pm)   Sat: 8am - 7pm (self service between 8am - 9:30am and 5pm - 7pm)  Sun: 8am - 7pm (self service all day)",
     "name": "Westcroft Library toilets",
