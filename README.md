@@ -1,4 +1,4 @@
-## An incredibly unorganised repo of various data fetching, cleaning and processing scripts to collect data on public toilets in London
+## An incredibly unorganised repo of various data fetching, cleaning and processing scripts to collect and process data on public toilets in London
 
 ### Credits
 - © OpenStreetMap contributors
