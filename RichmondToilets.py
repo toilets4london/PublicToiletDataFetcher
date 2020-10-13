@@ -51,7 +51,7 @@ def get_disabled(toilet):
 
 
 # May have to delete strange characters from this file
-def get_data():
+def get_richmond_data():
     response = requests.get(RICHMOND_TOILET_DATA_URL)
     with open("Data/RichmondToiletsRaw.json", 'w') as dataFile:
         dataFile.write(response.text)
@@ -82,7 +82,7 @@ def clean_data():
     return wcs
 
 
-def generate_clean_data_richmond(newpath):
+def write_cleaned_data_richmond(newpath="Data/processed_data_richmond.json"):
     data = clean_data()
     with open(newpath, 'w') as dataFile:
         json.dump(data, dataFile)

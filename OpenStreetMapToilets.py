@@ -1,6 +1,10 @@
-import json
 import itertools
 import Geocoder
+import requests
+import json
+
+OVERPASS_URL = 'https://lz4.overpass-api.de/api/interpreter'
+HEADERS = {'Content-Type': 'application/xml'}
 
 # Tags used on OpenStreetMap toilets
 TAGS = ["access",
@@ -21,6 +25,27 @@ bfile = open("Data/boroughs.txt","r")
 BOROUGHS = bfile.read().split(", ")
 bfile.close()
 
+
+def get_openstreetmap_data(save_to="Data/data.json", query_file="Data/query.xml"):
+    """ Public toilet data from openstreetmap"""
+    print("Getting data from OpenStreetMap using query in %s"%query_file)
+    with open(query_file, 'r') as query:
+        xml = query.read()
+    response = requests.post(
+        OVERPASS_URL,
+        data=xml,
+        headers=HEADERS
+    )
+    print("Saving data to file %s"%save_to)
+    with open(save_to, 'w') as dataFile:
+        json.dump(response.json(), dataFile)
+
+
+def get_broader_data():
+    """ Mixed toilet data from openstreetmap including privately owned toilets"""
+    save_to = "Data/mixed_data.json"
+    query_file = "Data/broader_query.xml"
+    get_openstreetmap_data(save_to, query_file)
 
 def get_name(toilet):
     try:
@@ -123,12 +148,10 @@ def filter_json_data():
     return wcs
 
 
-def write_filtered_json_osm(newpath):
+def write_filtered_json(newpath="Data/processed_data.json"):
 
     new_toilets = filter_json_data()
 
     with open(newpath, 'w') as dataFile:
         json.dump(new_toilets, dataFile)
-
-
 
