@@ -21,14 +21,14 @@ def get_opening_hours(toilet):
     return toilet['Opening hours']
 
 
-def read_sutton_data():
+def read_redbridge_data():
     df = pd.read_excel('Data/redbridge_raw.xlsx')
     print(df.to_dict(orient='records'))
     return df.to_dict(orient='records')
 
 
 def redbridge_excel_to_json():
-    data = read_sutton_data()
+    data = read_redbridge_data()
     with open("Data/processed_data_redbridge.json", 'w') as dataFile:
         toilets = []
         for t in data:
