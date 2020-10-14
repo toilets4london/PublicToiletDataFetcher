@@ -9,10 +9,6 @@ def get_address(toilet):
     street = toilet['Billing Address Line 1']
     borough = "Lewisham, London"
     postcode = toilet['Billing Zip/Postal Code']
-    if "Fellowship" in name:
-        return "Randlesdown Rd, Bellingham, London SE6 3BT"
-    elif postcode == "SE14 1LE":
-        return ""
     if street != "" and postcode != "":
         return street + ", " + borough + ", "+postcode
     else:
@@ -22,10 +18,6 @@ def get_address(toilet):
                 str += s
                 str += " "
         return str
-
-
-
-
 
 def get_name(toilet):
     return toilet['Unnamed: 0']

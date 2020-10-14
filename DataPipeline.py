@@ -12,4 +12,5 @@ import LewishamToilets
 # RichmondToilets.write_cleaned_data_richmond()
 # SuttonToilets.sutton_excel_to_json()
 # RedbridgeToilets.redbridge_excel_to_json()
+LewishamToilets.lewisham_excel_to_json()
 LewishamToilets.lewisham_json_api_to_filtered_json()
