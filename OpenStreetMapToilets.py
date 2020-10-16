@@ -76,6 +76,12 @@ def get_hours(toilet):
     except KeyError:
         return ""
 
+def get_source(tags):
+    try:
+        return "Uploaded by %s to OpenStreetMap"%tags['created_by']
+    except KeyError:
+        return "OpenStreetMap (credits: copyright OpenStreetMap contributors, data is available under the Open Database Licence)"
+
 
 def get_baby_change(tags):
     try:
@@ -123,6 +129,8 @@ def get_borough(address):
     return ""
 
 
+
+
 def filter_json_data():
 
     """Return a new list of dicts with cleaned and filtered data to match input into toilets4london backend"""
@@ -135,6 +143,7 @@ def filter_json_data():
         toilet_tags = t['tags']
         filtered_dict = {}
         address = Geocoder.reverse_geocode(t['lat'],t['lon'])
+        filtered_dict['data_source'] = get_source(toilet_tags)
         filtered_dict['address'] = address
         filtered_dict['latitude'] = t['lat']
         filtered_dict['longitude'] = t['lon']

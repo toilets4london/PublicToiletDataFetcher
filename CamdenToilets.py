@@ -24,7 +24,7 @@ def read_camden_data(path_to_csv="Data/Public_toilets.csv"):
 
 
 def addr_builder(toilet):
-    return "%s %s, %s" % (toilet[BUILDING_NUMBER],toilet[STREET],toilet[POSTCODE])
+    return "%s, %s %s, %s" % (toilet[BUILDING_NAME], toilet[BUILDING_NUMBER],toilet[STREET],toilet[POSTCODE])
 
 
 def camden_csv_to_json():
@@ -33,6 +33,7 @@ def camden_csv_to_json():
         toilets = []
         for t in camden_data:
             toilet = {
+                'data_source': 'Data downloaded from https://opendata.camden.gov.uk/People-Places/Public-toilets/v8f3-kxqp',
                 'borough':'Camden',
                 'address': addr_builder(t),
                 'opening_hours': t[OPENING_HOURS],

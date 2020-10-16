@@ -1,5 +1,4 @@
 import json
-from functools import reduce
 import requests
 import Geocoder
 import pandas as pd
@@ -66,6 +65,7 @@ def lewisham_excel_to_json():
             latLng = Geocoder.geocode(address)
             if latLng != "unavailable":
                 toilet = {
+                    'data_source':"Lewisham Community Toilets dataset (updated for Covid)",
                     'borough':"Lewisham",
                     'address': address,
                     'opening_hours': opening,
@@ -123,6 +123,7 @@ def lewisham_json_api_to_filtered_json():
             disabled = is_disabled(t, official_data_i_was_sent)
             babychange = is_disabled(t, official_data_i_was_sent)
             filtered_dict = {}
+            filtered_dict['data_source'] = "Lewisham Community Toilets https://www.lewishamlocal.com/projects/communitytoilets/"
             filtered_dict['address'] = address
             filtered_dict['latitude'] = latitude
             filtered_dict['longitude'] = longitude

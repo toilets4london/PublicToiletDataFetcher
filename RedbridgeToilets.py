@@ -35,6 +35,7 @@ def redbridge_excel_to_json():
             latLng = Geocoder.geocode(get_address(t))
             if latLng != "unavailable":
                 toilet = {
+                    'data_source' : 'Redbridge Culture and Leisure sent in spreadsheet 6/10/2020',
                     'borough':'Redbridge',
                     'address': get_address(t),
                     'opening_hours': get_opening_hours(t),
