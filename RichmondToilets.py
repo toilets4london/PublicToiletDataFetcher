@@ -69,7 +69,7 @@ def clean_data():
     wcs = []
     for t in toilets:
         filtered_dict = {}
-        if t['type'] == "Community Toilet Scheme":
+        if t['CTA'] == "1":
             filtered_dict['data_source'] = "Extracted from https://www.richmond.gov.uk/community_toilet_scheme"
             filtered_dict['address'] = get_address(t)
             filtered_dict['latitude'] = get_latitude(t)
