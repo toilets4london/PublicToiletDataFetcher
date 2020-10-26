@@ -5,6 +5,7 @@ import SuttonToilets
 import RedbridgeToilets
 import LewishamToilets
 import LambethToilets
+import HealthmaticToilets
 
 # OpenStreetMapToilets.get_openstreetmap_data()
 # OpenStreetMapToilets.write_filtered_json()
@@ -14,4 +15,5 @@ import LambethToilets
 # SuttonToilets.sutton_excel_to_json()
 # RedbridgeToilets.redbridge_excel_to_json()
 # LewishamToilets.lewisham_excel_to_json()
-LambethToilets.lambeth_excel_to_json()
+# LambethToilets.lambeth_excel_to_json()
+HealthmaticToilets.healthmatic_excel_to_json()

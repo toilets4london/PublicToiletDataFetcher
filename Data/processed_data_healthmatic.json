@@ -1,7 +1,7 @@
 [
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Gracechurch Street, Bishopsgate, City of  EC3",
+    "address": "East Cheap London None",
     "opening_hours": "yes",
     "name": "East Cheap London",
     "baby_change": true,
@@ -9,11 +9,11 @@
     "longitude": -0.085843,
     "wheelchair": true,
     "fee": "50p",
-    "borough": ""
+    "borough": "City of London"
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Coulsdon Library, Brighton Road, London Borough of Croydon,  CR5 2NH",
+    "address": "Coulsden High St CR5 2NH",
     "opening_hours": "",
     "name": "Coulsden High St",
     "baby_change": false,
@@ -25,7 +25,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Fulwell Cross Library, 140, High Street, Barkingside, London Borough of Redbridge,  IG6 2EA",
+    "address": "Fulwell Cross IG6 2EA",
     "opening_hours": "",
     "name": "Fulwell Cross",
     "baby_change": false,
@@ -37,7 +37,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "The Hope, 94, Cowcross Street, Farringdon, Clerkenwell, London Borough of Islington,  EC1M 6BH",
+    "address": "Cowcross/Hope Pub EC1M 6BH",
     "opening_hours": "",
     "name": "Cowcross/Hope Pub",
     "baby_change": false,
@@ -49,7 +49,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Platform 3, Highbury Crescent, Highbury, London Borough of Islington,  N5 1RE",
+    "address": "Highbury Crescent N5 1RD",
     "opening_hours": "Yes",
     "name": "Highbury Crescent Automatic Public Toilet",
     "baby_change": true,
@@ -61,7 +61,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Jubilee Gardens, Belvedere Road, South Bank, Lambeth, London Borough of Lambeth,  SE1 7PG",
+    "address": "Jubilee Gardens Main Loo SE1 8XX",
     "opening_hours": "yes ",
     "name": "Jubilee Gardens Main Loo",
     "baby_change": true,
@@ -73,7 +73,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Curry Leaf, 256, Coulsdon Road, London Borough of Croydon,  CR5 1EA",
+    "address": "Grange Park CR5 1EE",
     "opening_hours": "Yes",
     "name": "Grange Park Automatic Public Toilet",
     "baby_change": false,
@@ -85,19 +85,19 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Kingsland Shopping Centre, Kingsland High Street, Dalston, London Borough of Hackney,  E8 2LX",
+    "address": "Kingsland Shopping Centre E8 2LX",
     "opening_hours": "yes",
     "name": "Kingsland Shopping Centre",
     "baby_change": true,
-    "latitude": 51.54754905,
-    "longitude": -0.0739976553161766,
+    "latitude": 51.5473225,
+    "longitude": -0.0724518,
     "wheelchair": true,
     "fee": 1,
     "borough": "Hackney"
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "UCKG, 232-238, Seven Sisters Road, Finsbury Park, London Borough of Islington,  N4 3GG",
+    "address": "Seven Sisters Road N4 3NX",
     "opening_hours": "Yes",
     "name": "Seven Sisters Road Automatic Public Toilet",
     "baby_change": true,
@@ -109,7 +109,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Foyles, The Queen's Walk, South Bank, Lambeth, London Borough of Lambeth,  SE1 8XT",
+    "address": "Jubilee Gardens Paddlegates SE1 7PB",
     "opening_hours": "",
     "name": "Jubilee Gardens Paddlegates",
     "baby_change": false,
@@ -121,7 +121,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Le Pain Quotidien, Festival Terrace, South Bank, Lambeth, London Borough of Lambeth,  SE1 8XX",
+    "address": "Jubilee Gardens PT Auto SE1 7PB",
     "opening_hours": "yes ",
     "name": "Jubilee Gardens PT Auto",
     "baby_change": true,
@@ -133,7 +133,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Tennis Office, Church Path, Highbury, London Borough of Islington,  N5 1BA",
+    "address": "Highbury Fields N5 1AR",
     "opening_hours": "Yes",
     "name": "Highbury Fields Automatic Public Toilet",
     "baby_change": true,
@@ -145,7 +145,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Islington Green, Angel, Highbury, London Borough of Islington,  N1 2XR",
+    "address": "Islington Green N1",
     "opening_hours": "Yes",
     "name": "Islington Green Automatic Public Toilet",
     "baby_change": false,
@@ -157,7 +157,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Sports Direct, Holloway Road, Holloway, London Borough of Islington,  N7 9SB",
+    "address": "Holloway Road N7 0SH",
     "opening_hours": "Yes",
     "name": "Holloway Road Automatic Public Toilet",
     "baby_change": false,
@@ -169,7 +169,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Lizzy\u2019s on the Green, Newington Green, Canonbury, London Borough of Islington,  N16 9PX",
+    "address": "Newington Green N16 9PX",
     "opening_hours": "Yes",
     "name": "Newington Green Automatic Public Toilet",
     "baby_change": false,
@@ -181,7 +181,7 @@
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
-    "address": "Tech City College, 263-269, City Road, Saint Luke's, Finsbury, London Borough of Islington,  EC1V 1JX",
+    "address": "City Road EC1V 8EL",
     "opening_hours": "Yes",
     "name": "City Road Automatic Public Toilet",
     "baby_change": false,

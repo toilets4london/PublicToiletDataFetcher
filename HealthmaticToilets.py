@@ -58,6 +58,10 @@ def get_longitude(toilet):
     return float(toilet['Longitude'])
 
 
+def get_address(toilet):
+    return toilet['Name']+" "+toilet['Post code']
+
+
 def healthmatic_excel_to_json():
     """Leads to geocoding errors as many addresses are not full"""
     data = read_healthmatic_data()
@@ -68,13 +72,11 @@ def healthmatic_excel_to_json():
             # Royal parks data was collected seperately
             if t['Group'] != 'Royal Parks':
                 try:
-                    full_address = Geocoder.reverse_geocode(get_latitude(t), get_longitude(t)).replace('London, Greater London, England,', '')
-                    full_address = full_address.replace(', United Kingdom', '')
-                    print("Full address: " + full_address)
+                    full_address = Geocoder.reverse_geocode(get_latitude(t), get_longitude(t))
                     borough = get_borough(boroughs, full_address)
                     toilet = {
                         'data_source': "Dataset sent in by Healthmatic 26/10/20",
-                        'address': full_address,
+                        'address': get_address(t),
                         'opening_hours': get_opening_hours(t),
                         'name':  get_name(t),
                         'baby_change': get_baby_change(t),
@@ -88,5 +90,3 @@ def healthmatic_excel_to_json():
                 except:
                     print('Error reverse geocoding %s'%get_name(t))
         json.dump(toilets, dataFile)
-
-healthmatic_excel_to_json()
