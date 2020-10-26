@@ -4,9 +4,7 @@ import pandas as pd
 
 
 def get_name(toilet):
-    if toilet['charges']=="20p":
-        return toilet['Name']+" "+"Automatic Public Toilet"
-    return toilet['Name']
+    return toilet['Name']+" "+"Public Toilet"
 
 
 def get_baby_change(toilet):
@@ -24,7 +22,7 @@ def get_disabled(toilet):
 
 
 def get_opening_hours(toilet):
-    return toilet['Disabled Accessibility']
+    return toilet['Opening Time']
 
 
 def get_charge(toilet):
