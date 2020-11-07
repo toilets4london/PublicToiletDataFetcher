@@ -255,7 +255,7 @@
   {
     "name": "Public Toilet",
     "address": "Brompton Library",
-    "opening_hours": "Monday, Tuesday and Thursday9.30am to 8pmWednesday, Friday and Saturday,9.30am to 5pm",
+    "opening_hours": "Monday, Tuesday and Thursday 9.30am to 8pm; Wednesday, Friday and Saturday, 9.30am to 5pm",
     "wheelchair": true,
     "baby_change": true,
     "data_source": "https://www.rbkc.gov.uk/environment/environmental-health/public-toilets",
@@ -266,7 +266,7 @@
   {
     "name": "Public Toilet",
     "address": "Kensington Central Library",
-    "opening_hours": "Monday, Tuesday and Thursday9.30am to 8pmWednesday, Friday and Saturday,9.30am to 5pm",
+    "opening_hours": "Monday, Tuesday and Thursday 9.30am to 8pm; Wednesday, Friday and Saturday, 9.30am to 5pm",
     "wheelchair": true,
     "baby_change": true,
     "data_source": "https://www.rbkc.gov.uk/environment/environmental-health/public-toilets",
@@ -277,7 +277,7 @@
   {
     "name": "Public Toilet",
     "address": "North Kensington Library",
-    "opening_hours": "Monday, Tuesday and Thursday9.30am to 8pmWednesday, Friday and Saturday,9.30am to 5pm",
+    "opening_hours": "Monday, Tuesday and Thursday 9.30am to 8pm; Wednesday, Friday and Saturday, 9.30am to 5pm",
     "wheelchair": true,
     "baby_change": true,
     "data_source": "https://www.rbkc.gov.uk/environment/environmental-health/public-toilets",
@@ -288,7 +288,7 @@
   {
     "name": "Public Toilet",
     "address": "Chelsea Library",
-    "opening_hours": "Monday, Tuesday and Thursday9.30am to 8pmWednesday, Friday and Saturday,9.30am to 5pmSunday,1 to 5pm",
+    "opening_hours": "Monday, Tuesday and Thursday 9.30am to 8pm; Wednesday, Friday and Saturday, 9.30am to 5pm; Sunday, 1 to 5pm",
     "wheelchair": true,
     "baby_change": true,
     "data_source": "https://www.rbkc.gov.uk/environment/environmental-health/public-toilets",
@@ -299,7 +299,7 @@
   {
     "name": "Public Toilet",
     "address": "Kensal Library- offered for children's use only",
-    "opening_hours": "Monday, Tuesday and Thursday,1 to 6pmFriday,9.30 to 5pmSaturday,9.30am to 1pm and 2 to 5pm",
+    "opening_hours": "Monday, Tuesday and Thursday,1 to 6pm; Friday,9.30 to 5pm; Saturday, 9.30am to 1pm and 2 to 5pm",
     "wheelchair": false,
     "baby_change": false,
     "data_source": "https://www.rbkc.gov.uk/environment/environmental-health/public-toilets",
@@ -310,7 +310,7 @@
   {
     "name": "Public Toilet",
     "address": "Notting Hill Gate Library- offered for children's use only",
-    "opening_hours": "Monday, 1 to 8pmTuesday, 1 to 7pmThursday, 9.30am to 1pmFriday and Saturday,9.30am to 1pm and 2 to 5pm",
+    "opening_hours": "Monday, 1 to 8pm ; Tuesday, 1 to 7pm; Thursday, 9.30am to 1pm; Friday and Saturday, 9.30am to 1pm and 2 to 5pm",
     "wheelchair": false,
     "baby_change": false,
     "data_source": "https://www.rbkc.gov.uk/environment/environmental-health/public-toilets",
