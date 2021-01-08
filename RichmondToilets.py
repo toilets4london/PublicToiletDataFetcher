@@ -50,11 +50,11 @@ def get_disabled(toilet):
     return False
 
 
-# May have to delete strange characters from this file
 def get_richmond_data():
     response = requests.get(RICHMOND_TOILET_DATA_URL)
     with open("Data/RichmondToiletsRaw.json", 'w') as dataFile:
-        dataFile.write(response.text)
+        # strange character
+        dataFile.write(response.text.replace('\u0009', ''))
 
 
 def read_raw_data():
