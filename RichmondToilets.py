@@ -14,10 +14,10 @@ def get_address(toilet):
     return toilet["address1"]+" "+toilet["postcode"]
 
 def get_latitude(toilet):
-    return toilet["lat"]
+    return float(toilet["lat"])
 
 def get_longitude(toilet):
-    return toilet["long"]
+    return float(toilet["long"])
 
 def cleanhtml(raw_html):
     cleanr = re.compile('<.*?>')
@@ -69,7 +69,7 @@ def clean_data():
     wcs = []
     for t in toilets:
         filtered_dict = {}
-        if t['CTA'] == "1":
+        if t['CTA'] == "1" and t["lat"] != "" and t["long"] != "":
             filtered_dict['data_source'] = "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 08/01/2021"
             filtered_dict['address'] = get_address(t)
             filtered_dict['latitude'] = get_latitude(t)
