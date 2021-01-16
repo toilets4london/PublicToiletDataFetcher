@@ -8,7 +8,8 @@
     "baby_change": true,
     "latitude": 51.4083517,
     "longitude": -0.0241020999999364,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -19,7 +20,8 @@
     "baby_change": false,
     "latitude": 51.355862,
     "longitude": 0.089991,
-    "wheelchair": false
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -30,7 +32,8 @@
     "baby_change": false,
     "latitude": 51.3755408,
     "longitude": -0.014221300000031079,
-    "wheelchair": false
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -41,7 +44,8 @@
     "baby_change": true,
     "latitude": 51.3121694,
     "longitude": 0.0370584,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -52,7 +56,8 @@
     "baby_change": false,
     "latitude": 51.3891308,
     "longitude": 0.0728943,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -63,7 +68,8 @@
     "baby_change": false,
     "latitude": 51.3896953,
     "longitude": 0.0755502,
-    "wheelchair": false
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -74,7 +80,8 @@
     "baby_change": true,
     "latitude": 51.4074816,
     "longitude": -0.027964399999973466,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -85,7 +92,8 @@
     "baby_change": true,
     "latitude": 51.418222,
     "longitude": 0.0678532,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -96,7 +104,8 @@
     "baby_change": true,
     "latitude": 51.373235,
     "longitude": -0.017509199999949487,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -107,7 +116,8 @@
     "baby_change": true,
     "latitude": 51.4038792,
     "longitude": 0.0203771,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -118,7 +128,8 @@
     "baby_change": true,
     "latitude": 51.373235,
     "longitude": -0.017509199999949487,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -129,7 +140,8 @@
     "baby_change": true,
     "latitude": 51.4039745,
     "longitude": 0.1048809,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -140,7 +152,8 @@
     "baby_change": false,
     "latitude": 51.3603354,
     "longitude": 0.0875814,
-    "wheelchair": false
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -151,7 +164,8 @@
     "baby_change": false,
     "latitude": 51.3870481,
     "longitude": 0.1134607,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -162,7 +176,8 @@
     "baby_change": true,
     "latitude": 51.4095978,
     "longitude": -0.025472000000036132,
-    "wheelchair": false
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -173,7 +188,8 @@
     "baby_change": true,
     "latitude": 51.3789984,
     "longitude": 0.0176287,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -184,7 +200,8 @@
     "baby_change": false,
     "latitude": 51.3723223,
     "longitude": 0.0396344,
-    "wheelchair": false
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -195,7 +212,8 @@
     "baby_change": true,
     "latitude": 51.4038907,
     "longitude": 0.0165818,
-    "wheelchair": false
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -206,7 +224,8 @@
     "baby_change": true,
     "latitude": 51.3767479,
     "longitude": -0.019126499999970292,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -217,7 +236,8 @@
     "baby_change": true,
     "latitude": 51.4152991,
     "longitude": -0.05341380000004392,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -228,7 +248,8 @@
     "baby_change": false,
     "latitude": 51.3759961,
     "longitude": 0.0112748,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -239,7 +260,8 @@
     "baby_change": true,
     "latitude": 51.4068787,
     "longitude": -0.0311537,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -250,18 +272,8 @@
     "baby_change": false,
     "latitude": 51.4039745,
     "longitude": 0.1048809,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
-    "borough": "Bromley",
-    "address": "12 Carlton Parade, Orpington BR6 0JB",
-    "opening_hours": "Monday to Friday 6.30am - 4.00pm, Saturday 7.00am - 4.00pm and Sunday 8.00am - 4.00pm",
-    "name": "Parade Cafe, Orpington Community toilet",
-    "baby_change": true,
-    "latitude": 0.0,
-    "longitude": 0.0,
-    "wheelchair": true
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -272,7 +284,8 @@
     "baby_change": true,
     "latitude": 51.4033103,
     "longitude": 0.0179078,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -283,7 +296,8 @@
     "baby_change": true,
     "latitude": 51.4144893,
     "longitude": -0.05014059999996334,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -294,7 +308,8 @@
     "baby_change": true,
     "latitude": 51.4064326,
     "longitude": -0.030295799999976225,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -305,7 +320,8 @@
     "baby_change": true,
     "latitude": 51.4063581,
     "longitude": 0.0136441,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -316,7 +332,8 @@
     "baby_change": true,
     "latitude": 51.4191933,
     "longitude": 0.0658115,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -327,7 +344,8 @@
     "baby_change": true,
     "latitude": 51.365467,
     "longitude": 0.054211,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -338,7 +356,8 @@
     "baby_change": true,
     "latitude": 51.4123917,
     "longitude": -0.05054619999998522,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -349,7 +368,8 @@
     "baby_change": true,
     "latitude": 51.3768178,
     "longitude": -0.02113520000000335,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -360,7 +380,8 @@
     "baby_change": true,
     "latitude": 51.3895096,
     "longitude": 0.071819,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -371,7 +392,8 @@
     "baby_change": true,
     "latitude": 51.4090508,
     "longitude": -0.037876299999993535,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -382,7 +404,8 @@
     "baby_change": true,
     "latitude": 51.3763552,
     "longitude": -0.018769799999972747,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -393,7 +416,8 @@
     "baby_change": false,
     "latitude": 51.4068665,
     "longitude": 0.0119232,
-    "wheelchair": false
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -404,7 +428,8 @@
     "baby_change": true,
     "latitude": 51.3967049,
     "longitude": -0.04818,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -415,7 +440,8 @@
     "baby_change": true,
     "latitude": 51.4038907,
     "longitude": 0.0165818,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -426,7 +452,8 @@
     "baby_change": false,
     "latitude": 51.3635842,
     "longitude": 0.028587,
-    "wheelchair": false
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -437,18 +464,8 @@
     "baby_change": false,
     "latitude": 51.3338337,
     "longitude": 0.0277143,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
-    "borough": "Bromley",
-    "address": "The Precinct, Orpington BR6 0TW",
-    "opening_hours": "Closed for improvement and refurbishment work, reopening in Spring 2014",
-    "name": "The Precinct, Orpington Public toilet operated by Orpington 1st Business Improvement District",
-    "baby_change": false,
-    "latitude": 0.0,
-    "longitude": 0.0,
-    "wheelchair": true
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -459,7 +476,8 @@
     "baby_change": true,
     "latitude": 51.3513351,
     "longitude": 0.0894989,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -470,7 +488,8 @@
     "baby_change": false,
     "latitude": 51.3592184,
     "longitude": 0.0699491,
-    "wheelchair": false
+    "wheelchair": false,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -481,7 +500,8 @@
     "baby_change": true,
     "latitude": 51.3789984,
     "longitude": 0.0176287,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -492,7 +512,8 @@
     "baby_change": true,
     "latitude": 51.412208,
     "longitude": -0.024036,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -503,7 +524,8 @@
     "baby_change": true,
     "latitude": 51.3083484,
     "longitude": 0.0384893,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -514,7 +536,8 @@
     "baby_change": true,
     "latitude": 51.3990088,
     "longitude": 0.0180779,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
   {
     "data_source": "Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021",
@@ -525,6 +548,7 @@
     "baby_change": true,
     "latitude": 51.37948957977817,
     "longitude": -0.013906492065416387,
-    "wheelchair": true
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   }
 ]

@@ -78,7 +78,8 @@ def parse_detail_page(url):
         'baby_change': baby_change,
         'latitude': float(lat_lng[0]),
         'longitude': float(lat_lng[1]),
-        'wheelchair': disabled
+        'wheelchair': disabled,
+        'covid': "Many community toilets have been affected by Covid restrictions and may not be currently operating"
     }
     print(toilet)
     return toilet
@@ -92,7 +93,7 @@ def create_toilet_list():
 def extract_bromley_json():
     toilet_list = create_toilet_list()
     with open("Data/processed_data_bromley.json", 'w') as dataFile:
-        json.dump(toilet_list, dataFile)
+        json.dump([t for t in toilet_list if t['latitude'] != 0], dataFile)
 
 
 def clean_text(text):
