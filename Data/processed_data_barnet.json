@@ -1,0 +1,211 @@
+[
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Ballards Lane, Finchley, London N3 1NH",
+    "opening_hours": "",
+    "name": "Ballards Lane",
+    "baby_change": false,
+    "latitude": 51.6084,
+    "longitude": -0.185152,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Bell Lane, Hendon, London NW4",
+    "opening_hours": "",
+    "name": "Bell Lane",
+    "baby_change": false,
+    "latitude": 51.5937,
+    "longitude": -0.218111,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Cat Hill, East Barnet, Herts.  EN4",
+    "opening_hours": "",
+    "name": "Cat Hill",
+    "baby_change": false,
+    "latitude": 51.657,
+    "longitude": -0.159426,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Cherry Tree Woods N2 9QH",
+    "opening_hours": "",
+    "name": "Cherry Tree Woods",
+    "baby_change": false,
+    "latitude": 51.5873,
+    "longitude": -0.161078,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Childs Hill Park  NW2",
+    "opening_hours": "",
+    "name": "Childs Hill Park ",
+    "baby_change": false,
+    "latitude": 51.5621,
+    "longitude": -0.229668,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Copthall Playing Fields  NW7",
+    "opening_hours": "",
+    "name": "Copthall Playing Fields ",
+    "baby_change": false,
+    "latitude": 51.6147,
+    "longitude": -0.230102,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Edgwarebury Park  HA8",
+    "opening_hours": "",
+    "name": "Edgwarebury Park ",
+    "baby_change": false,
+    "latitude": 51.6146,
+    "longitude": -0.277437,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Friary Park  N20 0NR",
+    "opening_hours": "",
+    "name": "Friary Park ",
+    "baby_change": false,
+    "latitude": 51.6191,
+    "longitude": -0.167896,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Hendon Park Pavillion  NW4",
+    "opening_hours": "",
+    "name": "Hendon Park Pavillion ",
+    "baby_change": false,
+    "latitude": 51.5937,
+    "longitude": -0.218111,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Lyttleton Playing Fields  N2 0DQ",
+    "opening_hours": "",
+    "name": "Lyttleton Playing Fields ",
+    "baby_change": false,
+    "latitude": 51.5856,
+    "longitude": -0.177618,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Mill Hill Park Pavillion  NW7",
+    "opening_hours": "",
+    "name": "Mill Hill Park Pavillion ",
+    "baby_change": false,
+    "latitude": 51.6147,
+    "longitude": -0.230102,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Montrose Playing Fields  HA8",
+    "opening_hours": "",
+    "name": "Montrose Playing Fields ",
+    "baby_change": false,
+    "latitude": 51.6146,
+    "longitude": -0.277437,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Oakhill Park  - Parkside Gardens East Barnet EN4",
+    "opening_hours": "",
+    "name": "Oakhill Park  - Parkside Gardens East Barnet",
+    "baby_change": false,
+    "latitude": 51.657,
+    "longitude": -0.159426,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Princes Park  NW11",
+    "opening_hours": "",
+    "name": "Princes Park ",
+    "baby_change": false,
+    "latitude": 51.5832,
+    "longitude": -0.194411,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Stanhope Road, London, N12 9DX",
+    "opening_hours": "",
+    "name": "Stanhope Road",
+    "baby_change": false,
+    "latitude": 51.6147,
+    "longitude": -0.174747,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Tudor Sports Ground  EN5",
+    "opening_hours": "",
+    "name": "Tudor Sports Ground ",
+    "baby_change": false,
+    "latitude": 51.6569,
+    "longitude": -0.206764,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Victoria Park  N3 2PX",
+    "opening_hours": "",
+    "name": "Victoria Park ",
+    "baby_change": false,
+    "latitude": 51.6026,
+    "longitude": -0.18586,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Victoria Recreation Ground  EN4",
+    "opening_hours": "",
+    "name": "Victoria Recreation Ground ",
+    "baby_change": false,
+    "latitude": 51.657,
+    "longitude": -0.159426,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Watling Avenue, Burnt Oak, Edgeware, Middlesex HA8",
+    "opening_hours": "",
+    "name": "Watling Avenue",
+    "baby_change": false,
+    "latitude": 51.6146,
+    "longitude": -0.277437,
+    "wheelchair": false
+  }
+]

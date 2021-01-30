@@ -22,4 +22,4 @@ import NewhamToilets
 # HealthmaticToilets.healthmatic_excel_to_json()
 # KensingtonChelseaToilets.kensington_data_to_json()
 # BromleyToilets.extract_bromley_json()
-NewhamToilets.extract_all_newham_toilets()
+# NewhamToilets.extract_all_newham_toilets()
