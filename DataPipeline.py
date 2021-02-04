@@ -9,6 +9,7 @@ import HealthmaticToilets
 import KensingtonChelseaToilets
 import BromleyToilets
 import NewhamToilets
+import BarnetToilets2
 
 # OpenStreetMapToilets.get_openstreetmap_data()
 # OpenStreetMapToilets.write_filtered_json()
@@ -23,3 +24,4 @@ import NewhamToilets
 # KensingtonChelseaToilets.kensington_data_to_json()
 # BromleyToilets.extract_bromley_json()
 # NewhamToilets.extract_all_newham_toilets()
+BarnetToilets2.barnet_libraries_csv_to_json()

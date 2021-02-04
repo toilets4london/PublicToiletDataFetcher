@@ -1,0 +1,123 @@
+[
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "Burnt Oak Library",
+    "opening_hours": "Mo,Tu,We,Fr,Sa 09:00-17:00; Th 09:00-20:00; Su off",
+    "name": "Burnt Oak Library",
+    "latitude": 51.6028082,
+    "longitude": -0.2640125,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  },
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "Chipping Barnet Library",
+    "opening_hours": "Mo 10:00-20:00; Tu,Th,Sa 09:30-17:00; We,Fr 09:30-20:00; Su 14:00-17:00",
+    "name": "Chipping Barnet Library",
+    "latitude": 51.6561286,
+    "longitude": -0.2047384886501633,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  },
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "Church End Library",
+    "opening_hours": "Mo 09:30-20:00; Tu,Th-Sa 09:30-17:00; We 10:00-20:00; Su off",
+    "name": "Church End Library",
+    "latitude": 51.5999559,
+    "longitude": -0.1950956,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  },
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "East Barnet Library",
+    "opening_hours": "Mo,We,Fr,Sa 09:30-17:00; Tu 09:30-20:00; Th 10:00-20:00; Su off",
+    "name": "East Barnet Library",
+    "latitude": 51.644388750000005,
+    "longitude": -0.16155560966923524,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  },
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "East Finchley Library",
+    "opening_hours": "Mo,Th,Sa 09:30-17:00; We 09:30-20:00; Fr 10:00-17:00; Tu,Su off",
+    "name": "East Finchley Library",
+    "latitude": 51.59391285,
+    "longitude": -0.1675654183746228,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  },
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "Edgware Library",
+    "opening_hours": "Mo,We,Fr,Sa 09:30-17:00; Tu 09:30-20:00; Th 10:00-20:00; Su 14:00-17:00",
+    "name": "Edgware Library",
+    "latitude": 51.616254,
+    "longitude": -0.2740086059662121,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  },
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "Hendon Library",
+    "opening_hours": "Mo,We 09:30-20:00; Tu,Fr-Sa 09:30-17:00; Th 10:00-20:00; Su 14:00-17:00",
+    "name": "Hendon Library",
+    "latitude": 51.5885771,
+    "longitude": -0.2288779,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  },
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "Mill Hill Library",
+    "opening_hours": " Tu 09:30-20:00;  Mo,Fr-Sa 09:30-17:00; Th 10:00-20:00; We,Su off",
+    "name": "Mill Hill Library",
+    "latitude": 51.61539435,
+    "longitude": -0.24306394627562095,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  },
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "North Finchley Library",
+    "opening_hours": " Tu,Fr 09:30-20:00;  Mo,Sa 09:30-17:00; Th 10:00-17:00; We,Su off",
+    "name": "North Finchley Library",
+    "latitude": 51.6186239,
+    "longitude": -0.17589879726297197,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  },
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "Osidge Library",
+    "opening_hours": " Tu 09:30-20:00;  Mo,Fr 09:30-17:00; We 10:00-17:00; Th,Su off; Sa 09:30-13:00, 14:00-15:00",
+    "name": "Osidge Library",
+    "latitude": 51.6308087,
+    "longitude": -0.1485207,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  },
+  {
+    "data_source": "Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15",
+    "borough": "Barnet",
+    "address": "South Friern Library",
+    "opening_hours": "Mo,Tu,Th,Sa 09:30-13:00, 14:00-17:00; We 10:00-13:00, 14:00-20:00; Fr,Su off",
+    "name": "South Friern Library",
+    "latitude": 51.6135117,
+    "longitude": -0.1534283,
+    "covid": "Library toilets not open during lockdown",
+    "open": false
+  }
+]
