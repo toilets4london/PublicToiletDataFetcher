@@ -7,7 +7,7 @@ Most data is obtained through one of 3 methods
 - B) Spreadsheets / csv file datasets sent in by local authorities and community groups
 - C) Data extracted from the crowd-sourced OpenStreetMap dataset (see Data/query.xml for the query used)
 
-## URLS not scraped yet 
+## URLs not scraped yet 
 
 ### Community toilet schemes
 
