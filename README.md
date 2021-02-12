@@ -1,4 +1,4 @@
-# Various data fetching, cleaning and processing scripts to collect and process data on public toilets in London
+# PublicToiletDataFetcher
 
 ## How we get data
 
