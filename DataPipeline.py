@@ -11,6 +11,7 @@ import BromleyToilets
 import NewhamToilets
 import BarnetToilets2
 import WestminsterToilets
+import BrentToilets
 
 # OpenStreetMapToilets.get_openstreetmap_data()
 # OpenStreetMapToilets.write_filtered_json()
@@ -26,4 +27,5 @@ import WestminsterToilets
 # BromleyToilets.extract_bromley_json()
 # NewhamToilets.extract_all_newham_toilets()
 # BarnetToilets2.barnet_libraries_csv_to_json()
-WestminsterToilets.westminster_csv_to_json()
+# WestminsterToilets.westminster_csv_to_json()
+BrentToilets.get_all_brent_toilets()
