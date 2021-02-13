@@ -13,6 +13,7 @@ import BarnetToilets2
 import WestminsterToilets
 import BrentToilets
 import HaringeyToilets
+import SouthwarkToilets
 
 # OpenStreetMapToilets.get_openstreetmap_data()
 # OpenStreetMapToilets.write_filtered_json()
@@ -30,4 +31,5 @@ import HaringeyToilets
 # BarnetToilets2.barnet_libraries_csv_to_json()
 # WestminsterToilets.westminster_csv_to_json()
 # BrentToilets.get_all_brent_toilets()
-HaringeyToilets.get_haringey_data()
+# HaringeyToilets.get_haringey_data()
+SouthwarkToilets.get_southwark_data()
