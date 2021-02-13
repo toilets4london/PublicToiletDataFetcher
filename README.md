@@ -19,10 +19,8 @@ Most data is obtained through one of 3 methods
 
 - https://www.royalgreenwich.gov.uk/info/200258/parking_transport_and_streets/810/find_a_public_toilet_in_greenwich
 - https://tfl.gov.uk/help-and-contact/public-toilets-in-london
-- https://www.wandsworth.gov.uk/toilets
 - https://www.walthamforest.gov.uk/content/public-toilets
 - https://www.southwark.gov.uk/environment/public-toilets
-- https://www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey
 
 ## Processing
 
