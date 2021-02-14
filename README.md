@@ -14,12 +14,12 @@ Most data is obtained through one of 3 methods
 - https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/
 - https://www.ealing.gov.uk/info/201153/street_care_and_cleaning/200/public_toilets/4
 - https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme
+- https://www.walthamforest.gov.uk/content/public-toilets
   
 ### Public toilets
 
 - https://www.royalgreenwich.gov.uk/info/200258/parking_transport_and_streets/810/find_a_public_toilet_in_greenwich
 - https://tfl.gov.uk/help-and-contact/public-toilets-in-london
-- https://www.walthamforest.gov.uk/content/public-toilets
 
 ## Processing
 
