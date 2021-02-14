@@ -19,7 +19,7 @@ Most data is obtained through one of 3 methods
 ### Public toilets
 
 - https://www.royalgreenwich.gov.uk/info/200258/parking_transport_and_streets/810/find_a_public_toilet_in_greenwich
-- https://tfl.gov.uk/help-and-contact/public-toilets-in-london
+- https://www.bexley.gov.uk/services/parking-transport-and-streets/public-toilets/reporting-issues-public-toilets
 
 ## Processing
 
