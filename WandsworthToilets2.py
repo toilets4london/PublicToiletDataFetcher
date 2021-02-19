@@ -10,20 +10,6 @@ NO_DISABLED = "no disabled access"
 DISABLED = "disabled access"
 
 
-def is_disabled(info):
-    if NO_DISABLED in info.lower():
-        return False
-    elif DISABLED in info.lower():
-        return True
-    return False
-
-
-def is_babychange(info):
-    if "baby" in info.lower():
-        return True
-    return False
-
-
 def find_placemarks(kml):
     pattern = re.compile('<Placemark>.*?</Placemark>', re.S)
     matches = [x.group() for x in re.finditer(pattern, kml)]
@@ -47,32 +33,59 @@ def get_coords(placemark):
     return float(all_coors[1]), float(all_coors[0])
 
 
+def is_disabled(placemark):
+    if NO_DISABLED in placemark.lower():
+        return False
+    elif DISABLED in placemark.lower():
+        return True
+    return False
+
+
+def is_babychange(placemark):
+    return Helpers.is_related_to_babychange(placemark)
+
+
 def get_info(placemark):
     pattern = re.compile('<description>.*?</description>', re.S)
     info = ""
     try:
-        info = Helpers.cleanxml(re.findall(pattern, placemark)[0])
+        info = re.findall(pattern, placemark)[0]
     finally:
         return info
 
 
+def is_open(info):
+    return not Helpers.is_probably_closed_covid(info)
+
+
 def get_addr(info):
+    elements = Helpers.split_text_with_any_possible_delimiter(info)
     addr = ""
-    try:
-        addr = info.split(".")[0]
-        if "disabled" in addr or "baby" in addr:
-            addr = ""
-    finally:
-        return addr
+    for e in elements:
+        if Helpers.is_probably_an_address(e):
+            addr += e
+            addr += " "
+    return Helpers.cleanxml(Helpers.only_single_whitespace(addr))
 
 
-def get_open(info):
-    """ keywords that indicate that toilet is probably closed during lockdown """
-    keywords = ["library", "caf", "centre", "bar", "brasserie", "public house", "pub", "room", "house", "the", "club", "centre", "restaurant", "court"]
-    for k in keywords:
-        if k in info.lower():
-            return False
-    return True
+def get_hours(info):
+    elements = Helpers.split_text_with_any_possible_delimiter(info)
+    hours = ""
+    for e in elements:
+        if Helpers.is_related_to_opening(e):
+            hours += e
+            hours += " "
+    return Helpers.cleanxml(Helpers.only_single_whitespace(hours))
+
+
+def get_fee(info):
+    elements = Helpers.split_text_with_any_possible_delimiter(info)
+    fee = ""
+    for e in elements:
+        if Helpers.is_probably_fee_related(e):
+            fee += e
+            fee += " "
+    return Helpers.cleanxml(Helpers.only_single_whitespace(fee))
 
 
 def process_wandsworth_data():
@@ -83,24 +96,28 @@ def process_wandsworth_data():
     with open("Data/Public & Community Toilets in Wandsworth.kml", "r") as dataFile:
         raw_data = dataFile.read()
 
-    raw_data = raw_data.replace("<![CDATA[@ ", "")
+    raw_data = raw_data.replace("<![CDATA[", "")
     raw_data = raw_data.replace("]]>", "")
     raw_data = raw_data.replace("@", "")
 
     toilets = []
-    for p in find_placemarks(raw_data):
-        raw_toilet = Helpers.only_single_whitespace(p)
+    for raw_toilet in find_placemarks(raw_data):
         lat, lng = get_coords(raw_toilet)
+        disabled = is_disabled(raw_toilet)
+        name = get_name(raw_toilet)
+        babychange = is_babychange(raw_toilet)
+
         info = get_info(raw_toilet)
-        disabled = is_disabled(info)
         addr = get_addr(info)
-        name = get_name(p)
+        opening = get_hours(info)
+        isopen = is_open(info)
+        fee = get_fee(info)
+
         if addr == "":
             addr = name + ", Wandsworth"
-        isopen = get_open(info)
-        babychange = is_babychange(info)
+
         toilet = {
-            'data_source': 'User generated Google Map called "Public & Community Toilets in Wandsworth"',
+            'data_source': 'User generated Google Map called Public & Community Toilets in Wandsworth',
             'borough': 'Wandsworth',
             'address': addr,
             'name': name,
@@ -108,7 +125,9 @@ def process_wandsworth_data():
             'longitude': lng,
             'wheelchair': disabled,
             'open': isopen,
-            'baby_change': babychange
+            'baby_change': babychange,
+            'opening_hours': opening,
+            'fee': fee
         }
         toilets.append(toilet)
 

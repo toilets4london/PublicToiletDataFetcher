@@ -1,105 +1,123 @@
 [
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Disabled Access",
+    "address": "Balham High Road o/s Balham station",
     "name": "Automatic Public Convenience",
     "latitude": 51.443021,
     "longitude": -0.153063,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Disabled Access",
+    "address": "Balham High Road o/s Waitrose",
     "name": "Automatic Public Convenience",
     "latitude": 51.445013,
     "longitude": -0.151647,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Disabled Access",
+    "address": "Balham High Road",
     "name": "Automatic Public Convenience",
     "latitude": 51.43619,
     "longitude": -0.15884,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Balham Library",
+    "address": " Balham Library",
     "name": "Community Toilet",
     "latitude": 51.445987,
     "longitude": -0.152591,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Battersea Arts Centre",
+    "address": " Battersea Arts Centre",
     "name": "Community Toilet",
     "latitude": 51.46483,
     "longitude": -0.160721,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Battersea Library",
+    "address": " Battersea Library",
     "name": "Community Toilet",
     "latitude": 51.463854,
     "longitude": -0.163977,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Battersea Park Library",
+    "address": " Battersea Park Library",
     "name": "Community Toilet",
     "latitude": 51.474425,
     "longitude": -0.154593,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Battersea Rise Cemetery (exact location unknown)",
+    "address": "Community Toilet, Wandsworth",
     "name": "Community Toilet",
     "latitude": 51.459163,
     "longitude": -0.170015,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Bliss Barbers",
+    "address": " Bliss Barbers",
     "name": "Community Toilet",
     "latitude": 51.465536,
     "longitude": -0.155437,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Cantuccio Restaurant",
     "name": "Community Toilet",
@@ -107,10 +125,12 @@
     "longitude": -0.176216,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": "Dr Johnson Avenue car park",
     "name": "Automatic Public Convenience",
@@ -118,10 +138,12 @@
     "longitude": -0.146119,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Dukes Head Public House",
     "name": "Community Toilet",
@@ -129,10 +151,12 @@
     "longitude": -0.217162,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Earlsfield Library",
     "name": "Community Toilet",
@@ -140,10 +164,12 @@
     "longitude": -0.186778,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Exhibit Bar",
     "name": "Community Toilet",
@@ -151,32 +177,38 @@
     "longitude": -0.151446,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Garratt Terrace",
+    "address": "Garratt Terrace ",
     "name": "Automatic Public Convenience",
     "latitude": 51.427811,
     "longitude": -0.168761,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": " Gazette Brasserie",
+    "address": " Gazette Brasserie ",
     "name": "Community Toilet",
     "latitude": 51.444738,
     "longitude": -0.152125,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Gazette Brasserie",
     "name": "Community Toilet",
@@ -184,21 +216,25 @@
     "longitude": -0.182358,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Junction Approach",
+    "address": "Junction Approach ",
     "name": "Automatic Public Convenience",
     "latitude": 51.464738,
     "longitude": -0.168491,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": "20p"
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Kazans",
     "name": "Community Toilet",
@@ -206,10 +242,12 @@
     "longitude": -0.186674,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Le Petit Bistro",
     "name": "Community Toilet",
@@ -217,21 +255,25 @@
     "longitude": -0.150841,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": " Leaders Gardens Cafe, Disabled Access",
+    "address": " Leaders Gardens Cafe",
     "name": "Community Toilet",
     "latitude": 51.471004,
     "longitude": -0.222232,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": "Longmead Road",
     "name": "Automatic Public Convenience",
@@ -239,65 +281,77 @@
     "longitude": -0.16674,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "McDonald's",
+    "address": " McDonald's",
     "name": "Community Toilet",
     "latitude": 51.463132,
     "longitude": -0.167912,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "McDonald's",
+    "address": " McDonald's",
     "name": "Community Toilet",
     "latitude": 51.463736,
     "longitude": -0.215802,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "McDonald's",
+    "address": " McDonald's",
     "name": "Community Toilet",
     "latitude": 51.426875,
     "longitude": -0.166706,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Mel's Cafe",
+    "address": " Mel's Cafe",
     "name": "Community Toilet",
     "latitude": 51.439776,
     "longitude": -0.186672,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": " Northcote Library",
+    "address": "Community Toilet, Wandsworth",
     "name": "Community Toilet",
     "latitude": 51.455085,
     "longitude": -0.164425,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Platform 1 Cafe",
     "name": "Community Toilet",
@@ -305,10 +359,12 @@
     "longitude": -0.169859,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": "Putney Bridge Road/Putney High Street",
     "name": "Automatic Public Convenience",
@@ -316,10 +372,12 @@
     "longitude": -0.214278,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Putney Library",
     "name": "Community Toilet",
@@ -327,10 +385,12 @@
     "longitude": -0.216089,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Putney Vale Cemetery",
     "name": "Community Toilet",
@@ -338,10 +398,12 @@
     "longitude": -0.241356,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Roehampton Library",
     "name": "Community Toilet",
@@ -349,21 +411,25 @@
     "longitude": -0.241946,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "MON-SUN 0700-2300Also CTS ParticipantCustomer toilet is on Council list but of dubious existance",
-    "name": "",
+    "address": "Also CTS Participant Customer toilet is on Council list but of dubious existance ",
+    "name": "Sainsbury's Earlsfield (Open London)",
     "latitude": 51.44198,
     "longitude": -0.187261,
-    "wheelchair": false,
+    "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "MON-SUN 0700-2300",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Scoffers",
     "name": "Community Toilet",
@@ -371,10 +437,12 @@
     "longitude": -0.162896,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Seahorse Fish Bar",
     "name": "Community Toilet",
@@ -382,10 +450,12 @@
     "longitude": -0.187009,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Southfields Library",
     "name": "Community Toilet",
@@ -393,10 +463,12 @@
     "longitude": -0.208746,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Spencer Arms Public House",
     "name": "Community Toilet",
@@ -404,10 +476,12 @@
     "longitude": -0.22809,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Stadium Cafe",
     "name": "Community Toilet",
@@ -415,10 +489,12 @@
     "longitude": -0.185169,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Tatran",
     "name": "Community Toilet",
@@ -426,10 +502,12 @@
     "longitude": -0.141218,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " The Brewers Inn Public House",
     "name": "Community Toilet",
@@ -437,10 +515,12 @@
     "longitude": -0.18956,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " The Cedar Hotel (The Crown Hotel?)",
     "name": "Community Toilet",
@@ -448,10 +528,12 @@
     "longitude": -0.156051,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " The Earl Spencer",
     "name": "Community Toilet",
@@ -459,10 +541,12 @@
     "longitude": -0.199405,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Fish Club",
     "name": "Community Toilet",
@@ -470,10 +554,12 @@
     "longitude": -0.178005,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Garden House",
     "name": "Community Toilet",
@@ -481,10 +567,12 @@
     "longitude": -0.172455,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " The Long Room",
     "name": "Community Toilet",
@@ -492,10 +580,12 @@
     "longitude": -0.163934,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " The Merchant",
     "name": "Community Toilet",
@@ -503,10 +593,12 @@
     "longitude": -0.163617,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " The Selkirk Public House",
     "name": "Community Toilet",
@@ -514,10 +606,12 @@
     "longitude": -0.16961,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " The Windsor Castle",
     "name": "Community Toilet",
@@ -525,32 +619,38 @@
     "longitude": -0.169803,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Wandsworth Town Hall Concourse (Wandsworth High Street)",
     "name": "Community Toilet",
     "latitude": 51.456848,
     "longitude": -0.190544,
     "wheelchair": true,
-    "open": true,
-    "baby_change": false
+    "open": false,
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Wandsworth Town Hall (Fairfield Street)",
     "name": "Community Toilet",
     "latitude": 51.457333,
     "longitude": -0.190158,
     "wheelchair": true,
-    "open": true,
-    "baby_change": false
+    "open": false,
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Wandsworth Cemetery",
     "name": "Community Toilet",
@@ -558,21 +658,25 @@
     "longitude": -0.180588,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": " Wandsworth Park, Putney Bridge Road (Disabled Access)",
+    "address": " Wandsworth Park",
     "name": "Automatic Public Convenience",
     "latitude": 51.461149,
     "longitude": -0.202347,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Willie Gunn",
     "name": "Community Toilet",
@@ -580,54 +684,64 @@
     "longitude": -0.187026,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "York Gardens Library & Community Centre",
+    "address": " York Gardens Library & Community Centre",
     "name": "Community Toilet",
     "latitude": 51.467289,
     "longitude": -0.177712,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "0800 - Dusk",
+    "address": "Park Toilet, Wandsworth",
     "name": "Park Toilet",
     "latitude": 51.479819,
     "longitude": -0.159345,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "0800 - Dusk",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "0800 - Dusk",
+    "address": "Park Toilet, Wandsworth",
     "name": "Park Toilet",
     "latitude": 51.481704,
     "longitude": -0.155525,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "0800 - Dusk",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "0800-Dusk",
+    "address": "Children's Toilet?",
     "name": "Park Toilet",
     "latitude": 51.475302,
     "longitude": -0.160632,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "0800-Dusk",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": "Cafe Opening Hours",
     "name": "Community Toilet",
@@ -635,10 +749,12 @@
     "longitude": -0.145322,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": "Cafe Opening Hours",
     "name": "Park Toilet",
@@ -646,164 +762,194 @@
     "longitude": -0.170503,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Behind Barriers24Hr?Baby-Changing (not Accessible)Disabled Access20p",
+    "address": "Clapham Junction Behind Barriers",
     "name": "Station Toilet",
     "latitude": 51.464602,
     "longitude": -0.170202,
     "wheelchair": true,
     "open": false,
-    "baby_change": true
+    "baby_change": true,
+    "opening_hours": "24Hr?",
+    "fee": "20p"
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "No Baby-ChangingNo Disabled AccessFree",
+    "address": "Platform 2/3",
     "name": "Station Toilet",
     "latitude": 51.446218,
     "longitude": -0.163658,
     "wheelchair": false,
     "open": true,
-    "baby_change": true
+    "baby_change": true,
+    "opening_hours": "",
+    "fee": "Free"
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "1 x Disabled Access ToiletFree",
+    "address": "Platform 1/2",
     "name": "Station Toilet",
     "latitude": 51.442894,
     "longitude": -0.152333,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": "Free"
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "MON-FRI 0700-2200 SAT 0200-Midnight SUN 1000-1600",
+    "address": "Tesco Clapham (Open London), Wandsworth",
     "name": "Tesco Clapham (Open London)",
     "latitude": 51.452803,
     "longitude": -0.146942,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": true,
+    "opening_hours": "MON-FRI 0700-2200 SAT 0200-Midnight SUN 1000-1600",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Disabled AccessMON-SAT 0700-2200 SUN 1100-1700",
-    "name": "",
+    "address": "Sainsbury's Balham (Open London), Wandsworth",
+    "name": "Sainsbury's Balham (Open London)",
     "latitude": 51.443817,
     "longitude": -0.151212,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": true,
+    "opening_hours": "MON-SAT 0700-2200 SUN 1100-1700",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Disabled AccessMON-SAT 0700-2200 SUN 1100-1700",
-    "name": "",
+    "address": "Sainsbury's Wandsworth (Open London), Wandsworth",
+    "name": "Sainsbury's Wandsworth (Open London)",
     "latitude": 51.45394,
     "longitude": -0.191231,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": true,
+    "opening_hours": "MON-SAT 0700-2200 SUN 1100-1700",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Baby-ChangingNo Disabled AccessMON-SAT 0700-2100 SUN 1100-1700",
-    "name": "",
+    "address": "Sainsbury's Putney (Open London), Wandsworth",
+    "name": "Sainsbury's Putney (Open London)",
     "latitude": 51.46231,
     "longitude": -0.215693,
     "wheelchair": false,
     "open": true,
-    "baby_change": true
+    "baby_change": true,
+    "opening_hours": "MON-SAT 0700-2100 SUN 1100-1700",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Disabled AccessMON-SAT 0700-2200 SUN 1100-1700",
-    "name": "",
+    "address": "Sainsbury's Tooting Broadway (Open London), Wandsworth",
+    "name": "Sainsbury's Tooting Broadway (Open London)",
     "latitude": 51.427257,
     "longitude": -0.168464,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": true,
+    "opening_hours": "MON-SAT 0700-2200 SUN 1100-1700",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "24Hr",
-    "name": "",
+    "address": "Sainsbury's Lower Richmond Road (Open London), Wandsworth",
+    "name": "Sainsbury's Lower Richmond Road (Open London)",
     "latitude": 51.46757,
     "longitude": -0.221049,
-    "wheelchair": false,
+    "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "24Hr",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "TUES-FRI 24HrSAT 0000-2200SUN 1100-1700",
+    "address": "ASDA Clapham Junction (Open London), Wandsworth",
     "name": "ASDA Clapham Junction (Open London)",
     "latitude": 51.46489,
     "longitude": -0.164688,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "MON 0700-2400 TUES-FRI 24Hr SAT 0000-2200 SUN 1100-1700",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "TUES-FRI 24Hr SAT 0000-2200 SUN 1100-1700",
+    "address": "ASDA Roehampton (Open London), Wandsworth",
     "name": "ASDA Roehampton (Open London)",
     "latitude": 51.439564,
     "longitude": -0.245991,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "MON 0730-2400 TUES-FRI 24Hr SAT 0000-2200 SUN 1100-1700",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "MON-WED 0930-1900 THURS 0930-2100 FRI 0930-2000 SAT 0930-1900 SUN 1100-1700",
+    "address": "Debenhams Clapham Junction, Wandsworth",
     "name": "Debenhams Clapham Junction",
     "latitude": 51.463593,
     "longitude": -0.167488,
-    "wheelchair": false,
+    "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "MON-WED 0930-1900 THURS 0930-2100 FRI 0930-2000 SAT 0930-1900 SUN 1100-1700",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Putney Exchange Toilets, Top of escalator",
+    "address": "Top of escalator",
     "name": "Shopping Centre Toilets",
     "latitude": 51.463794,
     "longitude": -0.216873,
     "wheelchair": false,
     "open": true,
-    "baby_change": true
+    "baby_change": true,
+    "opening_hours": "MON-WED 0900-1800 THURS 0900-1900 FRI-SAT 0900-1800 SUN 1100-1700",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Wandsworth Southside Shopping Centre1st Floor (Food Court)MON-SAT 0900-1900 SUN 1100-1700",
+    "address": " Wandsworth Southside Shopping Centre 1st Floor (Food Court)",
     "name": "Shopping Centre Toilets",
     "latitude": 51.454475,
     "longitude": -0.193613,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "MON-SAT 0900-1900 SUN 1100-1700",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": " Avalon Public House",
     "name": "Community Toilet",
@@ -811,21 +957,25 @@
     "longitude": -0.148165,
     "wheelchair": true,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Grain de Caf\u00c3\u00a9",
+    "address": "Grain de Cafe",
     "name": "Community Toilet",
     "latitude": 51.447546,
     "longitude": -0.148755,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
     "address": "Locale Restaurant",
     "name": "Community Toilet",
@@ -833,204 +983,242 @@
     "longitude": -0.156276,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Fuel",
+    "address": "Fuel ",
     "name": "Community Toilet",
     "latitude": 51.452188,
     "longitude": -0.147575,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Community Toilet, Wandsworth",
+    "address": "Gemini Hair & Beauty ",
     "name": "Community Toilet",
     "latitude": 51.445116,
     "longitude": -0.151247,
     "wheelchair": false,
-    "open": true,
-    "baby_change": false
+    "open": false,
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Community Toilet, Wandsworth",
+    "address": "McDonald's ",
     "name": "Community Toilet",
     "latitude": 51.443723,
     "longitude": -0.152446,
-    "wheelchair": false,
+    "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "The Green Man Public House",
+    "address": "The Green Man Public House ",
     "name": "Community Toilet",
     "latitude": 51.453399,
     "longitude": -0.221626,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": " The Bolingbroke",
+    "address": " The Bolingbroke ",
     "name": "Community Toilet",
     "latitude": 51.453796,
     "longitude": -0.164108,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": " Northcote Caf\u00c3\u00a9",
+    "address": "Community Toilet, Wandsworth",
     "name": "Community Toilet",
     "latitude": 51.458224,
     "longitude": -0.166131,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "The Duchess Public House",
+    "address": "The Duchess Public House ",
     "name": "Community Toilet",
     "latitude": 51.478951,
     "longitude": -0.142983,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Community Toilet, Wandsworth",
+    "address": "Yvonne's Cafe ",
     "name": "Community Toilet",
     "latitude": 51.419449,
     "longitude": -0.146969,
     "wheelchair": false,
-    "open": true,
-    "baby_change": false
+    "open": false,
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Urban Coffee",
+    "address": "Urban Coffee ",
     "name": "Community Toilet",
     "latitude": 51.427258,
     "longitude": -0.168912,
     "wheelchair": false,
-    "open": true,
-    "baby_change": false
+    "open": false,
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "The Bec Bar",
+    "address": "The Bec Bar ",
     "name": "Community Toilet",
     "latitude": 51.435145,
     "longitude": -0.15765,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "The Coffee Lounge",
+    "address": "The Coffee Lounge ",
     "name": "Community Toilet",
     "latitude": 51.423582,
     "longitude": -0.172485,
     "wheelchair": false,
     "open": false,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Masaledar",
+    "address": "Masaledar ",
     "name": "Community Toilet",
     "latitude": 51.432723,
     "longitude": -0.16362,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Smith Bros",
+    "address": "Smith Bros ",
     "name": "Community Toilet",
     "latitude": 51.425619,
     "longitude": -0.164873,
     "wheelchair": true,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Exquisite Hair and Beauty",
+    "address": "Exquisite Hair and Beauty ",
     "name": "Community Toilet",
     "latitude": 51.422898,
     "longitude": -0.160125,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Community Toilet, Wandsworth",
+    "address": "Disotto's Grill ",
     "name": "Community Toilet",
     "latitude": 51.431917,
     "longitude": -0.163985,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Battersea Park Road o/s Harpsden Road",
+    "address": "Battersea Park Road o/s Harpsden Road ",
     "name": "Automatic Public Convenience",
     "latitude": 51.4744,
     "longitude": -0.156276,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": "20p"
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Beyond security arch + bag search",
+    "address": "Beyond security arch + bag search ",
     "name": "Community Toilet",
     "latitude": 51.464536,
     "longitude": -0.162182,
     "wheelchair": false,
-    "open": true,
-    "baby_change": false
+    "open": false,
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   },
   {
-    "data_source": "User generated Google Map called \"Public & Community Toilets in Wandsworth\"",
+    "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "No longer listed by council",
+    "address": "Magdalen Road nr Earlsfield Station ",
     "name": "Automatic Public Convenience",
     "latitude": 51.441888,
     "longitude": -0.187352,
     "wheelchair": false,
     "open": true,
-    "baby_change": false
+    "baby_change": false,
+    "opening_hours": "",
+    "fee": ""
   }
 ]
