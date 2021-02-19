@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Public & Community Toilets in Wandsworth]]></name>
+    <description>A map of all public toilets and community toilets run by Wandsworth Borough Council, including Open London, Stations, Parks and Shopping Centres.</description>
+    <Style id="icon-101-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/101-pink-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-101-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/101-pink-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-101">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-101-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-101-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-111-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-111-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/111-purple-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-111">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-111-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-111-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-123-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-123-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-123">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-123-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-123-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-157-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/157-yellow-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-157-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/157-yellow-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-157">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-157-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-157-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-61-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-61-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-61">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-61-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-61-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description><![CDATA[Balham High Road o/s Balham station<br>Disabled Access]]></description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.153063,51.443021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description><![CDATA[Balham High Road o/s Waitrose<br>Disabled Access]]></description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.151647,51.445013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description><![CDATA[Balham High Road<br>Disabled Access]]></description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.15884,51.43619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ Balham Library.<br>Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.152591,51.445987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ Battersea Arts Centre.<br>Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.160721,51.46483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ Battersea Library.<br>Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.163977,51.463854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ Battersea Park Library.<br>Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.154593,51.474425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ Battersea Rise Cemetery (exact location unknown).<br>Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.170015,51.459163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ Bliss Barbers.<br>No Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.155437,51.465536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Cantuccio Restaurant. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.176216,51.460358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description>Dr Johnson Avenue car park. Disabled Access</description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.146119,51.431386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Dukes Head Public House. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.217162,51.467169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Earlsfield Library. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.186778,51.442433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Exhibit Bar. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.151446,51.443318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description>Garratt Terrace. Disabled Access.</description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.168761,51.427811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Gazette Brasserie. Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.152125,51.444738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Gazette Brasserie. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.182358,51.465759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description>Junction Approach. Disabled Access. 20p.</description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.168491,51.464738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Kazans. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.186674,51.438804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Le Petit Bistro. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.150841,51.444456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Leaders Gardens Cafe, Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.222232,51.471004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description>Longmead Road. Disabled Access</description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.16674,51.427342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ McDonald's. Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.167912,51.463132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ McDonald's. Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.215802,51.463736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ McDonald's. Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.166706,51.426875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ Mel's Cafe. No Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.186672,51.439776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Northcote Library. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.164425,51.455085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Platform 1 Cafe. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.169859,51.465625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description>Putney Bridge Road/Putney High Street. Disabled Access</description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.214278,51.464687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Putney Library. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.216089,51.46169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Putney Vale Cemetery. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.241356,51.440059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Roehampton Library. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.241946,51.449768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sainsbury's Earlsfield (Open London)]]></name>
+        <description><![CDATA[Disabled Access (according to Wandsworth Council - not according to Sainsburys website)<br>MON-SUN 0700-2300<br>Also CTS Participant<br><br>Customer toilet is on Council list but of dubious existance.]]></description>
+        <styleUrl>#icon-101</styleUrl>
+        <Point>
+          <coordinates>
+            -0.187261,51.44198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Scoffers. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.162896,51.461167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Seahorse Fish Bar. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.187009,51.439189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Southfields Library. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.208746,51.443553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Spencer Arms Public House. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.22809,51.468252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Stadium Cafe. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.185169,51.434086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Tatran. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.141218,51.424795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ The Brewers Inn Public House. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.18956,51.45673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ The Cedar Hotel (The Crown Hotel?). No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.156051,51.465668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ The Earl Spencer. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.199405,51.448234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Fish Club. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.178005,51.45994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Garden House. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.172455,51.423865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ The Long Room. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.163934,51.4247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ The Merchant. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.163617,51.460854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ The Selkirk Public House. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.16961,51.43031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ The Windsor Castle. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.169803,51.463243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Wandsworth Town Hall Concourse (Wandsworth High Street). Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.190544,51.456848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Wandsworth Town Hall (Fairfield Street). Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.190158,51.457333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Wandsworth Cemetery. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.180588,51.446946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description>@ Wandsworth Park, Putney Bridge Road (Disabled Access)</description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.202347,51.461149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Willie Gunn. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.187026,51.439993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@ York Gardens Library & Community Centre. Disabled Access]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.177712,51.467289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park Toilet</name>
+        <description>0800 - Dusk</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -0.159345,51.479819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park Toilet</name>
+        <description>0800 - Dusk</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -0.155525,51.481704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park Toilet</name>
+        <description><![CDATA[Children's Toilet?<br>0800-Dusk]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -0.160632,51.475302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@San Remo Cafe? Exact Location unknown. No Disabled Access<br>Cafe Opening Hours]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.145322,51.434009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park Toilet</name>
+        <description><![CDATA[Cafe Toilet (Not CTS-Participant)<br>Cafe Opening Hours]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -0.170503,51.452255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Station Toilet</name>
+        <description><![CDATA[@Clapham Junction. <br>Behind Barriers<br>24Hr?<br>Baby-Changing (not Accessible)<br>Disabled Access<br>20p]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            -0.170202,51.464602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Station Toilet</name>
+        <description><![CDATA[Platform 2/3<br>No Baby-Changing<br>No Disabled Access<br>Free]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            -0.163658,51.446218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Station Toilet</name>
+        <description><![CDATA[Platform 1/2<br>1 x Disabled Access Toilet<br>Free]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            -0.152333,51.442894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tesco Clapham (Open London)</name>
+        <description><![CDATA[Baby-Changing<br>MON-FRI 0700-2200 SAT 0200-Midnight SUN 1000-1600]]></description>
+        <styleUrl>#icon-101</styleUrl>
+        <Point>
+          <coordinates>
+            -0.146942,51.452803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sainsbury's Balham (Open London)]]></name>
+        <description><![CDATA[Baby Changing<br>Disabled Access<br>MON-SAT 0700-2200 SUN 1100-1700]]></description>
+        <styleUrl>#icon-101</styleUrl>
+        <Point>
+          <coordinates>
+            -0.151212,51.443817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sainsbury's Wandsworth (Open London)]]></name>
+        <description><![CDATA[Baby-Changing<br>Disabled Access<br>MON-SAT 0700-2200 SUN 1100-1700]]></description>
+        <styleUrl>#icon-101</styleUrl>
+        <Point>
+          <coordinates>
+            -0.191231,51.45394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sainsbury's Putney (Open London)]]></name>
+        <description><![CDATA[NO TOILET<br>Baby-Changing<br>No Disabled Access<br>MON-SAT 0700-2100 SUN 1100-1700]]></description>
+        <styleUrl>#icon-101</styleUrl>
+        <Point>
+          <coordinates>
+            -0.215693,51.46231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sainsbury's Tooting Broadway (Open London)]]></name>
+        <description><![CDATA[Baby-Changing<br>Disabled Access<br>MON-SAT 0700-2200 SUN 1100-1700]]></description>
+        <styleUrl>#icon-101</styleUrl>
+        <Point>
+          <coordinates>
+            -0.168464,51.427257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sainsbury's Lower Richmond Road (Open London)]]></name>
+        <description><![CDATA[Disabled Access<br>24Hr]]></description>
+        <styleUrl>#icon-101</styleUrl>
+        <Point>
+          <coordinates>
+            -0.221049,51.46757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ASDA Clapham Junction (Open London)</name>
+        <description><![CDATA[MON 0700-2400<br>TUES-FRI 24Hr<br>SAT 0000-2200<br>SUN 1100-1700]]></description>
+        <styleUrl>#icon-101</styleUrl>
+        <Point>
+          <coordinates>
+            -0.164688,51.46489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ASDA Roehampton (Open London)</name>
+        <description><![CDATA[MON 0730-2400<br>TUES-FRI 24Hr <br>SAT 0000-2200 <br>SUN 1100-1700]]></description>
+        <styleUrl>#icon-101</styleUrl>
+        <Point>
+          <coordinates>
+            -0.245991,51.439564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debenhams Clapham Junction</name>
+        <description><![CDATA[Disabled Access<br>MON-WED 0930-1900 THURS 0930-2100 FRI 0930-2000 SAT 0930-1900 SUN 1100-1700]]></description>
+        <styleUrl>#icon-101</styleUrl>
+        <Point>
+          <coordinates>
+            -0.167488,51.463593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Centre Toilets</name>
+        <description><![CDATA[@ Putney Exchange Toilets, Top of escalator.  Baby Changing.<br>MON-WED 0900-1800 THURS 0900-1900 FRI-SAT 0900-1800 SUN 1100-1700]]></description>
+        <styleUrl>#icon-111</styleUrl>
+        <Point>
+          <coordinates>
+            -0.216873,51.463794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shopping Centre Toilets</name>
+        <description><![CDATA[@ Wandsworth Southside Shopping Centre<br>1st Floor (Food Court)<br>MON-SAT 0900-1900 SUN 1100-1700]]></description>
+        <styleUrl>#icon-111</styleUrl>
+        <Point>
+          <coordinates>
+            -0.193613,51.454475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Avalon Public House. Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.148165,51.450958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@Grain de Café. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.148755,51.447546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@Locale Restaurant. No Disabled Access</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.156276,51.43832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@Fuel. No Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.147575,51.452188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@Gemini Hair & Beauty. No Disabled Access.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.151247,51.445116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@McDonald's. Disabled Access.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.152446,51.443723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@The Green Man Public House. No Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.221626,51.453399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ The Bolingbroke. No Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.164108,51.453796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@ Northcote Café. No Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.166131,51.458224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@The Duchess Public House. No Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.142983,51.478951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@Yvonne's Café. No Disabled Access.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.146969,51.419449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@Urban Coffee. No Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.168912,51.427258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@The Bec Bar. No Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.15765,51.435145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@The Coffee Lounge. No Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.172485,51.423582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@Masaledar. No Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.16362,51.432723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@Smith Bros. Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.164873,51.425619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description>@Exquisite Hair and Beauty. No Disabled Access.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.160125,51.422898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@Disotto's Grill. No Disabled Access.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.163985,51.431917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description>Battersea Park Road o/s Harpsden Road. 20p.</description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.156276,51.4744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Toilet</name>
+        <description><![CDATA[@Magistrates Court (unofficial participant)<br>Beyond security arch + bag search.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.162182,51.464536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Automatic Public Convenience</name>
+        <description><![CDATA[Magdalen Road nr Earlsfield Station<br><br>No longer listed by council.]]></description>
+        <styleUrl>#icon-157</styleUrl>
+        <Point>
+          <coordinates>
+            -0.187352,51.441888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
