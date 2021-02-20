@@ -16,6 +16,7 @@ import HaringeyToilets
 import SouthwarkToilets
 import HounslowToilets
 import WandsworthToilets2
+import TransportForLondonToilets
 
 # OpenStreetMapToilets.get_openstreetmap_data()
 # OpenStreetMapToilets.write_filtered_json()
@@ -36,4 +37,5 @@ import WandsworthToilets2
 # HaringeyToilets.get_haringey_data()
 # SouthwarkToilets.get_southwark_data()
 # HounslowToilets.get_hounslow_toilets()
-WandsworthToilets2.process_wandsworth_data()
+# WandsworthToilets2.process_wandsworth_data()
+TransportForLondonToilets.get_tfl_toilets()
