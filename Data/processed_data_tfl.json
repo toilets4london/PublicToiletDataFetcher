@@ -45,15 +45,6 @@
     "borough": "Brent"
   },
   {
-    "name": "Amersham Underground Station",
-    "latitude": 51.674126,
-    "longitude": -0.607714,
-    "data_source": "Transport For London Open Data API",
-    "address": "Amersham Station, Chiltern Avenue, Amersham, Buckinghamshire, South East, England, HP6 5FG",
-    "opening_hours": "",
-    "borough": "Other"
-  },
-  {
     "name": "Becontree Underground Station",
     "latitude": 51.540331,
     "longitude": 0.127016,
@@ -79,15 +70,6 @@
     "address": "Barking, Station Parade, London Borough of Barking and Dagenham, IG11 8EA",
     "opening_hours": "SunFrom : 06:15 , MonFriTo : 23:30 , SatTo : 23:30 , MonFriFrom : 05:15 , SunTo : 23:30 , SatFrom : 05:15 , ",
     "borough": "Barking and Dagenham"
-  },
-  {
-    "name": "Buckhurst Hill Underground Station",
-    "latitude": 51.626605,
-    "longitude": 0.046757,
-    "data_source": "Transport For London Open Data API",
-    "address": "Buckhurst Hill - Central Line - Eastbound, Salisbury Gardens, Buckhurst Hill, Epping Forest, Essex, East of England, England, IG9 5ER",
-    "opening_hours": "",
-    "borough": "Other"
   },
   {
     "name": "Bank Underground Station",
@@ -126,15 +108,6 @@
     "borough": "Westminster"
   },
   {
-    "name": "Chalfont & Latimer Underground Station",
-    "latitude": 51.667985,
-    "longitude": -0.560689,
-    "data_source": "Transport For London Open Data API",
-    "address": "Chalfont & Latimer, Station Approach, Little Chalfont, Buckinghamshire, South East, England, HP7 9PR",
-    "opening_hours": "",
-    "borough": "Other"
-  },
-  {
     "name": "Cockfosters Underground Station",
     "latitude": 51.65152,
     "longitude": -0.149171,
@@ -153,24 +126,6 @@
     "borough": "Harrow"
   },
   {
-    "name": "Chesham Underground Station",
-    "latitude": 51.705208,
-    "longitude": -0.611247,
-    "data_source": "Transport For London Open Data API",
-    "address": "Discover The Chess Valley, Station Yard, Old Town, Chesham, Buckinghamshire, South East, England, HP5 1DB",
-    "opening_hours": "",
-    "borough": "Other"
-  },
-  {
-    "name": "Chigwell Underground Station",
-    "latitude": 51.617916,
-    "longitude": 0.075041,
-    "data_source": "Transport For London Open Data API",
-    "address": "Station Road, Chigwell, Buckhurst Hill, Epping Forest, Essex, East of England, England, IG7 6QT",
-    "opening_hours": "",
-    "borough": "Other"
-  },
-  {
     "name": "Canada Water Underground Station",
     "latitude": 51.497931,
     "longitude": -0.049405,
@@ -180,24 +135,6 @@
     "borough": "Southwark"
   },
   {
-    "name": "Croxley Underground Station",
-    "latitude": 51.647044,
-    "longitude": -0.441718,
-    "data_source": "Transport For London Open Data API",
-    "address": "Croxley station, Watford Road, Croxley Green, Rickmansworth, Three Rivers, Hertfordshire, East of England, England, WD3 3DY",
-    "opening_hours": "",
-    "borough": "Other"
-  },
-  {
-    "name": "Chorleywood Underground Station",
-    "latitude": 51.654358,
-    "longitude": -0.518461,
-    "data_source": "Transport For London Open Data API",
-    "address": "Chorleywood Station, Station Approach, Chorleywood, Three Rivers, Hertfordshire, East of England, England, WD3 5ND",
-    "opening_hours": "",
-    "borough": "Other"
-  },
-  {
     "name": "Canary Wharf Underground Station",
     "latitude": 51.503488,
     "longitude": -0.018246,
@@ -205,15 +142,6 @@
     "address": "Citi, 25, Canada Square, Canary Wharf, Isle of Dogs, London Borough of Tower Hamlets, E14 5LQ",
     "opening_hours": "",
     "borough": "Tower Hamlets"
-  },
-  {
-    "name": "Debden Underground Station",
-    "latitude": 51.645386,
-    "longitude": 0.083782,
-    "data_source": "Transport For London Open Data API",
-    "address": "2, Cassis Court, Loughton, Epping Forest, Essex, East of England, England, IG10 3UA",
-    "opening_hours": "",
-    "borough": "Other"
   },
   {
     "name": "Dagenham East Underground Station",
@@ -270,15 +198,6 @@
     "borough": "Newham"
   },
   {
-    "name": "Epping Underground Station",
-    "latitude": 51.69368,
-    "longitude": 0.113767,
-    "data_source": "Transport For London Open Data API",
-    "address": "Epping Underground Station, The Essex Way, Epping, Epping Forest, Essex, East of England, England, CM16 7BH",
-    "opening_hours": "",
-    "borough": "Other"
-  },
-  {
     "name": "Euston Underground Station",
     "latitude": 51.527824,
     "longitude": -0.131846,
@@ -322,15 +241,6 @@
     "address": "WH Smith, Canfield Gardens, Swiss Cottage, South Hampstead, London Borough of Camden, NW6 3BS",
     "opening_hours": "",
     "borough": "Camden"
-  },
-  {
-    "name": "Grange Hill Underground Station",
-    "latitude": 51.613378,
-    "longitude": 0.092066,
-    "data_source": "Transport For London Open Data API",
-    "address": "Grange Hill, Manor Road, Chigwell, Epping Forest, Essex, East of England, England, IG7 4GN",
-    "opening_hours": "",
-    "borough": "Other"
   },
   {
     "name": "Harrow & Wealdstone Underground Station",
@@ -441,15 +351,6 @@
     "borough": "Richmond upon Thames"
   },
   {
-    "name": "Loughton Underground Station",
-    "latitude": 51.641443,
-    "longitude": 0.055476,
-    "data_source": "Transport For London Open Data API",
-    "address": "4, Lancaster Drive, Loughton, Epping Forest, Essex, East of England, England, IG10 3NQ",
-    "opening_hours": "",
-    "borough": "Other"
-  },
-  {
     "name": "Leyton Underground Station",
     "latitude": 51.556589,
     "longitude": -0.005523,
@@ -466,15 +367,6 @@
     "address": "Leytonstone - Central Line, Church Lane, Leytonstone, London Borough of Waltham Forest, E11 1HE",
     "opening_hours": "",
     "borough": "Waltham Forest"
-  },
-  {
-    "name": "Moor Park Underground Station",
-    "latitude": 51.629845,
-    "longitude": -0.432454,
-    "data_source": "Transport For London Open Data API",
-    "address": "Moor Park, Main Avenue, Batchworth, Rickmansworth, Three Rivers, Hertfordshire, East of England, England, HA6 2JQ",
-    "opening_hours": "",
-    "borough": "Other"
   },
   {
     "name": "Newbury Park Underground Station",
@@ -639,15 +531,6 @@
     "borough": "Redbridge"
   },
   {
-    "name": "Rickmansworth Underground Station",
-    "latitude": 51.640207,
-    "longitude": -0.473703,
-    "data_source": "Transport For London Open Data API",
-    "address": "Platform 1, Parsonage Road, The Cedars Estate, Batchworth, Rickmansworth, Three Rivers, Hertfordshire, East of England, England, WD3 1FL",
-    "opening_hours": "",
-    "borough": "Other"
-  },
-  {
     "name": "Richmond Underground Station",
     "latitude": 51.463237,
     "longitude": -0.301336,
@@ -783,15 +666,6 @@
     "borough": "Barnet"
   },
   {
-    "name": "Theydon Bois Underground Station",
-    "latitude": 51.671759,
-    "longitude": 0.103085,
-    "data_source": "Transport For London Open Data API",
-    "address": "Theydon Bois Station, Slade End, Theydon Bois, Epping Forest, Essex, East of England, England, CM16 7HR",
-    "opening_hours": "",
-    "borough": "Other"
-  },
-  {
     "name": "Upminster Bridge Underground Station",
     "latitude": 51.55856,
     "longitude": 0.235809,
@@ -826,15 +700,6 @@
     "address": "Circle Westbound, Wilton Road, Victoria, City of Westminster, SW1V 1AN",
     "opening_hours": "",
     "borough": "Westminster"
-  },
-  {
-    "name": "Watford Underground Station",
-    "latitude": 51.657446,
-    "longitude": -0.417377,
-    "data_source": "Transport For London Open Data API",
-    "address": "Watford, Cassiobury Park Avenue, West Watford, Watford, Hertfordshire, East of England, England, WD18 7LD",
-    "opening_hours": "",
-    "borough": "Other"
   },
   {
     "name": "White City Underground Station",

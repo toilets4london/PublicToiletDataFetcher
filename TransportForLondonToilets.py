@@ -77,17 +77,18 @@ def get_tfl_toilets():
         if has_toilets(point):
             full_addr = Geocoder.reverse_geocode(point[LATITUDE], point[LONGITUDE])
             borough = get_borough(full_addr)
-            addr = full_addr.replace(", London, Greater London, England", "").replace(", United Kingdom", "")
-            t = {
-                'name': point[NAME],
-                'latitude': point[LATITUDE],
-                'longitude': point[LONGITUDE],
-                'data_source': 'Transport For London Open Data API',
-                'address': addr,
-                'opening_hours': get_opening_hours(point),
-                'borough': borough
-            }
-            toilets.append(t)
+            if borough != "Other":
+                addr = full_addr.replace(", London, Greater London, England", "").replace(", United Kingdom", "")
+                t = {
+                    'name': point[NAME],
+                    'latitude': point[LATITUDE],
+                    'longitude': point[LONGITUDE],
+                    'data_source': 'Transport For London Open Data API',
+                    'address': addr,
+                    'opening_hours': get_opening_hours(point),
+                    'borough': borough
+                }
+                toilets.append(t)
     with open("Data/processed_data_tfl.json", "w") as dataFile:
         json.dump(toilets, dataFile)
 
