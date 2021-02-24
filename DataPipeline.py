@@ -18,6 +18,12 @@ import HounslowToilets
 import WandsworthToilets2
 import TransportForLondonToilets
 
+# HOW THIS FILE WORKS: Just uncomment the relevant line of code to extract those toilets. The output will appear in the
+# Data/ directory as a nicely formatted json ready to post / upload to the Toilets4London API or use for any purpose
+# Some scripts have geocoding or reverse geocoding built in and so take a while to run as they use an open geocoding API
+# The OpenStreetMap toilets overlap with the other sources - Toilets4London always prefers council data sources to
+# OpenStreetMap and Manual uploads whenever possible as these are easier to keep updated
+
 # OpenStreetMapToilets.get_openstreetmap_data()
 # OpenStreetMapToilets.write_filtered_json()
 # CamdenToilets.camden_csv_to_json()
@@ -38,4 +44,5 @@ import TransportForLondonToilets
 # SouthwarkToilets.get_southwark_data()
 # HounslowToilets.get_hounslow_toilets()
 # WandsworthToilets2.process_wandsworth_data()
-TransportForLondonToilets.get_tfl_toilets()
+# TransportForLondonToilets.get_tfl_toilets()
+LewishamToilets.lewisham_json_api_to_filtered_json()

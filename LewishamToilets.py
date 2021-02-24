@@ -3,6 +3,7 @@ import requests
 import Geocoder
 import pandas as pd
 
+
 def get_address(toilet):
     name = toilet['Unnamed: 0'].replace("toilet","").replace("Toilet","")
     street = toilet['Billing Address Line 1']
@@ -17,6 +18,7 @@ def get_address(toilet):
                 str += s
                 str += " "
         return str
+
 
 def get_name(toilet):
     return toilet['Unnamed: 0']
@@ -90,6 +92,7 @@ def is_disabled(toilet, official_data_i_was_sent):
             return get_disabled(t)
     return False
 
+
 def is_baby_change(toilet, official_data_i_was_sent):
     for t in official_data_i_was_sent:
         if t['Billing Zip/Postal Code'].replace(" ","") == toilet['zip'].replace(" ",""):
@@ -99,10 +102,29 @@ def is_baby_change(toilet, official_data_i_was_sent):
     return False
 
 
+def get_covid_info(toilet, official_data_i_was_sent):
+    for t in official_data_i_was_sent:
+        if t['Billing Zip/Postal Code'].replace(" ","") == toilet['zip'].replace(" ",""):
+            return t['What additional precautions/equipment are you putting in place in order to ensure public safety? (eg. signage, extra cleaning, hand sanitising station)']
+        if t['Unnamed: 0'].replace(" ","") == toilet['title']['raw'].replace(" ",""):
+            return t['What additional precautions/equipment are you putting in place in order to ensure public safety? (eg. signage, extra cleaning, hand sanitising station)']
+    return ""
+
+
+
+def is_in_official_data(toilet, official_data_i_was_sent):
+    for t in official_data_i_was_sent:
+        if t['Billing Zip/Postal Code'].replace(" ", "").lower() == toilet['zip'].replace(" ", "").lower():
+            return True
+        if t['Unnamed: 0'].replace(" ", "") == toilet['title']['raw'].replace(" ", ""):
+            return True
+    return False
+
 
 def lewisham_json_api_to_filtered_json():
 
-    ''' Easier way to get accruate lat long coordinates because excel file sent to me did not have full addresses for all'''
+    """ Easier way to get accurate lat long coordinates because
+    excel file sent to me did not have full addresses for all toilets """
 
     official_data_i_was_sent = read_lewisham_data()
     # Found by examining source of https://www.lewishamlocal.com/community-toilets-map/
@@ -132,6 +154,8 @@ def lewisham_json_api_to_filtered_json():
             filtered_dict['name'] = name
             filtered_dict['opening_hours'] = opening
             filtered_dict['baby_change'] = babychange
+            filtered_dict['open'] = is_in_official_data(t, official_data_i_was_sent)
+            filtered_dict['covid'] = get_covid_info(t, official_data_i_was_sent)
             toilets.append(filtered_dict)
     with open("Data/processed_data_lewisham_2.json", 'w') as dataFile:
         json.dump(toilets, dataFile)
