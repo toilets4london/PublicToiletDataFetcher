@@ -9,6 +9,11 @@ Most data is obtained through one of 3 methods
 
 ## URLs not scraped yet 
 
+### Commercial
+
+The following URL should be scraped for Sainsbury's toilets
+- https://stores.sainsburys.co.uk/api/v1/stores/?fields=slfe-list-2.21&api_client_id=slfe&lat=51.579676&lon=-0.11116759999999999&limit=100&store_type=main%2Clocal&sort=by_distance&within=15&facility=Toilets&page=1
+
 ### Community toilet schemes
 
 - https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/
