@@ -17,6 +17,7 @@ import SouthwarkToilets
 import HounslowToilets
 import WandsworthToilets2
 import TransportForLondonToilets
+import SainsburysToilets
 
 # HOW THIS FILE WORKS: Just uncomment the relevant line of code to extract those toilets. The output will appear in the
 # Data/ directory as a nicely formatted json ready to post / upload to the Toilets4London API or use for any purpose
@@ -45,4 +46,5 @@ import TransportForLondonToilets
 # HounslowToilets.get_hounslow_toilets()
 # WandsworthToilets2.process_wandsworth_data()
 # TransportForLondonToilets.get_tfl_toilets()
-LewishamToilets.lewisham_json_api_to_filtered_json()
+# LewishamToilets.lewisham_json_api_to_filtered_json()
+SainsburysToilets.get_all_london_toilets_sainsburys()
