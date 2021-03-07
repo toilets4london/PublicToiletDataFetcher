@@ -14,6 +14,18 @@
   {
     "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
     "borough": "Newham",
+    "address": "Barking Road Canning Town E16 4HQ",
+    "opening_hours": "  Opening times: Monday to Tuesday from 9am - 6pm and Wednesday to Friday from 8am - 6pm",
+    "name": "Canning Town Community Links",
+    "baby_change": true,
+    "latitude": 51.5171255,
+    "longitude": 0.0111273,
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+  },
+  {
+    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "borough": "Newham",
     "address": "18 Rathbone Market Barking Road Canning Town London E16 1EH",
     "opening_hours": "",
     "name": "Canning Town Community Neighbourhood Centre and Library",

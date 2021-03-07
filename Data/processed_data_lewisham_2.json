@@ -165,7 +165,7 @@
     "name": "The Greyhound",
     "opening_hours": "Opening Hours Monday to Thursday 12.00pm -11.00pm Friday 12.00am \u2013 12.00am Saturday 10.00am \u2013 12.00am Sunday 12.00pm \u2013 10.30pm",
     "baby_change": true,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -178,7 +178,7 @@
     "name": "The Chandos",
     "opening_hours": "MONDAY TO THURSDAY 12.00 - 11.00PM FRIDAY TO SATURDAY 12.00 - MIDNIGHT SUNDAY 12.00 - 10.30PM",
     "baby_change": true,
-    "open": false,
+    "open": true,
     "covid": "hand sanitasier and extra cleaning"
   },
   {
@@ -191,7 +191,7 @@
     "name": "The Crown, Blackheath",
     "opening_hours": "9am-9pm (Mon-Fri), 9am-5pm (Sat-Sun)",
     "baby_change": true,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -300,6 +300,19 @@
   },
   {
     "data_source": "Lewisham Community Toilets https://www.lewishamlocal.com/projects/communitytoilets/",
+    "address": "50 Kangley Bridge Rd SE26 5AQ",
+    "latitude": "51.4259728",
+    "longitude": "-0.03443210000000363",
+    "borough": "Lewisham",
+    "wheelchair": false,
+    "name": "TEMPORARILY CLOSED - The Bridge Leisure Centre",
+    "opening_hours": "Monday - Friday 07:00-22:00 Saturday - Sunday 07:00-18:00 Bank Holidays 07:00-18:00",
+    "baby_change": false,
+    "open": false,
+    "covid": ""
+  },
+  {
+    "data_source": "Lewisham Community Toilets https://www.lewishamlocal.com/projects/communitytoilets/",
     "address": "Castillon Rd, SE6 1QD ",
     "latitude": "51.435003",
     "longitude": "0.002342",
@@ -308,7 +321,7 @@
     "name": "Goldsmiths Community Centre",
     "opening_hours": "Mon - Thurs | 9am to 9pm Friday | 9am to 5pm Saturday | 9am to 3pm | Closed Sundays",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -321,7 +334,7 @@
     "name": "Mekan Bar & Restaurant",
     "opening_hours": "12pm - 6pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -334,7 +347,7 @@
     "name": "Blackheath Halls",
     "opening_hours": "Mon-Fri: 10am-5pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -347,7 +360,7 @@
     "name": "Horniman Museum & Gardens",
     "opening_hours": "Museum: 10am-5.30pm (Mon-Sun) | Gardens - 7.15am-sunset (Mon-Sat) 8am-sunset (Sun)",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -360,7 +373,7 @@
     "name": "Abbotshall Healthy Lifestyle Centre",
     "opening_hours": "Mon: 9:30am\u20138:15pm, Tues: 9:30am\u20139.00pm, Wed: 9:30am\u20139.00pm, Thurs: 9:30am\u20137.00pm, Fri: 9:30am\u20134.00pm, Sat: 9:30am\u20134.00pm, Sun: 9:30am\u20132:30pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -516,7 +529,7 @@
     "name": "Age Exchange",
     "opening_hours": "Mon-Sat: 9am-5pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -529,7 +542,7 @@
     "name": "Manor House Library",
     "opening_hours": "Mon, Tue, Thu, Fri: 9am-6pm | Wed: 9am-7pm | Sat: 9am-5pm | Sun: 10am-4pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -542,7 +555,7 @@
     "name": "Forest Hill Library",
     "opening_hours": "Mon-Fri: 9am-7.30pm | Sat: 9am-5pm | Sun: 10am-4pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -555,7 +568,7 @@
     "name": "The Albany",
     "opening_hours": "Mon-Fri: 9am-6pm | Sat: 9am-5pm | Sun: 11am-4pm",
     "baby_change": true,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -581,7 +594,7 @@
     "name": "The New Cross House",
     "opening_hours": "Sun-Thu: 12pm-12am | Fri-Sat: 12pm-1am",
     "baby_change": true,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -594,7 +607,7 @@
     "name": "Lewisham Library",
     "opening_hours": "Mon-Fri: 8am-10pm | Sat: 9am-5pm | Sun: 10am-4pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -750,7 +763,7 @@
     "name": "Curzon Goldsmiths",
     "opening_hours": "Mon - Sun: 9am-10pm",
     "baby_change": true,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -776,7 +789,7 @@
     "name": "Glass Mill Leisure Centre",
     "opening_hours": "Mon-Fri: 6am-10pm | Sat-Sun: 7am-6pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -841,7 +854,7 @@
     "name": "Corbett Community Library",
     "opening_hours": "Mon, Tue, Thur: 9am-6pm | Fri: 9am-1pm | Sat: 9am-5pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -893,7 +906,7 @@
     "name": "Forest Hill Pools",
     "opening_hours": "Mon-Fri: 6am-10pm | Sat-Sun: 7am-6pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -906,7 +919,7 @@
     "name": "Downham Leisure Centre",
     "opening_hours": "Mon, Tue, Thurs, Fri: 6:30am\u201310pm | Wed: 6am-10pm | Sat, Sun: 8am-6pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
@@ -919,7 +932,7 @@
     "name": "Mega Breakfast Cafe",
     "opening_hours": "Monday-Saturday: 6am-4pm | Sunday: 8am-4pm",
     "baby_change": false,
-    "open": false,
+    "open": true,
     "covid": ""
   },
   {
