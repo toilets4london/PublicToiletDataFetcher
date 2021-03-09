@@ -60,7 +60,7 @@ def parse_wf_data(raw_data):
             except:
                 pass
 
-    with open("Data/processed_data_waltham_forest.json", "w") as dataFile:
+    with open("Data/waltham_forest_raw.json", "w") as dataFile:
         json.dump(toilets, dataFile)
 
 
