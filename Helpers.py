@@ -2,7 +2,7 @@ import re
 
 IS_CLOSED_KEYWORDS = ["library", "caf", "centre", "bar", "brasserie", "public house", "pub", "room", "house", "the", "club", "centre", "restaurant", "court", "coffee", "tea", "kebab", "curry", "hall", "hair"]
 DISABLED_KEYWORDS = ["accessible", "disabled", "wheelchair", "access"]
-BABY_CHANGE_KEYWORDS = ["baby", "babychange", "change", "changing"]
+BABY_CHANGE_KEYWORDS = ["baby", "babychange", "change", "changing", "baby change"]
 OPENING_HOURS_KEYWORDS = ["mon", "tue", "wed", "thur", "fri", "sat", "sun", "holidays", ":00", "00", "24hr"]
 NOT_ADDRESS_KEYWORDS = ["yes", "no", "available", "only", "free"]
 IS_FEE_KEYWORDS = ["20p", "pound", "free", "50p", "75p", "paid"]
@@ -64,13 +64,8 @@ def cleanxml(raw_xml):
     return cleantext
 
 
-def only_single_whitespace(str):
-    spl = str.replace("\n", " ").split(" ")
-    arr = []
-    for part in spl:
-        if part != "" and part != " ":
-            arr.append(part)
-    return " ".join(arr)
+def only_single_whitespace(s):
+    return " ".join([p for p in s.split() if p != ""])
 
 
 def remove_all_whitespace(str):

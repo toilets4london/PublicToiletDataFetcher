@@ -18,6 +18,7 @@ import HounslowToilets
 import WandsworthToilets2
 import TransportForLondonToilets
 import SainsburysToilets
+import WalthamForestToilets
 
 
 # HOW THIS FILE WORKS: Just uncomment the relevant line of code to extract those toilets. The output will appear in the
@@ -49,3 +50,4 @@ import SainsburysToilets
 # TransportForLondonToilets.get_tfl_toilets()
 # LewishamToilets.lewisham_json_api_to_filtered_json()
 # SainsburysToilets.get_all_london_toilets_sainsburys()
+WalthamForestToilets.extract_waltham_forest_data()
