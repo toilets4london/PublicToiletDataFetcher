@@ -19,13 +19,15 @@ import WandsworthToilets2
 import TransportForLondonToilets
 import SainsburysToilets
 import WalthamForestToilets
+import GreenwichToilets
 
 
-# HOW THIS FILE WORKS: Just uncomment the relevant line of code to extract those toilets. The output will appear in the
-# Data/ directory as a nicely formatted json ready to post / upload to the Toilets4London API or use for any purpose
-# Some scripts have geocoding or reverse geocoding built in and so take a while to run as they use an open geocoding API
-# The OpenStreetMap toilets overlap with the other sources - Toilets4London always prefers council data sources to
-# OpenStreetMap and Manual uploads whenever possible as these are easier to keep updated
+# HOW THIS FILE WORKS: Just uncomment the relevant line of code to extract those toilets. The output will appear in
+# the Data/ directory as a nicely formatted json ready to post / upload to the Toilets4London API (unless it requires
+# manual coordinate inputting) or use for any purpose. Some scripts have geocoding or reverse geocoding built in and
+# so take a while to run as they use an open geocoding API. The OpenStreetMap toilets overlap with the other sources -
+# Toilets4London always prefers council data sources to OpenStreetMap and Manual uploads whenever possible as these
+# are easier to keep updated and are more reliable.
 
 # OpenStreetMapToilets.get_openstreetmap_data()
 # OpenStreetMapToilets.write_filtered_json()
@@ -50,4 +52,5 @@ import WalthamForestToilets
 # TransportForLondonToilets.get_tfl_toilets()
 # LewishamToilets.lewisham_json_api_to_filtered_json()
 # SainsburysToilets.get_all_london_toilets_sainsburys()
-WalthamForestToilets.extract_waltham_forest_data()
+# WalthamForestToilets.extract_waltham_forest_data()
+GreenwichToilets.extract_greenwich_data()
