@@ -23,7 +23,8 @@ You can see the outputs of all the scripts in the Data/ directory. These outputs
 
 Look at DataPipeline.py for a list of functions that can be called, one from each datasource-specific file, that extract toilets from the datasource and saves the extracted data to the Data/ directory.
 
-## URLs not scraped yet (feel free to submit a PR for scraping these pages 😊 )
+## URLs not scraped yet
+(feel free to submit a PR for scraping these pages 😊 )
 
 ### Community toilet schemes
 
@@ -33,7 +34,6 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
   
 ### Public toilets
 
-- https://www.royalgreenwich.gov.uk/info/200258/parking_transport_and_streets/810/find_a_public_toilet_in_greenwich
 - https://www.bexley.gov.uk/services/parking-transport-and-streets/public-toilets/reporting-issues-public-toilets
 
 ## Processing
