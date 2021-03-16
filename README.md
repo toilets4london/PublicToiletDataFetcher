@@ -26,15 +26,9 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
 ## URLs not scraped yet
 (feel free to submit a PR for scraping these pages 😊 )
 
-### Community toilet schemes
-
 - https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/ (this link is currently showing an error)
 - https://www.ealing.gov.uk/info/201153/street_care_and_cleaning/200/public_toilets/4 (these are all probably closed due to coronavirus)
 - https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme (these are all probably closed due to coronavirus)
-  
-### Public toilets
-
-- https://www.bexley.gov.uk/services/parking-transport-and-streets/public-toilets/reporting-issues-public-toilets
 
 ## Processing
 

@@ -1,0 +1,122 @@
+[
+  {
+    "data_source": "www.bexley.gov.uk, extracted 15/03/2021",
+    "borough": "Bexley",
+    "address": "Woolwich Road Belvedere, DA17 5ER",
+    "opening_hours": "April to September - 10am to 6pm October to March - 9am to 4pm",
+    "name": "Belvedere Beach",
+    "baby_change": true,
+    "latitude": 51.48426381,
+    "longitude": 0.14349763,
+    "wheelchair": true,
+    "open": true
+  },
+  {
+    "data_source": "www.bexley.gov.uk, extracted 15/03/2021",
+    "borough": "Bexley",
+    "address": "Bank Lane Bexleyheath DA6 7BH",
+    "opening_hours": "April to September - 9am to 6pm October to March - 9am to 4pm",
+    "name": "Bexleyheath Cemetery",
+    "baby_change": false,
+    "latitude": 51.45833013671736,
+    "longitude": 0.13986869966288779,
+    "wheelchair": false,
+    "open": true
+  },
+  {
+    "data_source": "www.bexley.gov.uk, extracted 15/03/2021",
+    "borough": "Bexley",
+    "address": "Adjacent to the Stables car park",
+    "opening_hours": "April to September - 8am to 7pm October to March - 9am to 4pm",
+    "name": "Danson Park",
+    "baby_change": false,
+    "latitude": 51.4579086,
+    "longitude": 0.1165331,
+    "wheelchair": false,
+    "open": true
+  },
+    {
+    "data_source": "www.bexley.gov.uk, extracted 15/03/2021",
+    "borough": "Bexley",
+    "address": "Adjacent to the Danson Mansion House",
+    "opening_hours": "April to September - 8.30am to 5pm October to March - Closed",
+    "name": "Danson Park",
+    "baby_change": false,
+    "latitude": 51.456469801,
+    "longitude": 0.118546301708,
+    "wheelchair": false,
+    "open": true
+  },
+  {
+    "data_source": "www.bexley.gov.uk, extracted 15/03/2021",
+    "borough": "Bexley",
+    "address": "Danson Road Welling DA6 8HL",
+    "opening_hours": "April to September - 10am to 6pm October to March - 10am to 2.30pm weekdays October to March - 10am to 3.30pm weekends",
+    "name": "Danson Park Playground",
+    "baby_change": true,
+    "latitude": 51.45833705,
+    "longitude": 0.116363337,
+    "wheelchair": true,
+    "open": true
+  },
+  {
+    "data_source": "www.bexley.gov.uk, extracted 15/03/2021",
+    "borough": "Bexley",
+    "address": "Brook Street Erith DA8 7DY",
+    "opening_hours": "April to September - 9am to 6pm October to March - 9am to 4pm",
+    "name": "Erith Cemetery",
+    "baby_change": false,
+    "latitude": 51.479337,
+    "longitude": 0.154007,
+    "wheelchair": false,
+    "open": true
+  },
+  {
+    "data_source": "www.bexley.gov.uk, extracted 15/03/2021",
+    "borough": "Bexley",
+    "address": "Wickham Street Welling DA16 3PA",
+    "opening_hours": "April to September - 9am to 6pm October to March - 9am to 4pm",
+    "name": "Hillview Cemetery",
+    "baby_change": false,
+    "latitude": 51.46876416310892,
+    "longitude": 0.09053975176541769,
+    "wheelchair": true,
+    "open": true
+  },
+  {
+    "data_source": "www.bexley.gov.uk, extracted 15/03/2021",
+    "borough": "Bexley",
+    "address": "New Road Abbey Wood SE2 0PN",
+    "opening_hours": "April to September - 8.45am to 6pm October to March - 9am to 4pm",
+    "name": "Lesnes Abbey Wood",
+    "baby_change": true,
+    "latitude": 51.4885621,
+    "longitude": 0.1278334,
+    "wheelchair": true,
+    "open": true
+  },
+  {
+    "data_source": "www.bexley.gov.uk, extracted 15/03/2021",
+    "borough": "Bexley",
+    "address": "Foots Cray Lane Sidcup DA14 4NP",
+    "opening_hours": "April to September - 9am to 6pm October to March - 9am to 4pm",
+    "name": "Sidcup Cemetery",
+    "baby_change": false,
+    "latitude": 51.43529773399127,
+    "longitude": 0.12024982738377954,
+    "wheelchair": false,
+    "open": true
+  },
+  {
+    "data_source": "www.bexley.gov.uk, extracted 15/03/2021",
+    "borough": "Bexley",
+    "address": "Bellegrove Road Welling DA16 3PA",
+    "opening_hours": "Monday to Friday, 9.30am to 5pm Saturday, 9.30am to 5.00pm Sunday closed",
+    "name": "Welling Library",
+    "baby_change": true,
+    "latitude": 51.46253493812593,
+    "longitude": 0.10618420031128976,
+    "wheelchair": true,
+    "open": false
+  }
+]
