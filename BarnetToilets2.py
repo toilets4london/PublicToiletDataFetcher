@@ -21,17 +21,16 @@ def barnet_libraries_csv_to_json():
             ltlng = Geocoder.geocode(t[LOCATION])
             if ltlng != "unavailable" and "library" in t[LOCATION].lower():
                 toilet = {
-                    'data_source': 'Data downloaded from https://data.gov.uk/dataset/99765417-6e54-4072-a17a-f0d48fe2ce85/public-toilets-2014-15',
+                    'data_source': 'Downloaded from https://data.gov.uk/',
                     'borough':'Barnet',
                     'address': t[LOCATION].replace("opening_hours=",""),
                     'opening_hours': t[OPENING_HOURS].replace("opening_hours=",""),
-                    'name' : t[LOCATION].split(",")[0],
+                    'name' : "Library toilets",
                     'latitude' : ltlng[0],
                     'longitude' : ltlng[1],
-                    'covid': "Library toilets not open during lockdown",
-                    'open': False
+                    'open': True
                 }
                 toilets.append(toilet)
             else:
-                print(t[LOCATION]+" unavailable")
+                pass
         json.dump(toilets, dataFile)

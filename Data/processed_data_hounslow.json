@@ -1,13 +1,5 @@
 [
   {
-    "name": "Chiswick Town Hall",
-    "address": "Heathfield Terrace Turnham Green Chiswick W4 4JN",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.49531415,
-    "longitude": -0.25497706655496377,
-    "borough": "Hounslow"
-  },
-  {
     "name": "Chiswick Gardens Cafe",
     "address": "Great West Road Chiswick W4 2QN",
     "data_source": "www.hounslow.gov.uk/publictoilets",
@@ -504,14 +496,6 @@
     "borough": "Hounslow"
   },
   {
-    "name": "Hounslow Toy Library For Disabled Children",
-    "address": "Inwood Park Inwood Road TW3 1XA",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.467702,
-    "longitude": -0.3554370094861078,
-    "borough": "Hounslow"
-  },
-  {
     "name": "Yates&#39;s",
     "address": "1-3 Bath Road TW3 3BJ",
     "data_source": "www.hounslow.gov.uk/publictoilets",
@@ -523,16 +507,16 @@
     "name": "Redlees Stables Gallery",
     "address": "Redlees Park Worton Road TW7 6DW",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.465661100000005,
-    "longitude": -0.3325525176998916,
+    "latitude": 51.467292400000005,
+    "longitude": -0.33204774782042934,
     "borough": "Hounslow"
   },
   {
     "name": "Redlees Stables Art Studio",
     "address": "Redlees Park Worton Road Isleworth TW7 6DW",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.465661100000005,
-    "longitude": -0.3325525176998916,
+    "latitude": 51.467292400000005,
+    "longitude": -0.33204774782042934,
     "borough": "Hounslow"
   },
   {
@@ -573,6 +557,14 @@
     "data_source": "www.hounslow.gov.uk/publictoilets",
     "latitude": 51.4601419,
     "longitude": -0.3624218,
+    "borough": "Hounslow"
+  },
+  {
+    "name": "Heston Services M4 Eastbound",
+    "address": "Junction 2-3 M4 TW5 9NA",
+    "data_source": "www.hounslow.gov.uk/publictoilets",
+    "latitude": 51.4891671,
+    "longitude": -0.2852985,
     "borough": "Hounslow"
   },
   {

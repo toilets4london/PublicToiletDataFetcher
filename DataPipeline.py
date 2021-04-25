@@ -9,6 +9,7 @@ import HealthmaticToilets
 import KensingtonChelseaToilets
 import BromleyToilets
 import NewhamToilets
+import BarnetToilets
 import BarnetToilets2
 import WestminsterToilets
 import BrentToilets
@@ -43,6 +44,7 @@ import HillingdonToilets
 # KensingtonChelseaToilets.kensington_data_to_json()
 # BromleyToilets.extract_bromley_json()
 # NewhamToilets.extract_all_newham_toilets()
+# BarnetToilets.get_all_barnet_toilets()
 # BarnetToilets2.barnet_libraries_csv_to_json()
 # WestminsterToilets.westminster_csv_to_json()
 # BrentToilets.get_all_brent_toilets()
@@ -55,4 +57,4 @@ import HillingdonToilets
 # SainsburysToilets.get_all_london_toilets_sainsburys()
 # WalthamForestToilets.extract_waltham_forest_data()
 # GreenwichToilets.extract_greenwich_data()
-HillingdonToilets.hillingdon_csv_to_json()
+# HillingdonToilets.hillingdon_csv_to_json()

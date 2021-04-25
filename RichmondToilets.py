@@ -4,6 +4,8 @@ import re
 
 RICHMOND_TOILET_DATA_URL = 'http://www2.richmond.gov.uk/lbrservicesSP/offers/SpendAPenny/'
 
+## This script is currently not functional as the map is no longer displaying any community toilets (!)
+
 def get_name(toilet):
     if toilet['type'] == "Community Toilet Scheme":
         return toilet['name'] + " Community Toilet Scheme"

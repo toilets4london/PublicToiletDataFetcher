@@ -94,7 +94,7 @@
     "latitude": 51.490311,
     "longitude": -0.213427,
     "data_source": "Transport For London Open Data API",
-    "address": "Barons Court, Margravine Gardens, West Kensington, London Borough of Hammersmith and Fulham, W6 8RL",
+    "address": "Barons Court, Gliddon Road, West Kensington, London Borough of Hammersmith and Fulham, W14 9EA",
     "opening_hours": "",
     "borough": "Hammersmith and Fulham"
   },
@@ -184,7 +184,7 @@
     "latitude": 51.492063,
     "longitude": -0.193378,
     "data_source": "Transport For London Open Data API",
-    "address": "Earl's Court (Earl's Court Road), Earl's Court Road, The Boltons, Earl's Court, Royal Borough of Kensington and Chelsea, SW5 9RQ",
+    "address": "Earl's Court (Earl's Court Road), Earl's Court Road, The Boltons, Earl's Court, Royal Borough of Kensington and Chelsea, SW5 9RL",
     "opening_hours": "",
     "borough": "Kensington and Chelsea"
   },
@@ -409,7 +409,7 @@
     "latitude": 51.50047,
     "longitude": 0.004287,
     "data_source": "Transport For London Open Data API",
-    "address": "North Greenwich, Peninsula Square, Greenwich Millennium Village, Greenwich Peninsula, Royal Borough of Greenwich, SE10 0PH",
+    "address": "North Greenwich, Peninsula Square, Greenwich Peninsula, Royal Borough of Greenwich, SE10 0PH",
     "opening_hours": "",
     "borough": "Greenwich"
   },
@@ -535,7 +535,7 @@
     "latitude": 51.463237,
     "longitude": -0.301336,
     "data_source": "Transport For London Open Data API",
-    "address": "Richmond Station Car Park, Sun Alley, North Sheen, London Borough of Richmond upon Thames, TW9 2PP",
+    "address": "Richmond Station Car Park, Church Road, North Sheen, London Borough of Richmond upon Thames, TW9 2QE",
     "opening_hours": "MonFriFrom : 06:15 , SunFrom : 07:15 , SatFrom : 06:15 , SatTo : 21:45 , SunTo : 21:30 , MonFriTo : 21:45 , ",
     "borough": "Richmond upon Thames"
   },
@@ -679,7 +679,7 @@
     "latitude": 51.559063,
     "longitude": 0.250882,
     "data_source": "Transport For London Open Data API",
-    "address": "Upminster, Station Approach, Upminster, London Borough of Havering, RM14 2TH",
+    "address": "Upminster Station, Hall Lane, Upminster, London Borough of Havering, RM14 2TD",
     "opening_hours": "SatFrom : 06:15 , MonFriFrom : 05:15 , MonFriTo : 22:00 , SatTo : 22:00 , SunFrom : 06:45 , SunTo : 22:00 , ",
     "borough": "Havering"
   },
@@ -706,7 +706,7 @@
     "latitude": 51.511959,
     "longitude": -0.224297,
     "data_source": "Transport For London Open Data API",
-    "address": "White City - Eastbound, Depot Road, White City Estate, London Borough of Hammersmith and Fulham, W12 7RH",
+    "address": "White City - Eastbound, Depot Road, London Borough of Hammersmith and Fulham, W12 7RH",
     "opening_hours": "",
     "borough": "Hammersmith and Fulham"
   },

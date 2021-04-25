@@ -17,8 +17,8 @@
     "opening_hours": "Mon-Sat 9am-5pm",
     "name": "Age Exchange",
     "baby_change": true,
-    "latitude": 51.4655215,
-    "longitude": 0.0091578,
+    "latitude": 51.46552955,
+    "longitude": 0.00948056451856254,
     "wheelchair": true
   },
   {
@@ -35,12 +35,23 @@
   {
     "data_source": "Lewisham Community Toilets dataset (updated for Covid)",
     "borough": "Lewisham",
+    "address": "Adelaide Avenue, Lewisham, London, SE14 1LE",
+    "opening_hours": "9am-4pm every day",
+    "name": "Hilly Fields Park Toilet",
+    "baby_change": true,
+    "latitude": 51.4590896,
+    "longitude": -0.0295562,
+    "wheelchair": true
+  },
+  {
+    "data_source": "Lewisham Community Toilets dataset (updated for Covid)",
+    "borough": "Lewisham",
     "address": "Caf\u00e9 Crofton Park Lewisham, London ",
     "opening_hours": "",
     "name": "Caf\u00e9 Crofton Park",
     "baby_change": true,
-    "latitude": 51.4552107,
-    "longitude": -0.0366376,
+    "latitude": 51.4546664,
+    "longitude": -0.0370617,
     "wheelchair": true
   },
   {
@@ -83,8 +94,8 @@
     "opening_hours": "9am to 9pm Monday to Thursday 9am to 5pm Friday 9am to 3pm Saturdays Closed Sundays",
     "name": "Tesco Catford",
     "baby_change": true,
-    "latitude": 51.44625125,
-    "longitude": -0.022211543749999542,
+    "latitude": 51.446021,
+    "longitude": -0.0205059,
     "wheelchair": true
   },
   {
@@ -171,8 +182,8 @@
     "opening_hours": "Mon-Sat: 6am-12am Sun: 6am-11pm",
     "name": "Tesco / ESSO Garage",
     "baby_change": true,
-    "latitude": 51.4323588,
-    "longitude": 0.0213642,
+    "latitude": 51.4323526,
+    "longitude": 0.0212846,
     "wheelchair": true
   },
   {
@@ -193,8 +204,8 @@
     "opening_hours": "Depending on train times",
     "name": "Grove Park Station",
     "baby_change": false,
-    "latitude": 51.4315537,
-    "longitude": 0.0213315,
+    "latitude": 51.431086,
+    "longitude": 0.0212676,
     "wheelchair": true
   },
   {
@@ -215,8 +226,8 @@
     "opening_hours": "10am-3pm every day",
     "name": "Chinbrook Meadows Park Toilet",
     "baby_change": false,
-    "latitude": 51.4315537,
-    "longitude": 0.0213315,
+    "latitude": 51.431086,
+    "longitude": 0.0212676,
     "wheelchair": true
   },
   {
@@ -259,8 +270,8 @@
     "opening_hours": "Monday - Wednesday 4-11pm Thursday - Saturday 12-11pm Sunday 12-10:30pm",
     "name": "The Chandos",
     "baby_change": true,
-    "latitude": 51.4486,
-    "longitude": -0.0403845,
+    "latitude": 51.4476511,
+    "longitude": -0.0411842,
     "wheelchair": true
   },
   {
@@ -281,8 +292,8 @@
     "opening_hours": "Mon-Thu 12pm-11pm, Fri-Sat 12pm-12am, Sun 12pm-10pm",
     "name": "The Lord Northbrook",
     "baby_change": true,
-    "latitude": 51.4500873,
-    "longitude": 0.0126343,
+    "latitude": 51.45090185,
+    "longitude": 0.01223403201906401,
     "wheelchair": true
   },
   {
@@ -380,8 +391,8 @@
     "opening_hours": "Mon & Sat 9am to 4pm",
     "name": "Sydenham Wells Park Toilet",
     "baby_change": false,
-    "latitude": 51.4754834,
-    "longitude": -0.0385962,
+    "latitude": 51.4754106,
+    "longitude": -0.0383124,
     "wheelchair": true
   },
   {
@@ -402,8 +413,8 @@
     "opening_hours": "9am-4pm weekdays ",
     "name": "Telegraph Hill Centre",
     "baby_change": true,
-    "latitude": 51.4680407,
-    "longitude": -0.0448805,
+    "latitude": 51.4680554,
+    "longitude": -0.0448849,
     "wheelchair": true
   },
   {

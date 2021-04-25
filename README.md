@@ -24,11 +24,10 @@ You can see the outputs of all the scripts in the Data/ directory. These outputs
 Look at DataPipeline.py for a list of functions that can be called, one from each datasource-specific file, that extract toilets from the datasource and saves the extracted data to the Data/ directory.
 
 ## URLs not scraped yet
-(feel free to submit a PR for scraping these pages 😊 )
 
-- https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/ (this link is currently showing an error)
-- https://www.ealing.gov.uk/info/201153/street_care_and_cleaning/200/public_toilets/4 (these are all probably closed due to coronavirus)
-- https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme (these are all probably closed due to coronavirus)
+- https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/ 
+- https://www.ealing.gov.uk/info/201153/street_care_and_cleaning/200/public_toilets/4
+- https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme
 
 ## Processing
 

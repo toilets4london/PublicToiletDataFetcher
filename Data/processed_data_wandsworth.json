@@ -964,7 +964,7 @@
   {
     "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Grain de Cafe",
+    "address": "Grain de Caf\u00c3\u00a9",
     "name": "Community Toilet",
     "latitude": 51.447546,
     "longitude": -0.148755,
@@ -1081,7 +1081,7 @@
   {
     "data_source": "User generated Google Map called Public & Community Toilets in Wandsworth",
     "borough": "Wandsworth",
-    "address": "Yvonne's Cafe ",
+    "address": "Yvonne's Caf\u00c3\u00a9 ",
     "name": "Community Toilet",
     "latitude": 51.419449,
     "longitude": -0.146969,
@@ -1164,7 +1164,7 @@
     "latitude": 51.422898,
     "longitude": -0.160125,
     "wheelchair": false,
-    "open": true,
+    "open": false,
     "baby_change": false,
     "opening_hours": "",
     "fee": ""

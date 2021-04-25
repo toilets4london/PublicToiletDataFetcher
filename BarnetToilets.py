@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 
-# The lat / lng coordinates here are extremely inaccurate - this script cannot be currently used
+# The lat / lng coordinates here are extremely inaccurate - this script needs manual entering of coordinates
 
 
 BASE_URL = "https://www.barnet.gov.uk"

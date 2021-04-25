@@ -6,8 +6,8 @@
     "opening_hours": "",
     "name": "Brockwell Park",
     "baby_change": true,
-    "latitude": 51.4506797,
-    "longitude": -0.10614946598452155,
+    "latitude": 51.45064485,
+    "longitude": -0.10612678095387976,
     "wheelchair": false
   },
   {
@@ -17,8 +17,8 @@
     "opening_hours": "",
     "name": "Brockwell Park",
     "baby_change": true,
-    "latitude": 51.4506797,
-    "longitude": -0.10614946598452155,
+    "latitude": 51.45064485,
+    "longitude": -0.10612678095387976,
     "wheelchair": false
   },
   {
@@ -28,8 +28,8 @@
     "opening_hours": "",
     "name": "Brockwell Park",
     "baby_change": true,
-    "latitude": 51.4506797,
-    "longitude": -0.10614946598452155,
+    "latitude": 51.45064485,
+    "longitude": -0.10612678095387976,
     "wheelchair": false
   },
   {
@@ -39,8 +39,8 @@
     "opening_hours": "",
     "name": "Brockwell Park",
     "baby_change": true,
-    "latitude": 51.4506797,
-    "longitude": -0.10614946598452155,
+    "latitude": 51.45064485,
+    "longitude": -0.10612678095387976,
     "wheelchair": false
   },
   {
@@ -50,8 +50,8 @@
     "opening_hours": "",
     "name": "Clapham Common",
     "baby_change": true,
-    "latitude": 51.4613605,
-    "longitude": -0.1477763,
+    "latitude": 51.457094999999995,
+    "longitude": -0.15056141295395867,
     "wheelchair": false
   },
   {
@@ -61,8 +61,8 @@
     "opening_hours": "",
     "name": "Clapham Common",
     "baby_change": false,
-    "latitude": 51.45706775,
-    "longitude": -0.150523666222307,
+    "latitude": 51.457094999999995,
+    "longitude": -0.15056141295395867,
     "wheelchair": false
   },
   {
@@ -72,8 +72,8 @@
     "opening_hours": "",
     "name": "Clapham Common",
     "baby_change": true,
-    "latitude": 51.45706775,
-    "longitude": -0.150523666222307,
+    "latitude": 51.457094999999995,
+    "longitude": -0.15056141295395867,
     "wheelchair": false
   },
   {
@@ -83,8 +83,8 @@
     "opening_hours": "",
     "name": "Hillside Gardens",
     "baby_change": true,
-    "latitude": 51.3546384,
-    "longitude": -0.1415276,
+    "latitude": 51.3532128,
+    "longitude": -0.1442105,
     "wheelchair": true
   },
   {
@@ -116,8 +116,8 @@
     "opening_hours": "",
     "name": "Myatts Field Park",
     "baby_change": true,
-    "latitude": 51.4725841530398,
-    "longitude": -0.10566493817680457,
+    "latitude": 51.4744491,
+    "longitude": -0.1048503,
     "wheelchair": false
   },
   {
@@ -127,8 +127,8 @@
     "opening_hours": "",
     "name": "Myatts Field Park",
     "baby_change": false,
-    "latitude": 51.4725841530398,
-    "longitude": -0.10566493817680457,
+    "latitude": 51.4744491,
+    "longitude": -0.1048503,
     "wheelchair": false
   },
   {
@@ -182,8 +182,8 @@
     "opening_hours": "",
     "name": "The Rookery",
     "baby_change": true,
-    "latitude": 51.42137425,
-    "longitude": -0.11811126643005966,
+    "latitude": 51.4220452,
+    "longitude": -0.11953720000000001,
     "wheelchair": false
   }
 ]
