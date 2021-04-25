@@ -25,8 +25,7 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
 
 ## URLs not scraped yet
 
-- https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/ 
-- https://www.ealing.gov.uk/info/201153/street_care_and_cleaning/200/public_toilets/4
+- https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/
 
 ## Processing
 

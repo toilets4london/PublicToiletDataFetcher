@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Community Toilet",
+    "address": "DH Law Ltd, 130-132 Uxbridge Road, Hanwell ",
+    "opening_hours": "Mon to Fri 9.30 am - 5.30 pm. Closed Saturday and Sunday",
+    "wheelchair": true,
+    "baby_change": true,
+    "data_source": "www.ealing.gov.uk",
+    "borough": "Ealing",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "name": "Community Toilet",
+    "address": "The Lido Centre - 63 Mattock Lane, West Ealing W13 8DJ",
+    "opening_hours": "Mon to Fri 10am - 5pm (please note: all visitors must sign in and out). Closed Saturday and Sunday",
+    "wheelchair": true,
+    "baby_change": false,
+    "data_source": "www.ealing.gov.uk",
+    "borough": "Ealing",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Will to Win, The Lodge, Pitshanger Park, Woodbury Park Road W13 8DJ",
+    "opening_hours": "Mon to Sun 9am - 5pm",
+    "wheelchair": true,
+    "baby_change": true,
+    "data_source": "www.ealing.gov.uk",
+    "borough": "Ealing",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Will to Win, Lammas Park, Culmington Road, West Ealing W13 9NJ",
+    "opening_hours": "Mon to Thurs 9am - 9pm  | Fri 9am - 8pm Sat 8am - 5pm | Sun 9am - 5pm",
+    "wheelchair": false,
+    "baby_change": false,
+    "data_source": "www.ealing.gov.uk",
+    "borough": "Ealing",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "name": "Community Toilet",
+    "address": "XXL Restaurant, 4 Ruislip Road, Greenford",
+    "opening_hours": "Mon to Fri 12pm - 9pm | Sat to Sun 12pm - 10pm",
+    "wheelchair": false,
+    "baby_change": false,
+    "data_source": "www.ealing.gov.uk",
+    "borough": "Ealing",
+    "latitude": 0,
+    "longitude": 0
+  }
+]
