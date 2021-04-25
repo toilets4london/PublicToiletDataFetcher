@@ -23,10 +23,6 @@ You can see the outputs of all the scripts in the Data/ directory. These outputs
 
 Look at DataPipeline.py for a list of functions that can be called, one from each datasource-specific file, that extract toilets from the datasource and saves the extracted data to the Data/ directory.
 
-## URLs not scraped yet
-
-- https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/
-
 ## Processing
 
 - Data should be processed to end up in the following format, so that it can be uploaded to the toilets4london API

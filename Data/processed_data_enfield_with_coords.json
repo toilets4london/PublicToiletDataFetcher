@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Community Toilet",
+    "address": "A10 Cafe 3 Cambridge Terrace Bury Street West N9 9JJ",
+    "opening_hours": "Monday to Saturday: 6am to 4pm Sunday: 8am to 2pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.63404662343306,
+    "longitude": -0.07110736840915358
+  },
+  {
+    "name": "Community Toilet",
+    "address": "AVM 10-12 Fillebrook Avenue Enfield EN1 3BB",
+    "opening_hours": "Monday to Friday: 7am to 9am Saturday and Sunday: 9am to 3pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.65893553003774,
+    "longitude": -0.07127956457496318
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Baker Street Cafe 208 Baker Street Enfield EN1 3AA",
+    "opening_hours": "Monday to Saturday: 7am to 4pm Sunday: Closed",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.660498165262716,
+    "longitude": -0.07954742168503537
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Bar Taps 29 Silver Street Enfield EN1 3EF",
+    "opening_hours": "Monday to Wednesday: 11am to midnight Thursday: 11am to 1am Friday and Saturday: 11am to 2am Sunday: Closed",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.653092,
+    "longitude": -0.0803774
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Cafe Alleyne 2 Ladysmith Road Enfield EN1 3AA",
+    "opening_hours": "Monday to Friday: 7am to 4:30pm Saturday: 8am to 4pm Sunday: 10am to 2pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.65244129226738,
+    "longitude": -0.07371969914944966
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Cafe Cristo 442-444 Green Lanes London N13 5XG",
+    "opening_hours": "Monday to Saturday: 7am to 4pm Sunday: Closed",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.6225029,
+    "longitude": -0.1046531
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Donart Cafe 136 Chase Side Enfield EN2 0QN",
+    "opening_hours": "Monday to Sunday: 8am to 6pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.6608201,
+    "longitude": -0.087196
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Hills Cafe 508 Hertford Road Enfield EN3 5SS",
+    "opening_hours": "Monday to Friday: 6.30am to 5pm Saturday: 7am to 5pm Sunday: 8am to 5pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.66669058870831,
+    "longitude": -0.04312704789303374
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Mc Donald's 31-33 Chase Side London N14 5BP",
+    "opening_hours": "Monday to Sunday: 8am to midnight",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.632810443795556,
+    "longitude": -0.12956105451185185
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Mc Donald's 286 Green Lanes London N13 5TU",
+    "opening_hours": "Monday to Friday: 6am to 11pm Saturday: 7am to 11pm Sunday: 8am to 11pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.61817025561353,
+    "longitude": -0.10779561679724423
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Painters of Enfield Ltd 131 Chase Side EN2 6NN",
+    "opening_hours": "Monday to Saturday: 6:30am to 4pm Sunday: 8am to 2pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.659327481278254,
+    "longitude": -0.08755354587729287
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Star Cafe 10 Empire Parade Great Cambridge Road London N18 1AA",
+    "opening_hours": "Monday to Saturday: 7am to 6pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.64685138458405,
+    "longitude": -0.047251653957139664
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Starfish and Coffee 92 Aldermans Hill London N13 4PP",
+    "opening_hours": "Monday to Friday: 9am to 4pm Saturday: 9am to 6pm Sunday: 10am to 6pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.61958625,
+    "longitude": -0.11414850000000244
+  },
+  {
+    "name": "Community Toilet",
+    "address": "The Heritage Coffee and Tea Company 7 The Broadway London N14 6PH",
+    "opening_hours": "Monday to Friday: 7am to 6pm Saturday: 8am to 6pm Sunday: 9am to 6pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.63271795301476,
+    "longitude": -0.12673700169798321
+  },
+  {
+    "name": "Community Toilet",
+    "address": "The Kings Head 9 Market Place Enfield EN2 6LL",
+    "opening_hours": "Monday to Thursday: 11am to 12:30am Friday and Saturday: 11am to 2am Sunday: 12pm to midnight",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.6526134,
+    "longitude": -0.082537
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Tesco Savoy Parade Southbury Road EN1 1RT",
+    "opening_hours": "Monday: 8am to midnight Tuesday and Friday: 6am to midnight Saturday: 6am to 10pm Sunday: 11am to 5pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.65129899979646,
+    "longitude": -0.07666291497296895
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Tesco Extra 288 High Street Ponders End EN3 4JW",
+    "opening_hours": "Monday to Friday: 24hrs Saturday: Until midnight Sunday: 10am to 4pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.64805835,
+    "longitude": -0.04766537298827517
+  },
+  {
+    "name": "Community Toilet",
+    "address": "Tesco Extra 1 Glover Drive London N18 3HF",
+    "opening_hours": "Monday to Friday: 24hrs Saturday: Until midnight Sunday: 11am to 5pm",
+    "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
+    "borough": "Enfield",
+    "latitude": 51.6099835,
+    "longitude": -0.04836387076615994
+  }
+]
