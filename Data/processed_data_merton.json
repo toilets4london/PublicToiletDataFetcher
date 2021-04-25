@@ -1,0 +1,65 @@
+[
+  {
+    "data_source": "https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme",
+    "borough": "Merton",
+    "address": "Caffe D'Oro, Merton",
+    "name": "Caffe D'Oro",
+    "latitude": 51.402716,
+    "longitude": -0.192341,
+    "opening_hours": "Monday to Saturday: 7.00am - 4.30pm"
+  },
+  {
+    "data_source": "https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme",
+    "borough": "Merton",
+    "address": "Cravings Cafe, Merton",
+    "name": "Cravings Cafe",
+    "latitude": 51.404893,
+    "longitude": -0.162657999999965,
+    "opening_hours": ""
+  },
+  {
+    "data_source": "https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme",
+    "borough": "Merton",
+    "address": "341 Haydon's Road, Colliers Wood, SW19 8LA",
+    "name": "Haydons Cafe",
+    "latitude": 51.427052,
+    "longitude": -0.190577,
+    "opening_hours": "Mon - Sat : 06:30 16:00, Sunday: 09:00 - 16:00"
+  },
+  {
+    "data_source": "https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme",
+    "borough": "Merton",
+    "address": "Morden Library, Merton",
+    "name": "Morden Library",
+    "latitude": 51.401364,
+    "longitude": -0.196327,
+    "opening_hours": "Monday - Friday: 9.30am - 7pm, Saturday: 9.30am - 5pm, Sunday: Closed"
+  },
+  {
+    "data_source": "https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme",
+    "borough": "Merton",
+    "address": "Morden Cafe, Merton",
+    "name": "Morden Cafe",
+    "latitude": 51.403107,
+    "longitude": -0.192758000000026,
+    "opening_hours": ""
+  },
+  {
+    "data_source": "https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme",
+    "borough": "Merton",
+    "address": "Rosy Lea Cafe, Merton",
+    "name": "Rosy Lea Cafe",
+    "latitude": 51.402094,
+    "longitude": -0.194543,
+    "opening_hours": "Monday-Saturday 8.00am-4.00pm"
+  },
+  {
+    "data_source": "https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme",
+    "borough": "Merton",
+    "address": "Savoy Cafe, Merton",
+    "name": "Savoy Cafe",
+    "latitude": 51.416297,
+    "longitude": -0.192345,
+    "opening_hours": "Mon - Fri: 06:30 - 16:00, Saturday: 07:00 - 16:00, Sunday: 09:00 - 15:00"
+  }
+]

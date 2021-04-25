@@ -22,6 +22,7 @@ import SainsburysToilets
 import WalthamForestToilets
 import GreenwichToilets
 import HillingdonToilets
+import MertonToilets
 
 
 # HOW THIS FILE WORKS: Just uncomment the relevant line of code to extract those toilets. The output will appear in
@@ -58,3 +59,4 @@ import HillingdonToilets
 # WalthamForestToilets.extract_waltham_forest_data()
 # GreenwichToilets.extract_greenwich_data()
 # HillingdonToilets.hillingdon_csv_to_json()
+MertonToilets.process_merton_data()

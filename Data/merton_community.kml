@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Participating premises</name>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name><![CDATA[Caffe D'Oro]]></name>
+      <description>Monday to Saturday: 7.00am – 4.30pm</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -0.192341,51.402716,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cravings Cafe</name>
+      <styleUrl>#icon-22-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.162657999999965,51.404893,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haydons Café</name>
+      <description><![CDATA[Mon - Sat : 06:30 16:00<br>Sunday: 09:00 - 16:00<br>341 Haydon's Road, Colliers Wood, SW19 8LA]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -0.190577,51.427052,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morden Library</name>
+      <description><![CDATA[Monday - Friday: 9.30am - 7pm<br>Saturday: 9.30am - 5pm<br>Sunday: Closed]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -0.196327,51.401364,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morden Cafe</name>
+      <styleUrl>#icon-22-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.192758000000026,51.403107,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosy Lea Cafe</name>
+      <description>Monday-Saturday 8.00am-4.00pm</description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -0.194543,51.402094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Savoy Cafe</name>
+      <description><![CDATA[Mon - Fri: 06:30 - 16:00<br>Saturday: 07:00 - 16:00  <br>Sunday: 09:00 - 15:00]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          -0.192345,51.416297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
