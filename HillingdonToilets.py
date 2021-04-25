@@ -41,14 +41,6 @@ def get_fee(toilet):
         return fee_string
 
 
-def is_open(toilet):
-    """ Library toilets closed during covid lockdown """
-    if "library" in toilet[LOCATION].lower():
-        return False
-    else:
-        return True
-
-
 def hillingdon_csv_to_json():
     data = read_hillingdon_data()
     with open("Data/processed_data_hillingdon.json", 'w') as dataFile:
@@ -60,11 +52,11 @@ def hillingdon_csv_to_json():
                 'borough': 'Hillingdon',
                 'address': addr_builder(t),
                 'opening_hours': t[OPENINGHOURS],
-                'name': t[LOCATION],
+                'name': "Public Convenience",
                 'latitude': lat,
                 'longitude': lng,
                 'fee': get_fee(t),
-                'open': is_open(t)
+                'open': True
             }
             toilets.append(toilet)
         json.dump(toilets, dataFile)
