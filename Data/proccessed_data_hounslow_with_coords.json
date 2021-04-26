@@ -36,7 +36,7 @@
     "address": "Chiswick High Road Chiswick W4 2DR",
     "data_source": "www.hounslow.gov.uk/publictoilets",
     "latitude": 51.49238084475446,
-    "longitude": -0.25721071805484846,,
+    "longitude": -0.25721071805484846,
     "borough": "Hounslow"
   },
   {
@@ -176,27 +176,11 @@
     "borough": "Hounslow"
   },
   {
-    "name": "London Apprentice",
-    "address": "62 Church Street Isleworth TW7 6BG",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4711368,
-    "longitude": -0.3208597,
-    "borough": "Hounslow"
-  },
-  {
     "name": "Syon Park Garden Centre",
     "address": "Syon Park London Road Brentford TW8 8JG",
     "data_source": "www.hounslow.gov.uk/publictoilets",
     "latitude": 51.47766203012974,
     "longitude": -0.31426563181796324,
-    "borough": "Hounslow"
-  },
-  {
-    "name": "A.C. Curd Ltd",
-    "address": "55 South Street Isleworth TW7 7AA",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4686205,
-    "longitude": -0.3270344,
     "borough": "Hounslow"
   },
   {
@@ -211,8 +195,8 @@
     "name": "The Cafe",
     "address": "215 Twickenham Road Isleworth TW7 6AA",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4712644,
-    "longitude": -0.3284238,
+    "latitude": 51.470959952557024,
+    "longitude": -0.3285861895820234,
     "borough": "Hounslow"
   },
   {
@@ -227,8 +211,8 @@
     "name": "Bullstrode",
     "address": "55 Lampton Road TW3 1JG",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4697234,
-    "longitude": -0.3667343,
+    "latitude": 51.47030022724347,
+    "longitude": -0.366607842169675,
     "borough": "Hounslow"
   },
   {
