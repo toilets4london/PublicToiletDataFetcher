@@ -9,7 +9,8 @@
     "latitude": 51.510965,
     "longitude": -0.121857,
     "wheelchair": false,
-    "open": true
+    "open": true,
+    "fee": "£1 cash/card"
   },
   {
     "data_source": "https://www.westminster.gov.uk/leisure-libraries-and-community/public-toilets on 20/07/2021",
@@ -21,7 +22,8 @@
     "latitude": 51.50605,
     "longitude": -0.141328,
     "wheelchair": false,
-    "open": true
+    "open": true,
+    "fee": "50p"
   },
   {
     "data_source": "https://www.westminster.gov.uk/leisure-libraries-and-community/public-toilets on 20/07/2021",
@@ -45,7 +47,8 @@
     "latitude": 51.510278,
     "longitude": -0.128349,
     "wheelchair": false,
-    "open": true
+    "open": true,
+    "fee": "50p"
   },
   {
     "data_source": "https://www.westminster.gov.uk/leisure-libraries-and-community/public-toilets on 20/07/2021",
@@ -105,7 +108,8 @@
     "latitude": 51.507092,
     "longitude": -0.120266,
     "wheelchair": true,
-    "open": true
+    "open": true,
+    "fee": "50p (cash)"
   },
   {
     "data_source": "https://www.westminster.gov.uk/leisure-libraries-and-community/public-toilets on 20/07/2021",
@@ -129,7 +133,8 @@
     "latitude": 51.501101,
     "longitude": -0.12196,
     "wheelchair": true,
-    "open": true
+    "open": true,
+    "fee": "50p"
   },
   {
     "data_source": "https://www.westminster.gov.uk/leisure-libraries-and-community/public-toilets on 20/07/2021",
@@ -153,7 +158,8 @@
     "latitude": 51.513088,
     "longitude": -0.134252,
     "wheelchair": true,
-    "open": true
+    "open": true,
+    "fee": "50p"
   },
   {
     "data_source": "https://www.westminster.gov.uk/leisure-libraries-and-community/public-toilets on 20/07/2021",
@@ -285,7 +291,8 @@
     "latitude": 51.513261,
     "longitude": -0.139086,
     "wheelchair": false,
-    "open": true
+    "open": true,
+    "fee": "50p"
   },
   {
     "data_source": "https://www.westminster.gov.uk/leisure-libraries-and-community/public-toilets on 20/07/2021",

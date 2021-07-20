@@ -49,7 +49,7 @@ import EnfieldToilets
 # NewhamToilets.extract_all_newham_toilets()
 # BarnetToilets.get_all_barnet_toilets()
 # BarnetToilets2.barnet_libraries_csv_to_json()
-# WestminsterToilets.westminster_csv_to_json()
+# WestminsterToilets.get_westminster_toilets()
 # BrentToilets.get_all_brent_toilets()
 # HaringeyToilets.get_haringey_data()
 # SouthwarkToilets.get_southwark_data()
