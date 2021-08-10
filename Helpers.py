@@ -1,6 +1,8 @@
 import re
+from pyproj import Proj, transform
 
-IS_CLOSED_KEYWORDS = ["library", "caf", "centre", "bar", "brasserie", "public house", "pub", "room", "house", "the", "club", "centre", "restaurant", "court", "coffee", "tea", "kebab", "curry", "hall", "hair"]
+IS_CLOSED_KEYWORDS = ["library", "caf", "centre", "bar", "brasserie", "public house", "pub", "room", "house", "the",
+                      "club", "centre", "restaurant", "court", "coffee", "tea", "kebab", "curry", "hall", "hair"]
 DISABLED_KEYWORDS = ["accessible", "disabled", "wheelchair", "access"]
 BABY_CHANGE_KEYWORDS = ["baby", "babychange", "change", "changing", "baby change"]
 OPENING_HOURS_KEYWORDS = ["mon", "tue", "wed", "thur", "fri", "sat", "sun", "holidays", ":00", "00", "24hr"]
@@ -69,4 +71,14 @@ def only_single_whitespace(s):
 
 
 def remove_all_whitespace(str):
-    return str.replace(" ","")
+    return str.replace(" ", "")
+
+
+def ENtoLL84(easting, northing):
+    """Returns (longitude, latitude) tuple - unintuitive order"""
+    v84 = Proj(proj="latlong", towgs84="0,0,0", ellps="WGS84")
+    v36 = Proj(proj="latlong", k=0.9996012717, ellps="airy",
+               towgs84="446.448,-125.157,542.060,0.1502,0.2470,0.8421,-20.4894")
+    vgrid = Proj(init="world:bng")
+    vlon36, vlat36 = vgrid(easting, northing, inverse=True)
+    return transform(v36, v84, vlon36, vlat36)

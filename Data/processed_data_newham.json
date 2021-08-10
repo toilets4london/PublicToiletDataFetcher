@@ -26,18 +26,6 @@
   {
     "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
     "borough": "Newham",
-    "address": "18 Rathbone Market Barking Road Canning Town London E16 1EH",
-    "opening_hours": "",
-    "name": "Canning Town Community Neighbourhood Centre and Library",
-    "baby_change": true,
-    "latitude": 51.5164592,
-    "longitude": 0.010587,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
-  },
-  {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
-    "borough": "Newham",
     "address": "292b Barking Road, East Ham, London, E6 3BA",
     "opening_hours": "  Opening times: Monday to Friday from 9am - 4pm (Closed Saturday, Sunday and Bank Holidays) ",
     "name": "St. Bartholomew's Church and Centre",
@@ -152,18 +140,6 @@
     "baby_change": true,
     "latitude": 51.5300802,
     "longitude": 0.055629,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
-  },
-  {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
-    "borough": "Newham",
-    "address": "McDonald's 322/326 Romford Road, London, E7 8BD ",
-    "opening_hours": " Opening times:   Monday to Sunday including Bank Holidays from 6am - 11pm",
-    "name": "Woodgrange Road Community Toilet",
-    "baby_change": true,
-    "latitude": 51.5463635,
-    "longitude": 0.0279871,
     "wheelchair": true,
     "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   }

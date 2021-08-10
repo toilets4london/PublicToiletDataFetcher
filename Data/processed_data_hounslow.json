@@ -176,14 +176,6 @@
     "borough": "Hounslow"
   },
   {
-    "name": "Guru Restaurant, Cafe and Bar",
-    "address": "Watermans Arts Centre 40 High Street Brentford TW8 0DS",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4857653,
-    "longitude": -0.2979396615063419,
-    "borough": "Hounslow"
-  },
-  {
     "name": "Brentford Station",
     "address": "Boston Manor Road Brentford TW8 8DT",
     "data_source": "www.hounslow.gov.uk/publictoilets",
@@ -237,14 +229,6 @@
     "data_source": "www.hounslow.gov.uk/publictoilets",
     "latitude": 51.4849399,
     "longitude": -0.3052294,
-    "borough": "Hounslow"
-  },
-  {
-    "name": "Paddy Power",
-    "address": "110-111 High Street Brentford TW8 8AT",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4837969,
-    "longitude": -0.3046136,
     "borough": "Hounslow"
   },
   {
@@ -416,11 +400,35 @@
     "borough": "Hounslow"
   },
   {
+    "name": "Osterley Garden",
+    "address": "Osterley Park Jersey Road Isleworth TW7 4RB",
+    "data_source": "www.hounslow.gov.uk/publictoilets",
+    "latitude": 51.4893785,
+    "longitude": -0.35216761924570117,
+    "borough": "Hounslow"
+  },
+  {
     "name": "Osterley Park",
     "address": "Jersey Road Osterley TW7 4RB",
     "data_source": "www.hounslow.gov.uk/publictoilets",
     "latitude": 51.4842725,
     "longitude": -0.3455123,
+    "borough": "Hounslow"
+  },
+  {
+    "name": "Tea Rooms",
+    "address": "Osterley Park Jersey Road Isleworth TW7 4RB",
+    "data_source": "www.hounslow.gov.uk/publictoilets",
+    "latitude": 51.49026826107758,
+    "longitude": -0.35215964077728923,
+    "borough": "Hounslow"
+  },
+  {
+    "name": "Osterley Park Shop",
+    "address": "Osterley Park Jersey Road Isleworth TW7 4RB",
+    "data_source": "www.hounslow.gov.uk/publictoilets",
+    "latitude": 51.49023869514542,
+    "longitude": -0.3518426961405297,
     "borough": "Hounslow"
   },
   {
@@ -445,14 +453,6 @@
     "data_source": "www.hounslow.gov.uk/publictoilets",
     "latitude": 51.4687419,
     "longitude": -0.3623428,
-    "borough": "Hounslow"
-  },
-  {
-    "name": "Starbucks Coffee",
-    "address": "198 High Street TW3 1HL",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4694472,
-    "longitude": -0.3579506,
     "borough": "Hounslow"
   },
   {
@@ -496,6 +496,14 @@
     "borough": "Hounslow"
   },
   {
+    "name": "Hounslow Toy Library For Disabled Children",
+    "address": "Inwood Park Inwood Road TW3 1XA",
+    "data_source": "www.hounslow.gov.uk/publictoilets",
+    "latitude": 51.46783242276796,
+    "longitude":  -0.3580729742370846,
+    "borough": "Hounslow"
+  },
+  {
     "name": "Yates&#39;s",
     "address": "1-3 Bath Road TW3 3BJ",
     "data_source": "www.hounslow.gov.uk/publictoilets",
@@ -517,14 +525,6 @@
     "data_source": "www.hounslow.gov.uk/publictoilets",
     "latitude": 51.467292400000005,
     "longitude": -0.33204774782042934,
-    "borough": "Hounslow"
-  },
-  {
-    "name": "Bridgelink Centre",
-    "address": "Summerwood Road Isleworth TW7 7QU",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4593065,
-    "longitude": -0.3327107,
     "borough": "Hounslow"
   },
   {

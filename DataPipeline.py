@@ -52,7 +52,7 @@ import EnfieldToilets
 # WestminsterToilets.get_westminster_toilets()
 # BrentToilets.get_all_brent_toilets()
 # HaringeyToilets.get_haringey_data()
-# SouthwarkToilets.get_southwark_data()
+# SouthwarkToilets.get_toilets_from_csv()
 # HounslowToilets.get_hounslow_toilets()
 # WandsworthToilets2.process_wandsworth_data()
 # TransportForLondonToilets.get_tfl_toilets()

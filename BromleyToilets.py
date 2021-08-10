@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 
-MAIN_URL = "https://www.bromley.gov.uk/directory/36/"
+MAIN_URL = "https://www.bromley.gov.uk/directory/36/community_and_public_toilets/category/525"
 BASE_URL = "https://www.bromley.gov.uk"
 
 
@@ -70,7 +70,7 @@ def parse_detail_page(url):
     baby_change = check_baby_change(facilities_description)
 
     toilet = {
-        'data_source': 'Extracted from https://www.bromley.gov.uk/directory/36/ on 16/01/2021',
+        'data_source': 'bromley.gov.uk on 10/08/2021',
         'borough': 'Bromley',
         'address': clean_text(address+" "+postcode),
         'opening_hours': clean_text(opening),
@@ -79,7 +79,6 @@ def parse_detail_page(url):
         'latitude': float(lat_lng[0]),
         'longitude': float(lat_lng[1]),
         'wheelchair': disabled,
-        'covid': "Many community toilets have been affected by Covid restrictions and may not be currently operating"
     }
     print(toilet)
     return toilet
@@ -87,7 +86,14 @@ def parse_detail_page(url):
 
 def create_toilet_list():
     links = parse_main_page(get_data())
-    return [parse_detail_page(BASE_URL+link) for link in links]
+    lst = []
+    for link in links:
+        try:
+            t = parse_detail_page(BASE_URL + link)
+            lst.append(t)
+        except IndexError:
+            print(f"Error at {BASE_URL + link}")
+    return lst
 
 
 def extract_bromley_json():

@@ -2,39 +2,6 @@
   {
     "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
     "borough": "Barnet",
-    "address": "Ballards Lane, Finchley, London N3 1NH",
-    "opening_hours": "",
-    "name": "Ballards Lane",
-    "baby_change": false,
-    "latitude": 51.6084,
-    "longitude": -0.185152,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
-    "borough": "Barnet",
-    "address": "Bell Lane, Hendon, London NW4",
-    "opening_hours": "",
-    "name": "Bell Lane",
-    "baby_change": false,
-    "latitude": 51.5937,
-    "longitude": -0.218111,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
-    "borough": "Barnet",
-    "address": "Cat Hill, East Barnet, Herts.  EN4",
-    "opening_hours": "",
-    "name": "Cat Hill",
-    "baby_change": false,
-    "latitude": 51.657,
-    "longitude": -0.159426,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
-    "borough": "Barnet",
     "address": "Cherry Tree Woods N2 9QH",
     "opening_hours": "",
     "name": "Cherry Tree Woods",
@@ -156,17 +123,6 @@
   {
     "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
     "borough": "Barnet",
-    "address": "Stanhope Road, London, N12 9DX",
-    "opening_hours": "",
-    "name": "Stanhope Road",
-    "baby_change": false,
-    "latitude": 51.6147,
-    "longitude": -0.174747,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
-    "borough": "Barnet",
     "address": "Tudor Sports Ground  EN5",
     "opening_hours": "",
     "name": "Tudor Sports Ground ",
@@ -195,17 +151,6 @@
     "baby_change": false,
     "latitude": 51.657,
     "longitude": -0.159426,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
-    "borough": "Barnet",
-    "address": "Watling Avenue, Burnt Oak, Edgeware, Middlesex HA8",
-    "opening_hours": "",
-    "name": "Watling Avenue",
-    "baby_change": false,
-    "latitude": 51.6146,
-    "longitude": -0.277437,
     "wheelchair": false
   }
 ]

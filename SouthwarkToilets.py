@@ -1,46 +1,29 @@
-import requests
 import json
-from HillingdonToilets import ENtoLL84
+import pandas as pd
+from Helpers import ENtoLL84
 
 
-URL = "https://geo.southwark.gov.uk/connect/analyst/controller/connectProxy/rest/Spatial/FeatureService"
-Q = 'url=tables/features.json?q=SELECT * FROM "/NamedMaps/NamedTables/Public toilets in Southwark"&encodeSpecialChars=true&pageLength=1000'
+# CSV downloaded from https://geo.southwark.gov.uk/connect/analyst/mobile/#/main?mapcfg=Southwark%20Public%20Toilets
 
-
-def get_southwark_data():
-    raw_data = requests.post(URL, Q, verify=False, headers={"Content-Type": "application/x-www-form-urlencoded"}).text
-
-    print(raw_data)
-    toilet_data = json.loads(raw_data)['features']
-
+def get_toilets_from_csv():
+    df = pd.read_csv('./Data/southwark_toilets.csv')
+    df = df.fillna("")
+    data = df.to_dict(orient="records")
     toilets = []
-
-    for toilet in toilet_data:
-        info = toilet['properties']
-
-        name = info['Name']
-        address = info['Location']
-        disabled = 'y' in info['DisabledFacilities'].lower()
-        opening = info['OpeningTime']
-        lng, lat = ENtoLL84(info['Easting'], info['Northing'])
-        fee = info['CostCharge']
-        babychange = 'y' in info['BabyChangingFacilities'].lower()
-
-        processed_toilet = {
-            'data_source': 'Data extracted from https://www.southwark.gov.uk/environment/public-toilets on 13/02/21',
-            'borough': 'Southwark',
-            'address': address,
-            'opening_hours': opening,
-            'name': name,
-            'latitude': lat,
-            'longitude': lng,
-            'wheelchair': disabled,
-            'fee': fee,
-            'baby_change': babychange
-        }
-
-        toilets.append(processed_toilet)
-
-    with open("Data/processed_data_southwark.json", "w") as dataFile:
-        json.dump(toilets, dataFile)
-
+    for entry in data:
+        lng, lat = ENtoLL84(entry["Easting"], entry["Northing"])
+        toilets.append({
+            "name": entry["Name"],
+            "address": entry["Location"] + " " + entry["AdditionalInfo"],
+            "opening_hours": entry["OpeningTime"],
+            "fee": entry["CostCharge"],
+            "baby_change": "Y" in entry["BabyChangingFacilities"].upper(),
+            "wheelchair": "Y" in entry["DisabledFacilities"].upper(),
+            "latitude": lat,
+            "longitude": lng,
+            "data_source": "Downloaded from https://geo.southwark.gov.uk/ on 10/08/2021",
+            "borough": "Southwark"
+        })
+    print(toilets)
+    with open("Data/processed_data_southwark.json", "w") as jsonFile:
+        json.dump(toilets, jsonFile)

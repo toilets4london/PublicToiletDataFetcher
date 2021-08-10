@@ -287,19 +287,6 @@
   },
   {
     "data_source": "Lewisham Community Toilets https://www.lewishamlocal.com/projects/communitytoilets/",
-    "address": "375 Brockley Rd SE4 2AG",
-    "latitude": "51.4553602",
-    "longitude": "-0.03636329999994814",
-    "borough": "Lewisham",
-    "wheelchair": false,
-    "name": "Crofton Park Library",
-    "opening_hours": "",
-    "baby_change": false,
-    "open": false,
-    "covid": ""
-  },
-  {
-    "data_source": "Lewisham Community Toilets https://www.lewishamlocal.com/projects/communitytoilets/",
     "address": "50 Kangley Bridge Rd SE26 5AQ",
     "latitude": "51.4259728",
     "longitude": "-0.03443210000000363",
