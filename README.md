@@ -50,27 +50,27 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
 
 ## Boroughs with dedicated scripts:
 
-- [] City of London
-- [] Barking and Dagenham
+- [ ] City of London
+- [ ] Barking and Dagenham
 - [x] Barnet
 - [x] Bexley
 - [x] Brent
 - [x] Bromley
 - [x] Camden
-- [] Croydon
+- [ ] Croydon
 - [x] Ealing
 - [x] Enfield
 - [x] Greenwich
-- [] Hackney
-- [] Hammersmith and Fulham
+- [ ] Hackney
+- [ ] Hammersmith and Fulham
 - [x] Haringey
-- [] Harrow
-- [] Havering
+- [ ] Harrow
+- [ ] Havering
 - [x] Hillingdon
 - [x] Hounslow
-- [] Islington
+- [ ] Islington
 - [x] Kensington and Chelsea
-- [] Kingston upon Thames
+- [ ] Kingston upon Thames
 - [x] Lambeth
 - [x] Lewisham
 - [x] Merton
@@ -79,7 +79,7 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
 - [x] Richmond upon Thames
 - [x] Southwark
 - [x] Sutton
-- [] Tower Hamlets
+- [ ] Tower Hamlets
 - [x] Waltham Forest
 - [x] Wandsworth
 - [x] Westminster
