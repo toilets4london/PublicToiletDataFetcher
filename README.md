@@ -48,6 +48,44 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
 - If fee is left out, it defaults to a free toilet
 - `borough`, `latitude` and `longitude` are required fields
 
+## Boroughs with dedicated scripts:
+
+[] City of London
+[] Barking and Dagenham
+[x] Barnet
+[x] Bexley
+[x] Brent
+[x] Bromley
+[x] Camden
+[] Croydon
+[x] Ealing
+[x] Enfield
+[x] Greenwich
+[] Hackney
+[] Hammersmith and Fulham
+[x] Haringey
+[] Harrow
+[] Havering
+[x] Hillingdon
+[x] Hounslow
+[] Islington
+[x] Kensington and Chelsea
+[] Kingston upon Thames
+[x] Lambeth
+[x] Lewisham
+[x] Merton
+[x] Newham
+[x] Redbridge
+[x] Richmond upon Thames
+[x] Southwark
+[x] Sutton
+[] Tower Hamlets
+[x] Waltham Forest
+[x] Wandsworth
+[x] Westminster
+
+
+
 ## Credits
 
 - All OpenStreetMap data is © OpenStreetMap contributors
