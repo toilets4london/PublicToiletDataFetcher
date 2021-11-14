@@ -19,16 +19,16 @@
     "name": "Crown and Anchor",
     "address": "374 Chiswick High Road Chiswick W4 5TA",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4924588,
-    "longitude": -0.2627024,
+    "latitude": 51.4924617,
+    "longitude": -0.262866,
     "borough": "Hounslow"
   },
   {
     "name": "Rush",
     "address": "380 Chiswick High Road Chiswick W4 5TF",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4925667,
-    "longitude": -0.2652437,
+    "latitude": 51.4926599,
+    "longitude": -0.2665829,
     "borough": "Hounslow"
   },
   {
@@ -43,8 +43,8 @@
     "name": "Nando&#39;s",
     "address": "Chiswick High Road Chiswick W4 2DR",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4926217,
-    "longitude": -0.2568343,
+    "latitude": 51.4926241,
+    "longitude": -0.2568228,
     "borough": "Hounslow"
   },
   {
@@ -59,16 +59,8 @@
     "name": "Packhorse and Talbot",
     "address": "145 Chiswick High Road Chiswick W4 2DT",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4925601,
-    "longitude": -0.2570521,
-    "borough": "Hounslow"
-  },
-  {
-    "name": "Kings House Sports Ground",
-    "address": "Riverside Drive Dukes Meadow Chiswick W4 2SH",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4786225,
-    "longitude": -0.2557579,
+    "latitude": 51.4925716,
+    "longitude": -0.2569698,
     "borough": "Hounslow"
   },
   {
@@ -99,8 +91,8 @@
     "name": "Frankie &amp; Benny&#39;s",
     "address": "Feltham Leisure Park Feltham TW13 7EQ",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.44360035,
-    "longitude": -0.4064672500000001,
+    "latitude": 51.443266,
+    "longitude": -0.4060954,
     "borough": "Hounslow"
   },
   {
@@ -109,14 +101,6 @@
     "data_source": "www.hounslow.gov.uk/publictoilets",
     "latitude": 51.4471556,
     "longitude": -0.4095840645369454,
-    "borough": "Hounslow"
-  },
-  {
-    "name": "Feltham Station",
-    "address": " Road High Street Feltham TW13 4BY",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4480918,
-    "longitude": -0.4085175,
     "borough": "Hounslow"
   },
   {
@@ -147,16 +131,16 @@
     "name": "Volvo Cars West London Ltd",
     "address": "115 Power Road Chiswick W4 5PY",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4942329,
-    "longitude": -0.2795683,
+    "latitude": 51.4935075,
+    "longitude": -0.2801067,
     "borough": "Hounslow"
   },
   {
     "name": "Musical Museum",
     "address": "399 High Street Brentford TW8 0DU",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4839986,
-    "longitude": -0.3038748,
+    "latitude": 51.4878351,
+    "longitude": -0.29311224754744614,
     "borough": "Hounslow"
   },
   {
@@ -179,32 +163,32 @@
     "name": "Brentford Station",
     "address": "Boston Manor Road Brentford TW8 8DT",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4873311,
-    "longitude": -0.310158,
+    "latitude": 51.48731,
+    "longitude": -0.3100618,
     "borough": "Hounslow"
   },
   {
     "name": "Travelodge (London Kew Bridge)",
     "address": "North Road High Street Brentford TW8 0BD",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4872414,
-    "longitude": -0.2965223,
+    "latitude": 51.4687419,
+    "longitude": -0.3623428,
     "borough": "Hounslow"
   },
   {
     "name": "Brentford Library",
     "address": "11F Boston Manor Road TW8 8DW",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4892723,
-    "longitude": -0.3148221,
+    "latitude": 51.4858619,
+    "longitude": -0.3074744,
     "borough": "Hounslow"
   },
   {
     "name": "Isleworth Public Hall",
     "address": "South Street Isleworth TW7 7BG",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4685849,
-    "longitude": -0.3254424,
+    "latitude": 51.4686589,
+    "longitude": -0.3250314,
     "borough": "Hounslow"
   },
   {
@@ -219,8 +203,8 @@
     "name": "Morrisons",
     "address": "228-246 High Street Brentford TW8 0JG",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4837969,
-    "longitude": -0.3046136,
+    "latitude": 51.4838857,
+    "longitude": -0.30569977111018487,
     "borough": "Hounslow"
   },
   {
@@ -235,24 +219,24 @@
     "name": "Syon Gardens",
     "address": "Syon Park London Road Brentford TW8 8JF",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4767537,
-    "longitude": -0.31554461522738975,
+    "latitude": 51.4796558,
+    "longitude": -0.3151651991553095,
     "borough": "Hounslow"
   },
   {
     "name": "London Apprentice",
     "address": "62 Church Street Isleworth TW7 6BG",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4711368,
-    "longitude": -0.3208597,
+    "latitude": 51.471079700000004,
+    "longitude": -0.3208071425007799,
     "borough": "Hounslow"
   },
   {
     "name": "Syon Park Garden Centre",
     "address": "Syon Park London Road Brentford TW8 8JG",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4767537,
-    "longitude": -0.31554461522738975,
+    "latitude": 51.4796558,
+    "longitude": -0.3151651991553095,
     "borough": "Hounslow"
   },
   {
@@ -291,8 +275,8 @@
     "name": "Toys R Us",
     "address": "Hayes Road Southall UB2 5LN",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.5099627,
-    "longitude": -0.39119902292800024,
+    "latitude": 51.5130866,
+    "longitude": -0.3898868,
     "borough": "Hounslow"
   },
   {
@@ -379,16 +363,16 @@
     "name": "Hounslow Shopmobility",
     "address": "Blenheim Centre Prince Regent Road TW3 1NL",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4712141,
-    "longitude": -0.3610629,
+    "latitude": 51.47113765,
+    "longitude": -0.36167433417326844,
     "borough": "Hounslow"
   },
   {
     "name": "Gym",
     "address": "Blenheim Centre Prince Regent Road TW3 1NL",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4712141,
-    "longitude": -0.3610629,
+    "latitude": 51.47113765,
+    "longitude": -0.36167433417326844,
     "borough": "Hounslow"
   },
   {
@@ -400,35 +384,11 @@
     "borough": "Hounslow"
   },
   {
-    "name": "Osterley Garden",
-    "address": "Osterley Park Jersey Road Isleworth TW7 4RB",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4893785,
-    "longitude": -0.35216761924570117,
-    "borough": "Hounslow"
-  },
-  {
     "name": "Osterley Park",
     "address": "Jersey Road Osterley TW7 4RB",
     "data_source": "www.hounslow.gov.uk/publictoilets",
     "latitude": 51.4842725,
     "longitude": -0.3455123,
-    "borough": "Hounslow"
-  },
-  {
-    "name": "Tea Rooms",
-    "address": "Osterley Park Jersey Road Isleworth TW7 4RB",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.49026826107758,
-    "longitude": -0.35215964077728923,
-    "borough": "Hounslow"
-  },
-  {
-    "name": "Osterley Park Shop",
-    "address": "Osterley Park Jersey Road Isleworth TW7 4RB",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.49023869514542,
-    "longitude": -0.3518426961405297,
     "borough": "Hounslow"
   },
   {
@@ -467,8 +427,8 @@
     "name": "Holy Trinity Church",
     "address": "High Street TW3 1HG",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4682959,
-    "longitude": -0.3644358,
+    "latitude": 51.4683299,
+    "longitude": -0.3642807,
     "borough": "Hounslow"
   },
   {
@@ -491,24 +451,24 @@
     "name": "T.K.Maxx",
     "address": "230-236 High Street TW3 1HB",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4682959,
-    "longitude": -0.3644358,
+    "latitude": 51.4687419,
+    "longitude": -0.3623428,
     "borough": "Hounslow"
   },
   {
     "name": "Hounslow Toy Library For Disabled Children",
     "address": "Inwood Park Inwood Road TW3 1XA",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.46783242276796,
-    "longitude":  -0.3580729742370846,
+    "latitude": 51.462600800000004,
+    "longitude": -0.36175603259390166,
     "borough": "Hounslow"
   },
   {
     "name": "Yates&#39;s",
     "address": "1-3 Bath Road TW3 3BJ",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4703797,
-    "longitude": -0.3786385,
+    "latitude": 51.4703108,
+    "longitude": -0.3786613,
     "borough": "Hounslow"
   },
   {
@@ -528,6 +488,14 @@
     "borough": "Hounslow"
   },
   {
+    "name": "Bridgelink Centre",
+    "address": "Summerwood Road Isleworth TW7 7QU",
+    "data_source": "www.hounslow.gov.uk/publictoilets",
+    "latitude": 51.4593065,
+    "longitude": -0.3327107,
+    "borough": "Hounslow"
+  },
+  {
     "name": "Hounslow Royal British Legion",
     "address": "37 Whitton Road TW3 2DB",
     "data_source": "www.hounslow.gov.uk/publictoilets",
@@ -539,8 +507,8 @@
     "name": "Cross Lances",
     "address": "236 Hanworth Road TW3 3TU",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4611214,
-    "longitude": -0.3683463,
+    "latitude": 51.4615415,
+    "longitude": -0.3679165,
     "borough": "Hounslow"
   },
   {
@@ -557,14 +525,6 @@
     "data_source": "www.hounslow.gov.uk/publictoilets",
     "latitude": 51.4601419,
     "longitude": -0.3624218,
-    "borough": "Hounslow"
-  },
-  {
-    "name": "Heston Services M4 Eastbound",
-    "address": "Junction 2-3 M4 TW5 9NA",
-    "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4891671,
-    "longitude": -0.2852985,
     "borough": "Hounslow"
   },
   {
@@ -603,8 +563,8 @@
     "name": "Honeycombe",
     "address": "417 Staines Road TW4 5AR",
     "data_source": "www.hounslow.gov.uk/publictoilets",
-    "latitude": 51.4646523,
-    "longitude": -0.3779617,
+    "latitude": 51.4655162,
+    "longitude": -0.3770717,
     "borough": "Hounslow"
   },
   {

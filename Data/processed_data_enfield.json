@@ -32,8 +32,8 @@
     "opening_hours": "Monday to Wednesday: 11am to midnight Thursday: 11am to 1am Friday and Saturday: 11am to 2am Sunday: Closed",
     "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
     "borough": "Enfield",
-    "latitude": 51.653092,
-    "longitude": -0.0803774
+    "latitude": 0,
+    "longitude": 0
   },
   {
     "name": "Community Toilet",
@@ -122,8 +122,8 @@
     "opening_hours": "Monday to Friday: 9am to 4pm Saturday: 9am to 6pm Sunday: 10am to 6pm",
     "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
     "borough": "Enfield",
-    "latitude": 51.61958625,
-    "longitude": -0.11414850000000244
+    "latitude": 0,
+    "longitude": 0
   },
   {
     "name": "Community Toilet",
@@ -140,8 +140,8 @@
     "opening_hours": "Monday to Thursday: 11am to 12:30am Friday and Saturday: 11am to 2am Sunday: 12pm to midnight",
     "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
     "borough": "Enfield",
-    "latitude": 51.6526134,
-    "longitude": -0.082537
+    "latitude": 0,
+    "longitude": 0
   },
   {
     "name": "Community Toilet",
@@ -158,8 +158,8 @@
     "opening_hours": "Monday to Friday: 24hrs Saturday: Until midnight Sunday: 10am to 4pm",
     "data_source": "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/",
     "borough": "Enfield",
-    "latitude": 51.64805835,
-    "longitude": -0.04766537298827517
+    "latitude": 0,
+    "longitude": 0
   },
   {
     "name": "Community Toilet",

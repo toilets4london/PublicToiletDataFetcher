@@ -79,12 +79,12 @@
   {
     "data_source": "Redbridge Culture and Leisure sent in spreadsheet 6/10/2020",
     "borough": "Redbridge",
-    "address": "Barley Lane Recreation Ground IG3 8XF",
+    "address": "Loxford Parks IG1 2QA",
     "opening_hours": "Closed at 6pm with Disabled toilets",
-    "name": "Barley Lane Recreation Ground",
+    "name": "Loxford Parks",
     "baby_change": false,
-    "latitude": 51.5744583,
-    "longitude": 0.1127128,
+    "latitude": 51.54837905,
+    "longitude": 0.08134890492025704,
     "wheelchair": true
   },
   {
@@ -116,8 +116,8 @@
     "opening_hours": "By the caf\u00e9/Play area Parks opening times only with Disabled toilets",
     "name": "Valentine\u2019s Park",
     "baby_change": false,
-    "latitude": 51.56885695,
-    "longitude": 0.07113179188081206,
+    "latitude": 51.01640315,
+    "longitude": -1.3138485500000003,
     "wheelchair": true
   }
 ]

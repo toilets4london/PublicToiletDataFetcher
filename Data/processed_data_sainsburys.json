@@ -89,7 +89,7 @@
   },
   {
     "name": "Barkingside Sainsbury's",
-    "opening_hours": "MON 07:00-22:00 , TUE 07:00-22:00 , WED 07:00-22:00 , THUR 07:00-22:00 , FRI 07:00-22:00 , SAT 07:00-22:00 , SUN 10:00-16:00 ",
+    "opening_hours": "MON 07:00-21:00 , TUE 07:00-21:00 , WED 07:00-21:00 , THUR 07:00-21:00 , FRI 07:00-21:00 , SAT 07:00-21:00 , SUN 10:00-16:00 ",
     "latitude": "51.58836",
     "longitude": "0.08172",
     "address": "66-100 Tanners Lane IG6 1QE",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Lee Grn Sainsbury's",
-    "opening_hours": "MON 07:00-22:00 , TUE 07:00-22:00 , WED 07:00-22:00 , THUR 07:00-22:00 , FRI 07:00-22:00 , SAT 07:00-22:00 , SUN 11:00-17:00 ",
+    "opening_hours": "MON 07:00-23:00 , TUE 07:00-23:00 , WED 07:00-23:00 , THUR 07:00-23:00 , FRI 07:00-23:00 , SAT 07:00-23:00 , SUN 11:00-17:00 ",
     "latitude": "51.45582",
     "longitude": "0.01042",
     "address": "14 Burnt Ash Road SE12 8PZ",

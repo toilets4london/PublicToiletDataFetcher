@@ -280,7 +280,7 @@
     "borough": "Lewisham",
     "wheelchair": false,
     "name": "Bellingham Leisure Centre",
-    "opening_hours": "Monday 09:00-22:00 Tuesday 07:00-22:00 Wednesday 09:00-22:00 Thursday 07:00-22:00 Friday 09:00-22:00 Saturday & Sunday 09:00-17:30 Bank Holidays 09:00-17:30",
+    "opening_hours": "Mon - Fri 09:00 - 22:00 Sat - Sun 09:00 - 17:30",
     "baby_change": false,
     "open": false,
     "covid": ""
@@ -742,19 +742,6 @@
   },
   {
     "data_source": "Lewisham Community Toilets https://www.lewishamlocal.com/projects/communitytoilets/",
-    "address": "Education Building, New Cross SE14 6NL",
-    "latitude": "51.4744205",
-    "longitude": "-0.03513939999993454",
-    "borough": "Lewisham",
-    "wheelchair": true,
-    "name": "Curzon Goldsmiths",
-    "opening_hours": "Mon - Sun: 9am-10pm",
-    "baby_change": true,
-    "open": true,
-    "covid": ""
-  },
-  {
-    "data_source": "Lewisham Community Toilets https://www.lewishamlocal.com/projects/communitytoilets/",
     "address": "283-285 New Cross Rd, London, SE14 6AS ",
     "latitude": "51.475458",
     "longitude": "-0.038484",
@@ -891,7 +878,7 @@
     "borough": "Lewisham",
     "wheelchair": false,
     "name": "Forest Hill Pools",
-    "opening_hours": "Mon-Fri: 6am-10pm | Sat-Sun: 7am-6pm",
+    "opening_hours": "Mon - Fri 06:30 - 21:00 Sat - Sun 07:00 - 15:00",
     "baby_change": false,
     "open": true,
     "covid": ""

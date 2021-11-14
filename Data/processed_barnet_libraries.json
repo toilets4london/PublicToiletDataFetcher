@@ -98,15 +98,5 @@
     "latitude": 51.6308087,
     "longitude": -0.1485207,
     "open": true
-  },
-  {
-    "data_source": "Downloaded from https://data.gov.uk/",
-    "borough": "Barnet",
-    "address": "South Friern Library",
-    "opening_hours": "Mo,Tu,Th,Sa 09:30-13:00, 14:00-17:00; We 10:00-13:00, 14:00-20:00; Fr,Su off",
-    "name": "Library toilets",
-    "latitude": 51.6135117,
-    "longitude": -0.1534283,
-    "open": true
   }
 ]

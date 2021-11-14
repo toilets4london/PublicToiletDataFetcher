@@ -6,8 +6,8 @@
     "opening_hours": "",
     "name": "Brockwell Park",
     "baby_change": true,
-    "latitude": 51.45064485,
-    "longitude": -0.10612678095387976,
+    "latitude": 51.4490756,
+    "longitude": -0.10599136304770111,
     "wheelchair": false
   },
   {
@@ -17,8 +17,8 @@
     "opening_hours": "",
     "name": "Brockwell Park",
     "baby_change": true,
-    "latitude": 51.45064485,
-    "longitude": -0.10612678095387976,
+    "latitude": 51.4490756,
+    "longitude": -0.10599136304770111,
     "wheelchair": false
   },
   {
@@ -28,8 +28,8 @@
     "opening_hours": "",
     "name": "Brockwell Park",
     "baby_change": true,
-    "latitude": 51.45064485,
-    "longitude": -0.10612678095387976,
+    "latitude": 51.4490756,
+    "longitude": -0.10599136304770111,
     "wheelchair": false
   },
   {
@@ -39,8 +39,8 @@
     "opening_hours": "",
     "name": "Brockwell Park",
     "baby_change": true,
-    "latitude": 51.45064485,
-    "longitude": -0.10612678095387976,
+    "latitude": 51.4490756,
+    "longitude": -0.10599136304770111,
     "wheelchair": false
   },
   {
@@ -50,8 +50,8 @@
     "opening_hours": "",
     "name": "Clapham Common",
     "baby_change": true,
-    "latitude": 51.457094999999995,
-    "longitude": -0.15056141295395867,
+    "latitude": 51.4613605,
+    "longitude": -0.1477763,
     "wheelchair": false
   },
   {
@@ -61,8 +61,8 @@
     "opening_hours": "",
     "name": "Clapham Common",
     "baby_change": false,
-    "latitude": 51.457094999999995,
-    "longitude": -0.15056141295395867,
+    "latitude": 51.4572005,
+    "longitude": -0.14600642432100208,
     "wheelchair": false
   },
   {
@@ -72,8 +72,8 @@
     "opening_hours": "",
     "name": "Clapham Common",
     "baby_change": true,
-    "latitude": 51.457094999999995,
-    "longitude": -0.15056141295395867,
+    "latitude": 51.4572005,
+    "longitude": -0.14600642432100208,
     "wheelchair": false
   },
   {
@@ -83,8 +83,8 @@
     "opening_hours": "",
     "name": "Hillside Gardens",
     "baby_change": true,
-    "latitude": 51.3532128,
-    "longitude": -0.1442105,
+    "latitude": 51.3546384,
+    "longitude": -0.1415276,
     "wheelchair": true
   },
   {
@@ -95,7 +95,7 @@
     "name": "Kennington Park",
     "baby_change": false,
     "latitude": 51.48332335,
-    "longitude": -0.109043273761556,
+    "longitude": -0.10908466350653534,
     "wheelchair": false
   },
   {
@@ -106,7 +106,7 @@
     "name": "Kennington Park",
     "baby_change": false,
     "latitude": 51.48332335,
-    "longitude": -0.109043273761556,
+    "longitude": -0.10908466350653534,
     "wheelchair": false
   },
   {
@@ -116,8 +116,8 @@
     "opening_hours": "",
     "name": "Myatts Field Park",
     "baby_change": true,
-    "latitude": 51.4744491,
-    "longitude": -0.1048503,
+    "latitude": 51.47258,
+    "longitude": -0.10566,
     "wheelchair": false
   },
   {
@@ -127,8 +127,8 @@
     "opening_hours": "",
     "name": "Myatts Field Park",
     "baby_change": false,
-    "latitude": 51.4744491,
-    "longitude": -0.1048503,
+    "latitude": 51.47258,
+    "longitude": -0.10566,
     "wheelchair": false
   },
   {
@@ -149,8 +149,8 @@
     "opening_hours": "",
     "name": "Ruskin Park",
     "baby_change": false,
-    "latitude": 51.464470000000006,
-    "longitude": -0.09417210701784878,
+    "latitude": 51.46594035,
+    "longitude": -0.09284335000000121,
     "wheelchair": false
   },
   {
@@ -160,8 +160,8 @@
     "opening_hours": "",
     "name": "Ruskin Park",
     "baby_change": false,
-    "latitude": 51.464470000000006,
-    "longitude": -0.09417210701784878,
+    "latitude": 51.46612685,
+    "longitude": -0.09551068869274032,
     "wheelchair": false
   },
   {
@@ -171,8 +171,8 @@
     "opening_hours": "",
     "name": "Streatham Common",
     "baby_change": true,
-    "latitude": 51.42164675,
-    "longitude": -0.12501765270915055,
+    "latitude": 51.422493,
+    "longitude": -0.1190888,
     "wheelchair": true
   },
   {
@@ -182,8 +182,8 @@
     "opening_hours": "",
     "name": "The Rookery",
     "baby_change": true,
-    "latitude": 51.4220452,
-    "longitude": -0.11953720000000001,
+    "latitude": 51.4220395,
+    "longitude": -0.11960469999999807,
     "wheelchair": false
   }
 ]

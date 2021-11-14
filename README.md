@@ -50,7 +50,7 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
 
 ## Boroughs with dedicated scripts:
 
-- [ ] City of London
+- [x] City of London
 - [ ] Barking and Dagenham
 - [x] Barnet
 - [x] Bexley

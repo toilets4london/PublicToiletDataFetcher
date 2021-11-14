@@ -2,6 +2,39 @@
   {
     "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
     "borough": "Barnet",
+    "address": "Artsdepot, North Finchley N12 0GA",
+    "opening_hours": "",
+    "name": "Artsdepot",
+    "baby_change": false,
+    "latitude": 51.613,
+    "longitude": -0.176294,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Bagel Bar Coffee House, Brent Street NW4 2ES",
+    "opening_hours": "",
+    "name": "Bagel Bar Coffee House",
+    "baby_change": false,
+    "latitude": 51.585,
+    "longitude": -0.219024,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Burnt Oak Library public toilet  HA8 0UB",
+    "opening_hours": "",
+    "name": "Burnt Oak Library public toilet ",
+    "baby_change": false,
+    "latitude": 51.6033,
+    "longitude": -0.263235,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
     "address": "Cherry Tree Woods N2 9QH",
     "opening_hours": "",
     "name": "Cherry Tree Woods",
@@ -24,12 +57,56 @@
   {
     "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
     "borough": "Barnet",
+    "address": "Chipping Barnet Library public toilet EN5 4QT",
+    "opening_hours": "",
+    "name": "Chipping Barnet Library public toilet",
+    "baby_change": false,
+    "latitude": 51.6562,
+    "longitude": -0.204773,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Colindale Library public toilet NW9 5NE",
+    "opening_hours": "",
+    "name": "Colindale Library public toilet",
+    "baby_change": false,
+    "latitude": 51.5949,
+    "longitude": -0.237381,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
     "address": "Copthall Playing Fields  NW7",
     "opening_hours": "",
     "name": "Copthall Playing Fields ",
     "baby_change": false,
     "latitude": 51.6147,
     "longitude": -0.230102,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "East Finchley Library public toilet N2 9BB",
+    "opening_hours": "",
+    "name": "East Finchley Library public toilet",
+    "baby_change": false,
+    "latitude": 51.5939,
+    "longitude": -0.167582,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Edgware Library public toilet HA8 8NN",
+    "opening_hours": "",
+    "name": "Edgware Library public toilet",
+    "baby_change": false,
+    "latitude": 51.6163,
+    "longitude": -0.274019,
     "wheelchair": false
   },
   {
@@ -46,12 +123,34 @@
   {
     "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
     "borough": "Barnet",
+    "address": "Finchley Church End Library public toilet N3 2LN",
+    "opening_hours": "",
+    "name": "Finchley Church End Library public toilet",
+    "baby_change": false,
+    "latitude": 51.6002,
+    "longitude": -0.194755,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
     "address": "Friary Park  N20 0NR",
     "opening_hours": "",
     "name": "Friary Park ",
     "baby_change": false,
     "latitude": 51.6191,
     "longitude": -0.167896,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Golders Green Library public toilet NW11 8HE",
+    "opening_hours": "",
+    "name": "Golders Green Library public toilet",
+    "baby_change": false,
+    "latitude": 51.5748,
+    "longitude": -0.201776,
     "wheelchair": false
   },
   {
@@ -79,6 +178,28 @@
   {
     "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
     "borough": "Barnet",
+    "address": "Madden's Bar, East Finchley N2 9ED",
+    "opening_hours": "",
+    "name": "Madden's Bar",
+    "baby_change": false,
+    "latitude": 51.5909,
+    "longitude": -0.1644,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
+    "address": "Mill Hill Library public toilet  NW7 2HX",
+    "opening_hours": "",
+    "name": "Mill Hill Library public toilet",
+    "baby_change": false,
+    "latitude": 51.615,
+    "longitude": -0.243591,
+    "wheelchair": false
+  },
+  {
+    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
+    "borough": "Barnet",
     "address": "Mill Hill Park Pavillion  NW7",
     "opening_hours": "",
     "name": "Mill Hill Park Pavillion ",
@@ -96,61 +217,6 @@
     "baby_change": false,
     "latitude": 51.6146,
     "longitude": -0.277437,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
-    "borough": "Barnet",
-    "address": "Oakhill Park  - Parkside Gardens East Barnet EN4",
-    "opening_hours": "",
-    "name": "Oakhill Park  - Parkside Gardens East Barnet",
-    "baby_change": false,
-    "latitude": 51.657,
-    "longitude": -0.159426,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
-    "borough": "Barnet",
-    "address": "Princes Park  NW11",
-    "opening_hours": "",
-    "name": "Princes Park ",
-    "baby_change": false,
-    "latitude": 51.5832,
-    "longitude": -0.194411,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
-    "borough": "Barnet",
-    "address": "Tudor Sports Ground  EN5",
-    "opening_hours": "",
-    "name": "Tudor Sports Ground ",
-    "baby_change": false,
-    "latitude": 51.6569,
-    "longitude": -0.206764,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
-    "borough": "Barnet",
-    "address": "Victoria Park  N3 2PX",
-    "opening_hours": "",
-    "name": "Victoria Park ",
-    "baby_change": false,
-    "latitude": 51.6026,
-    "longitude": -0.18586,
-    "wheelchair": false
-  },
-  {
-    "data_source": "Extracted from https://www.barnet.gov.uk/directories/public-conveniences on 30/01/2021",
-    "borough": "Barnet",
-    "address": "Victoria Recreation Ground  EN4",
-    "opening_hours": "",
-    "name": "Victoria Recreation Ground ",
-    "baby_change": false,
-    "latitude": 51.657,
-    "longitude": -0.159426,
     "wheelchair": false
   }
 ]

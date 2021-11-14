@@ -1,6 +1,17 @@
 [
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "Wetlands Centre Queen Elizabeth Walk SW13 9WT",
+    "latitude": 51.4771410056969,
+    "longitude": -0.235720598606277,
+    "borough": "Richmond upon Thames",
+    "wheelchair": true,
+    "name": "WWT London Wetland Centre",
+    "opening_hours": "Hours: 9am-6pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": true
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "Community Hall 49 Station Road SW13 0LF",
     "latitude": 51.472115747809,
     "longitude": -0.246627279349956,
@@ -11,7 +22,18 @@
     "baby_change": true
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "Pig And Whistle 86 Sheen Lane SW14 8LP",
+    "latitude": 51.465,
+    "longitude": -0.266955,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "Pig and Whistle Community Toilet Scheme",
+    "opening_hours": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "349 Upper Richmond Road West SW14 8QN",
     "latitude": 51.4647012902214,
     "longitude": -0.265684637111298,
@@ -22,7 +44,7 @@
     "baby_change": false
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "351 Upper Richmond Road West SW14 8QN",
     "latitude": 51.4647023534301,
     "longitude": -0.265756580307028,
@@ -33,7 +55,7 @@
     "baby_change": false
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "459A Upper Richmond Road West SW14 7PR",
     "latitude": 51.4640038695449,
     "longitude": -0.271440856118345,
@@ -44,7 +66,7 @@
     "baby_change": false
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "459 Upper Richmond Road West SW14 7PR",
     "latitude": 51.4640025978208,
     "longitude": -0.271354525367988,
@@ -55,7 +77,40 @@
     "baby_change": false
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "Jolly Coopers 16 High Street TW12 2SJ",
+    "latitude": 51.4136,
+    "longitude": -0.362044,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "Jolly Coopers Community Toilet Scheme",
+    "opening_hours": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "The Railway Bell Station Road TW12 2AP",
+    "latitude": 51.4159214829146,
+    "longitude": -0.369983851061109,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "The Railway Bell",
+    "opening_hours": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "28 Tangley Park Road TW12 3YH",
+    "latitude": 51.4263380059673,
+    "longitude": -0.377999257456809,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "Jems Salon",
+    "opening_hours": "Hours: 9am-6pm Days open: , Tue, Wed, Thur, Fri, Sat",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "76 Milton Road TW12 2LJ",
     "latitude": 51.4167983622836,
     "longitude": -0.370959320594474,
@@ -66,7 +121,7 @@
     "baby_change": false
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "The Greenwood Centre 1A School Road TW12 1QL",
     "latitude": 51.4263170367805,
     "longitude": -0.359703200871852,
@@ -77,7 +132,7 @@
     "baby_change": true
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "1A Upper Teddington Road KT1 4DL",
     "latitude": 51.4153279429974,
     "longitude": -0.313444869729009,
@@ -88,7 +143,18 @@
     "baby_change": false
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "St Lukes Church The Avenue TW9 2AJ",
+    "latitude": 51.4738391750711,
+    "longitude": -0.289054440491686,
+    "borough": "Richmond upon Thames",
+    "wheelchair": true,
+    "name": "Kew Community Trust",
+    "opening_hours": "Hours: 9am-6pm Days open: Mon, Tue, Wed, Thur, Fri",
+    "baby_change": true
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "288 Kew Road TW9 3DU",
     "latitude": 51.4807164762178,
     "longitude": -0.288293183899857,
@@ -99,7 +165,7 @@
     "baby_change": true
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "The Tapestry 1 Lower Richmond Road SW14 7EZ",
     "latitude": 51.4693400175038,
     "longitude": -0.268633255508122,
@@ -110,7 +176,51 @@
     "baby_change": true
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "The Jolly Gardener 36 Lower Richmond Road SW14 7EX",
+    "latitude": 51.4695916693363,
+    "longitude": -0.268623735500945,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "The Jolly Gardener",
+    "opening_hours": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "11 King Street TW9 1ND",
+    "latitude": 51.4598,
+    "longitude": -0.307069,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "Qualify Fish Restaurant",
+    "opening_hours": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "126 Sheen Road TW9 1UR",
+    "latitude": 51.4623729343596,
+    "longitude": -0.29456478023182,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "Sheen Road Chiropractic",
+    "opening_hours": "Hours: 9am-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat",
+    "baby_change": true
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "The Red Cow 59 Sheen Road TW9 1YJ",
+    "latitude": 51.4617310605223,
+    "longitude": -0.296805636551099,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "The Red Cow",
+    "opening_hours": "Hours: 9am-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "124 Sheen Road TW9 1UR",
     "latitude": 51.46239279308,
     "longitude": -0.294693604047441,
@@ -121,7 +231,51 @@
     "baby_change": false
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "78 Hill Rise TW10 6UB",
+    "latitude": 51.4573188988016,
+    "longitude": -0.30385026910689,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "The Victoria Inn",
+    "opening_hours": "Hours: 9am-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "The Adelaide 57 Park Road TW11 0AU",
+    "latitude": 51.423651790547,
+    "longitude": -0.334598779109657,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "The Adelaide",
+    "opening_hours": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "Landmark Art Centre St Albans Church Ferry Road TW11 9NN",
+    "latitude": 51.4280867030471,
+    "longitude": -0.324626931054193,
+    "borough": "Richmond upon Thames",
+    "wheelchair": true,
+    "name": "Landmark Arts Centre",
+    "opening_hours": "Hours: 9am-12 noon Days open: Mon, Tue, Wed, Thur, Fri",
+    "baby_change": true
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "The Hogarth 58 Broad Street TW11 8QY",
+    "latitude": 51.4258680721844,
+    "longitude": -0.336790920373292,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "The Hogarth ",
+    "opening_hours": "Hours: 9am-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "5 Church Road  TW11 8PF",
     "latitude": 51.4265527699776,
     "longitude": -0.336881138845016,
@@ -132,7 +286,29 @@
     "baby_change": true
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "White Swan Riverside TW1 3DN",
+    "latitude": 51.447,
+    "longitude": -0.321429,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "The White Swan",
+    "opening_hours": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": true
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "Twickenham Cricket Club The Green TW2 5TU",
+    "latitude": 51.4428,
+    "longitude": -0.343039,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "Twickenham Cricket Club Community Toilet Scheme",
+    "opening_hours": "Hours:  Days open: Mon, Wed, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "98 Staines Road TW2 5AN",
     "latitude": 51.4428960923202,
     "longitude": -0.351180729960058,
@@ -143,7 +319,18 @@
     "baby_change": false
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "156 Heath Road TW1 4BN",
+    "latitude": 51.4454595829215,
+    "longitude": -0.337230305769642,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "Materialistic Curtain and Carpet Shop",
+    "opening_hours": "Hours: 9am-6pm Days open: Mon, Tue, Wed, Thur, Fri, Sat",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "325 Staines Road TW2 5AU",
     "latitude": 51.4395383966358,
     "longitude": -0.358610958124011,
@@ -154,7 +341,18 @@
     "baby_change": true
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "The Bloomsbury 209 Staines Road TW2 5BB",
+    "latitude": 51.4416748024093,
+    "longitude": -0.352577284479408,
+    "borough": "Richmond upon Thames",
+    "wheelchair": true,
+    "name": "The Bloomsbury",
+    "opening_hours": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "Cambridge Gardens Tennis Pavilion Clevedon Road TW1 2TY",
     "latitude": 51.4557253855047,
     "longitude": -0.306212318414443,
@@ -165,7 +363,40 @@
     "baby_change": true
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "154 Heath Road TW1 4BN",
+    "latitude": 51.4454673459183,
+    "longitude": -0.337143679399726,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "TLC Tattoo",
+    "opening_hours": "Hours: 9am-6pm Days open: Mon, Tue, Wed, Thur, Fri, Sat",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "41 York Street TW1 3LP",
+    "latitude": 51.4479320359503,
+    "longitude": -0.326461872828147,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "Pho Saigon",
+    "opening_hours": "Hours: 12 noon-8pm Days open: , Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": false
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "The Albany 1 Queens Road TW1 4EZ",
+    "latitude": 51.4491375244403,
+    "longitude": -0.332174570503502,
+    "borough": "Richmond upon Thames",
+    "wheelchair": true,
+    "name": "The Albany Pub and Dining Room",
+    "opening_hours": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": true
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "435 Richmond Road TW1 2EF",
     "latitude": 51.4564746647705,
     "longitude": -0.308905091348318,
@@ -176,7 +407,40 @@
     "baby_change": false
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "24 King Street TW1 3SN",
+    "latitude": 51.4462760282568,
+    "longitude": -0.328882619941234,
+    "borough": "Richmond upon Thames",
+    "wheelchair": true,
+    "name": "Harris and Hoole",
+    "opening_hours": "Hours: 9am-6pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": true
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "Ailsa Tavern 263 St Margarets Road TW1 1NJ",
+    "latitude": 51.4605703346458,
+    "longitude": -0.322962079925793,
+    "borough": "Richmond upon Thames",
+    "wheelchair": false,
+    "name": "Ailsa Tavern",
+    "opening_hours": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": true
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "The Crown 174 Richmond Road TW1 2NH",
+    "latitude": 51.4511920158094,
+    "longitude": -0.318628071115674,
+    "borough": "Richmond upon Thames",
+    "wheelchair": true,
+    "name": "The Crown",
+    "opening_hours": "Hours: 9am-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "baby_change": true
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "52 King Street TW1 3SH",
     "latitude": 51.445750509928,
     "longitude": -0.329866017907254,
@@ -187,7 +451,7 @@
     "baby_change": false
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "The Old Goat 241 Hampton Road TW2 5NG",
     "latitude": 51.4361205100909,
     "longitude": -0.350230520379273,
@@ -198,7 +462,7 @@
     "baby_change": true
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "70 Wellington Road TW2 5NX",
     "latitude": 51.4334685584747,
     "longitude": -0.351563284723262,
@@ -209,18 +473,29 @@
     "baby_change": true
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
-    "address": "Strawberry Hill House Waldegrave Road TW1 4ST",
-    "latitude": 51.4382212366505,
-    "longitude": -0.334730750755678,
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "The Marble Hill 277 Richmond Road  TW1 2NP",
+    "latitude": 51.452718458614,
+    "longitude": -0.313462434669797,
     "borough": "Richmond upon Thames",
     "wheelchair": true,
-    "name": "Strawberry Hill House",
-    "opening_hours": "Hours: 9am-6pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+    "name": "The Rising Sun",
+    "opening_hours": "Hours: 9am-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
     "baby_change": true
   },
   {
-    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 10/08/21",
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
+    "address": "Whitton Community Centre Percy Road TW2 6JL",
+    "latitude": 51.4439813433573,
+    "longitude": -0.364452250468825,
+    "borough": "Richmond upon Thames",
+    "wheelchair": true,
+    "name": "Whitton Community Centre",
+    "opening_hours": "Hours: 9am-8pm Days open: Mon, Tue, Thur, Fri, Sat, Sun",
+    "baby_change": true
+  },
+  {
+    "data_source": "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 14/11/2021",
     "address": "670 Hanworth Road TW4 5NP",
     "latitude": 51.4500586295924,
     "longitude": -0.379231327967839,

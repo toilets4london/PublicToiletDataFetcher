@@ -26,6 +26,18 @@
   {
     "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
     "borough": "Newham",
+    "address": "18 Rathbone Market Barking Road Canning Town London E16 1EH",
+    "opening_hours": "",
+    "name": "Canning Town Community Neighbourhood Centre and Library",
+    "baby_change": true,
+    "latitude": 51.5168183,
+    "longitude": 0.0112951,
+    "wheelchair": true,
+    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+  },
+  {
+    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "borough": "Newham",
     "address": "292b Barking Road, East Ham, London, E6 3BA",
     "opening_hours": "  Opening times: Monday to Friday from 9am - 4pm (Closed Saturday, Sunday and Bank Holidays) ",
     "name": "St. Bartholomew's Church and Centre",
@@ -54,8 +66,8 @@
     "opening_hours": "",
     "name": "The Gate Community Neighbourhood Centre and Library",
     "baby_change": true,
-    "latitude": 51.5485858,
-    "longitude": 0.0249223,
+    "latitude": 51.5485862,
+    "longitude": 0.024927,
     "wheelchair": true,
     "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
@@ -66,8 +78,8 @@
     "opening_hours": "",
     "name": "Hamara Ghar",
     "baby_change": true,
-    "latitude": 51.53410650105952,
-    "longitude": 0.03528010528694773,
+    "latitude": 51.53411,
+    "longitude": 0.03528,
     "wheelchair": true,
     "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
@@ -90,8 +102,8 @@
     "opening_hours": "",
     "name": "Katherine Road Community Centre",
     "baby_change": true,
-    "latitude": 51.5474155,
-    "longitude": 0.0351977,
+    "latitude": 51.5420024,
+    "longitude": 0.0374885,
     "wheelchair": true,
     "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },
@@ -102,8 +114,8 @@
     "opening_hours": "",
     "name": "Manor Park Library",
     "baby_change": true,
-    "latitude": 51.5525474,
-    "longitude": 0.0529565,
+    "latitude": 51.5500001,
+    "longitude": 0.0458952,
     "wheelchair": true,
     "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
   },

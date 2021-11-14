@@ -25,6 +25,7 @@ import HillingdonToilets
 import MertonToilets
 import EalingToilets
 import EnfieldToilets
+import CityOfLondonToilets
 
 
 # HOW THIS FILE WORKS: Just uncomment the relevant line of code to extract those toilets. The output will appear in
@@ -64,3 +65,4 @@ import EnfieldToilets
 # MertonToilets.process_merton_data()
 # EalingToilets.get_ealing_data()
 # EnfieldToilets.enfield_data_to_json()
+# CityOfLondonToilets.get_city_toilets()

@@ -21,7 +21,7 @@
     "longitude": -0.138764,
     "wheelchair": false,
     "fee": "",
-    "borough": "Croydon"
+    "borough": ""
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
@@ -81,7 +81,7 @@
     "longitude": -0.120307,
     "wheelchair": true,
     "fee": "20p",
-    "borough": "Croydon"
+    "borough": ""
   },
   {
     "data_source": "Dataset sent in by Healthmatic 26/10/20",
