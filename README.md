@@ -15,15 +15,15 @@ If yes, I delete the changed toilets from the API and re-POST the new ones, or i
 To add new toilets, I simply POST the new batch of toilets to the Api for integration into the database.
 
 Some of the web scraping scripts are semi-manual, meaning that they require me to use Google Maps or similar to find the lat / lng coordinates for the address.
-This occurs when councils do not add lat / lng coordinates to their website (for example as they do not display a map) and don't offer full, geocodable addresses (for example if the toilet is in a park)
+This occurs when councils do not add lat / lng coordinates to their website (for example as they do not display a map) and don't offer full, geocodable addresses (for example if the toilet is in a park).
 
-You can see the outputs of all the scripts in the Data/ directory. These outputs are what I will use to compare when I next run the scripts to keep the Api updated.
+You can see the outputs of all the scripts in the Data/ directory. These outputs are what I will use to compare when I next run the scripts to keep the API updated. Git diffs help a lot with this.
 
 ## What should I run to get the toilet data output shown in the Data/ directory?
 
 Look at DataPipeline.py for a list of functions that can be called, one from each datasource-specific file, that extract toilets from the datasource and saves the extracted data to the Data/ directory.
 
-## Processing
+## Output format
 
 - Data should be processed to end up in the following format, so that it can be uploaded to the toilets4london API
 
@@ -48,7 +48,10 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
 - If fee is left out, it defaults to a free toilet
 - `borough`, `latitude` and `longitude` are required fields
 
-## Boroughs with dedicated scripts:
+## Boroughs with dedicated scripts
+
+If unchecked this means I could neither find a reliable way to extract toilet data from that council's website / another data source using a script, nor did that council send me a dataset.
+This doesn't mean I have no data for that borough. It just means instead I use the generic sources listed below, manual uploads and locations suggested through the app.
 
 - [x] City of London
 - [x] Barking and Dagenham
@@ -84,7 +87,12 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
 - [x] Wandsworth
 - [x] Westminster
 
+## Other data sources
 
+- Healthmatic (public toilet contractor) sent in a spreadsheet
+- Sainsbury's store locator website
+- Transport for London API
+- OpenStreetMap
 
 ## Credits
 
