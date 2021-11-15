@@ -1,0 +1,112 @@
+[
+  {
+    "latitude": 51.54641462694694,
+    "longitude": 0.08561724568305439,
+    "address": "Barking Park, Longbridge Road, Barking (visitors centre) IG11 8TA",
+    "wheelchair": true,
+    "baby_change": true,
+    "fee": "",
+    "opening_hours": "Summer (April - September) 7:30am - 8pm , Winter (October - March) 7:30am - 3:45pm ; Radar key accessible",
+    "borough": "Barking and Dagenham",
+    "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
+  },
+  {
+    "latitude": 51.55812617763573,
+    "longitude": 0.16195119397702615,
+    "address": "Central Park, Wood Lane, Dagenham (next to pavilion) RM10 7EJ",
+    "wheelchair": true,
+    "baby_change": false,
+    "fee": "",
+    "opening_hours": "Summer (April - September) 7:30am - 8pm, Winter (October - March) 7:30am - 3:45pm ; Radar key accessible",
+    "borough": "Barking and Dagenham",
+    "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
+  },
+  {
+    "latitude": 51.552775815911964,
+    "longitude": 0.17603607453426612,
+    "address": "Eastbrookend Country Park inside Millennium Centre RM7 0SS",
+    "wheelchair": true,
+    "baby_change": true,
+    "fee": "",
+    "opening_hours": "Summer (April - September) 9:00am - 5pm, Winter (October - March) 9:00am - 4:00pm ; ",
+    "borough": "Barking and Dagenham",
+    "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
+  },
+  {
+    "latitude": 51.53261412626692,
+    "longitude": 0.09047984291296794,
+    "address": "Greatfields Park, Greatfields Road, Barking  IG11 7UF",
+    "wheelchair": true,
+    "baby_change": false,
+    "fee": "",
+    "opening_hours": "Monday - Sunday 8am - 4pm; Radar key accessible",
+    "borough": "Barking and Dagenham",
+    "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
+  },
+  {
+    "latitude": 51.573420023780436,
+    "longitude": 0.13114373623967263,
+    "address": "St. Chad's Park, Alexandra Road, Chadwell Heath RM6 6YB",
+    "wheelchair": true,
+    "baby_change": false,
+    "fee": "",
+    "opening_hours": "Monday - Sunday 7am - 1:45pm; ",
+    "borough": "Barking and Dagenham",
+    "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
+  },
+  {
+    "latitude": 51.54007198751451,
+    "longitude": 0.1475683579210288,
+    "address": "Junction of Hedgemans Road and Heathway, Dagenham RM9 6HA",
+    "wheelchair": true,
+    "baby_change": false,
+    "fee": "10p",
+    "opening_hours": "24 hours; Radar key accessible",
+    "borough": "Barking and Dagenham",
+    "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
+  },
+  {
+    "latitude": 51.53832528785791,
+    "longitude": 0.07930617637468355,
+    "address": "Junction of Ripple Road and London Road, Barking IG11 8HG",
+    "wheelchair": false,
+    "baby_change": false,
+    "fee": "10p",
+    "opening_hours": "24 hours; ",
+    "borough": "Barking and Dagenham",
+    "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
+  },
+  {
+    "latitude": 51.53537980918861,
+    "longitude": 0.10378598921733748,
+    "address": "Rippleside Cemetery, Ripple Road, Barking IG11 9PF",
+    "wheelchair": true,
+    "baby_change": false,
+    "fee": "",
+    "opening_hours": "Summer (April - September) 8am - 6:30pm, Winter (October - March) 8am - 4pm ; Radar key accessible",
+    "borough": "Barking and Dagenham",
+    "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
+  },
+  {
+    "latitude": 51.586818166827456,
+    "longitude": 0.14108185704868004,
+    "address": "Marks Gate Cemetery, Whalebone Lane North, Marks Gate RM6 5NJ",
+    "wheelchair": true,
+    "baby_change": false,
+    "fee": "",
+    "opening_hours": "Summer (April - September) 8am - 6:30pm, Winter (October - March) 8am - 4pm ; Radar key accessible",
+    "borough": "Barking and Dagenham",
+    "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
+  },
+  {
+    "latitude": 51.55501807299927,
+    "longitude": 0.18168264234419362,
+    "address": "Eastbrookend Cemetry, Dagenham Road, Dagenham RM7 OSS",
+    "wheelchair": true,
+    "baby_change": false,
+    "fee": "",
+    "opening_hours": "Summer (April - September) 8am - 6:30pm, Winter (October - March) 8am - 4pm ; ",
+    "borough": "Barking and Dagenham",
+    "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
+  }
+]
