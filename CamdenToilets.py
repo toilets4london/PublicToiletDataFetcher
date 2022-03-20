@@ -33,7 +33,7 @@ def camden_csv_to_json():
         toilets = []
         for t in camden_data:
             toilet = {
-                'data_source': 'Data downloaded from https://opendata.camden.gov.uk/People-Places/Public-toilets/v8f3-kxqp',
+                'data_source': 'opendata.camden.gov.uk/People-Places/Public-toilets/v8f3-kxqp',
                 'borough':'Camden',
                 'address': addr_builder(t),
                 'opening_hours': t[OPENING_HOURS],
@@ -43,3 +43,7 @@ def camden_csv_to_json():
             }
             toilets.append(toilet)
         json.dump(toilets, dataFile)
+
+
+if __name__ == "__main__":
+    camden_csv_to_json()

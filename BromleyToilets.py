@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-
+from datetime import date
 
 MAIN_URL = "https://www.bromley.gov.uk/directory/36/community_and_public_toilets/category/525"
 BASE_URL = "https://www.bromley.gov.uk"
@@ -68,13 +68,14 @@ def parse_detail_page(url):
 
     disabled = check_disabled(facilities_description)
     baby_change = check_baby_change(facilities_description)
+    today = date.today()
 
     toilet = {
-        'data_source': 'bromley.gov.uk on 10/08/2021',
+        'data_source': f'bromley.gov.uk {today.strftime("%d/%m/%Y")}',
         'borough': 'Bromley',
-        'address': clean_text(address+" "+postcode),
+        'address': clean_text(address + " " + postcode),
         'opening_hours': clean_text(opening),
-        'name': clean_text(name+" "+description),
+        'name': clean_text(name + " " + description),
         'baby_change': baby_change,
         'latitude': float(lat_lng[0]),
         'longitude': float(lat_lng[1]),
@@ -103,7 +104,7 @@ def extract_bromley_json():
 
 
 def clean_text(text):
-    no_newlines = text.replace('\n',' ')
+    no_newlines = text.replace('\n', ' ')
     return ' '.join(no_newlines.split())
 
 
@@ -125,4 +126,5 @@ def check_baby_change(text):
     return False
 
 
-
+if __name__ == "__main__":
+    extract_bromley_json()

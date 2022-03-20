@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import Geocoder
+from datetime import date
 
 URL = "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/"
 
@@ -29,6 +30,7 @@ def get_rows(html):
 def enfield_data_to_json():
     data = get_data()
     rows = get_rows(data)[1:]
+    today = date.today()
     with open('Data/processed_data_enfield.json', 'w') as dataFile:
         toilets = []
         for toilet in rows:
@@ -36,7 +38,7 @@ def enfield_data_to_json():
             t['name'] = 'Community Toilet'
             t['address'] = toilet[0]
             t['opening_hours'] = toilet[1]
-            t['data_source'] = "https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/"
+            t['data_source'] = f'https://new.enfield.gov.uk/services/leisure-and-culture/community-toilet-scheme/ {today.strftime("%d/%m/%Y")}'
             t['borough'] = 'Enfield'
             ll = Geocoder.geocode(toilet[0])
             if ll != "unavailable":
@@ -47,3 +49,7 @@ def enfield_data_to_json():
                 t['longitude'] = 0
             toilets.append(t)
         json.dump(toilets, dataFile)
+
+
+if __name__ == "__main__":
+    enfield_data_to_json()

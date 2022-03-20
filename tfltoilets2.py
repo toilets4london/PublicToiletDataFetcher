@@ -6,23 +6,28 @@ import json
 import Helpers
 import Geocoder
 from TransportForLondonToilets import get_borough
+from datetime import date
+
 
 # Work in Progress
 
 
 def build_url(placename):
-    encoded = placename.replace(" ","%20")
-    return "https://api.tfl.gov.uk/StopPoint/Search?query="+encoded+"&app_key=6da1137fb6314cc7be7a3fb925f42efe"
+    encoded = placename.replace(" ", "%20")
+    return "https://api.tfl.gov.uk/StopPoint/Search?query=" + encoded + "&app_key=6da1137fb6314cc7be7a3fb925f42efe"
+
 
 def latlng(placename):
     url = build_url(placename)
     try:
         jsondata = json.loads(requests.get(url).text)["matches"][0]
-        return jsondata["lat"],jsondata["lon"]
+        return jsondata["lat"], jsondata["lon"]
     except:
         return "NONE"
 
+
 def get_data():
+    today = date.today()
     data = requests.get("https://content.tfl.gov.uk/lrad-v2.xml").text
     root = ET.fromstring(data)
     toilets = []
@@ -64,13 +69,16 @@ def get_data():
                 "name": fullname,
                 "baby_change": BABYCHANGE,
                 "wheelchair": ACCESSIBLE,
-                "address": name+" "+LOCATION,
+                "address": name + " " + LOCATION,
                 "fee": FEE,
                 "latitude": latlngcoords[0],
                 "longitude": latlngcoords[1],
-                "borough": borough
+                "borough": borough,
+                "data_source": f'TFL Website {today.strftime("%d/%m/%Y")}'
             })
     with open("Data/processed_data_tfl2.json", "w") as datafile:
-        json.dump(toilets,datafile)
+        json.dump(toilets, datafile)
 
 
+if __name__ == "__main__":
+    get_data()

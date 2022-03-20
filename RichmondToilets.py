@@ -1,8 +1,10 @@
 import requests
 import json
 import re
+from datetime import date
 
 RICHMOND_TOILET_DATA_URL = 'http://www2.richmond.gov.uk/lbrservicesSP/offers/SpendAPenny/'
+
 
 ## This script is currently not functional as the map is no longer displaying any community toilets (!)
 
@@ -12,28 +14,34 @@ def get_name(toilet):
     else:
         return toilet['name']
 
+
 def get_address(toilet):
-    return toilet["address1"]+" "+toilet["postcode"]
+    return toilet["address1"] + " " + toilet["postcode"]
+
 
 def get_latitude(toilet):
     return float(toilet["lat"])
 
+
 def get_longitude(toilet):
     return float(toilet["long"])
+
 
 def cleanhtml(raw_html):
     cleanr = re.compile('<.*?>')
     cleantext = re.sub(cleanr, '', raw_html)
     return cleantext
 
+
 def get_opening_hours(toilet):
     hours = cleanhtml(toilet["hours"])
     days = cleanhtml(toilet["days"])
-    opening = hours+" "+days
+    opening = hours + " " + days
     if opening == "Hours:  Days open: ":
         return ""
     else:
-        return hours+" "+days
+        return hours + " " + days
+
 
 def get_baby_change(toilet):
     facilities = cleanhtml(toilet["toilets"])
@@ -42,6 +50,7 @@ def get_baby_change(toilet):
         if w in facilities:
             return True
     return False
+
 
 def get_disabled(toilet):
     facilities = cleanhtml(toilet["toilets"])
@@ -66,13 +75,14 @@ def read_raw_data():
 
 
 def clean_data():
+    today = date.today()
     richmond_data = read_raw_data()
     toilets = richmond_data['businesses']
     wcs = []
     for t in toilets:
         filtered_dict = {}
         if t['CTA'] == "1" and t["lat"] != "" and t["long"] != "":
-            filtered_dict['data_source'] = "Extracted from https://www.richmond.gov.uk/community_toilet_scheme 08/01/2021"
+            filtered_dict['data_source'] = f'richmond.gov.uk/community_toilet_scheme {today.strftime("%d/%m/%Y")}'
             filtered_dict['address'] = get_address(t)
             filtered_dict['latitude'] = get_latitude(t)
             filtered_dict['longitude'] = get_longitude(t)
@@ -89,3 +99,12 @@ def write_cleaned_data_richmond(newpath="Data/processed_data_richmond.json"):
     data = clean_data()
     with open(newpath, 'w') as dataFile:
         json.dump(data, dataFile)
+
+
+def get_data():
+    get_richmond_data()
+    write_cleaned_data_richmond()
+
+
+if __name__ == "__main__":
+    get_data()

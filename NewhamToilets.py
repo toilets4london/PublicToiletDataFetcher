@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 import Geocoder
+from datetime import date
 
 
 COMMUNITY_URL = "https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2"
@@ -53,6 +54,7 @@ def is_opening_hours_related(line):
 
 def interpret_paragraphs(ps):
     toilets = []
+    today = date.today()
     for p in ps:
         name = p[0]
         address = ''
@@ -71,7 +73,7 @@ def interpret_paragraphs(ps):
             print(address + " Unavailable")
         else:
             toilet = {
-                'data_source': 'Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021',
+                'data_source': f'newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on {today.strftime("%d/%m/%Y")}',
                 'borough': 'Newham',
                 'address': address,
                 'opening_hours': opening_hours,
@@ -80,7 +82,6 @@ def interpret_paragraphs(ps):
                 'latitude': float(latlng[0]),
                 'longitude': float(latlng[1]),
                 'wheelchair': True,
-                'covid': "Many community toilets have been affected by Covid restrictions and may not be currently operating"
             }
             toilets.append(toilet)
     return toilets
@@ -91,3 +92,7 @@ def extract_all_newham_toilets():
     parsed_community = interpret_paragraphs(parse_community(community))
     with open("Data/processed_data_newham.json", 'w') as dataFile:
         json.dump(parsed_community, dataFile)
+
+
+if __name__ == "__main__":
+    extract_all_newham_toilets()

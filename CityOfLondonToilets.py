@@ -2,6 +2,7 @@ from enum import Enum
 import requests
 import json
 from Helpers import ENtoLL84
+from datetime import date
 
 BASE = "https://www.mapping.cityoflondon.gov.uk/arcgis/rest/services/COMPASS_City_and_Community_Toilets/MapServer"
 
@@ -21,6 +22,7 @@ def make_city_url(toilet_type: CityToiletType):
 
 
 def data_to_toilet_dict(text_data):
+    today = date.today()
     d = json.loads(text_data)
     features = d["features"]
     lst = []
@@ -28,7 +30,7 @@ def data_to_toilet_dict(text_data):
         attrs = f["attributes"]
         lng, lat = ENtoLL84(f["geometry"]["x"], f["geometry"]["y"])
         lst.append({
-            "data_source": "https://www.mapping.cityoflondon.gov.uk/",
+            "data_source": f'mapping.cityoflondon.gov.uk/ {today.strftime("%d/%m/%Y")}',
             "borough": "City of London",
             "address": attrs["ADDRESS"],
             "name": attrs["NAME"],
@@ -48,3 +50,7 @@ def get_city_toilets():
     all_data = data_to_toilet_dict(automatic) + data_to_toilet_dict(community)
     with open("Data/processed_data_city.json", "w") as jsonFile:
         json.dump(all_data, jsonFile)
+
+
+if __name__ == "__main__":
+    get_city_toilets()

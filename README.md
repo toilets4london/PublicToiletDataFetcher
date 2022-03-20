@@ -21,7 +21,7 @@ You can see the outputs of all the scripts in the Data/ directory. These outputs
 
 ## What should I run to get the toilet data output shown in the Data/ directory?
 
-Look at DataPipeline.py for a list of functions that can be called, one from each datasource-specific file, that extract toilets from the datasource and saves the extracted data to the Data/ directory.
+`DataPipeline.py` has a dictionary of functions that can be called to extract data from the various sources
 
 ## Output format
 
@@ -29,7 +29,7 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
 
 ```json
   {
-    "data_source": "Extracted from [URL] on [DATE]/ Data sent in by [COUNCIL] on [DATE]",
+    "data_source": "[URL] [DATE]/ Data sent in by [ORGANISATION] on [DATE]",
     "borough": "[See Data/boroughs.txt for acceptable borough names]",
     "address": "2-6 Woodgrange Road London E7 0QH",
     "opening_hours": "7am-6pm Monday to Friday",
@@ -38,7 +38,6 @@ Look at DataPipeline.py for a list of functions that can be called, one from eac
     "latitude": 51.5485568,
     "longitude": 0.024924,
     "wheelchair": true,
-    "covid": "Some text confirming how the toilet is affected by covid restrictions / lockdown (if needed)",
     "fee": "20p",
     "open": true
   }
@@ -98,7 +97,3 @@ This doesn't mean I have no data for that borough. It just means instead I use t
 
 - All OpenStreetMap data is © OpenStreetMap contributors
 - OpenStreetMap data is available under the Open Database Licence
-
-## Why is there so much code repetition? Why are there so many for loops?
-
-Because the only aim of these scripts is to be run occasionally to extract data on toilets in London. Almost no thought has been given to code quality. This is not an example of how to write clean Python data processing code 😉.

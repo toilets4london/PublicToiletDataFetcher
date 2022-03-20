@@ -2,35 +2,40 @@ import requests
 from bs4 import BeautifulSoup
 import Helpers
 import json
+from datetime import date
 
-URL = "https://www.walthamforest.gov.uk/content/public-toilets"
+URL = "https://www.walthamforest.gov.uk/neighbourhoods/public-toilets"
 
 
 def get_wf_data():
     return requests.get(URL).text
 
 
+def lat_lng_from_google_maps_url(url):
+    r = requests.get(url, allow_redirects=False)
+    red = r.headers['Location'].split("!")
+    lat = float(red[-2][2:10])
+    lng = float(red[-1][2:10])
+    return lat, lng
+
+
 def parse_wf_data(raw_data):
-    """ I did not manage to extract the lat / long coords direct from the google maps shortened urls as google would detect suspicious activity and block me
-    Therefore instead the lat lng have to be entered manually and I put a link in the json so that i can manually do that """
     soup = BeautifulSoup(raw_data, 'html.parser')
     tables = soup.find_all("table")
     toilets = []
+    today = date.today()
     for t in tables:
         rows = t.find_all("tr")
         for r in rows:
             try:
                 t = {}
                 name = r.find_all("a")[0]
+                lat, lng = lat_lng_from_google_maps_url(name["href"])
                 name = ' '.join(name.find_all(text=True))
                 name = Helpers.only_single_whitespace(name)
                 t["name"] = name
-                links = r.find_all("a")
-                ls = []
-                for l in links:
-                    ls.append(l["href"])
-                t["latitude"] = 0
-                t["longitude"] = ls
+                t["latitude"] = lat
+                t["longitude"] = lng
                 addr = r.find_all("p")[0]
                 addr = ' '.join(addr.find_all(text=True))
                 addr = Helpers.only_single_whitespace(addr)
@@ -47,23 +52,27 @@ def parse_wf_data(raw_data):
                         disabled = True
                     if Helpers.is_related_to_babychange(text):
                         baby_change = True
-                    if not (Helpers.is_related_to_babychange(text) or Helpers.is_related_to_disabled(text)) :
+                    if not (Helpers.is_related_to_babychange(text) or Helpers.is_related_to_disabled(text)):
                         openingtext.append(Helpers.only_single_whitespace(text))
-                opening_hours = ", " .join(openingtext)
+                opening_hours = ", ".join(openingtext)
                 t["opening_hours"] = opening_hours
                 t["wheelchair"] = disabled
                 t["baby_change"] = baby_change
                 t["borough"] = "Waltham Forest"
-                t["open"] = False
-                t["data_source"] = "https://www.walthamforest.gov.uk/content/public-toilets"
+                t["open"] = True
+                t["data_source"] = f'walthamforest.gov.uk/neighbourhoods/public-toilets {today.strftime("%d/%m/%Y")}'
                 toilets.append(t)
             except:
                 pass
 
-    with open("Data/waltham_forest_raw.json", "w") as dataFile:
+    with open("Data/processed_data_waltham_forest.json", "w") as dataFile:
         json.dump(toilets, dataFile)
 
 
 def extract_waltham_forest_data():
     rawdata = get_wf_data()
     parse_wf_data(rawdata)
+
+
+if __name__ == "__main__":
+    extract_waltham_forest_data()

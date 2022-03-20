@@ -3,8 +3,9 @@ import json
 import math
 import pandas
 from Geocoder import reverse_geocode
+from datetime import date
 
-bfile = open("Data/boroughs.txt","r")
+bfile = open("Data/boroughs.txt", "r")
 BOROUGHS = bfile.read().split(", ")
 bfile.close()
 
@@ -16,17 +17,18 @@ def get_sainsburys_data():
     page1 = json.loads(requests.get(URL_).text)
     all_data.append(page1)
     page_meta = page1['page_meta']
-    num_pages = math.ceil(page_meta['total']/page_meta['limit'])
+    num_pages = math.ceil(page_meta['total'] / page_meta['limit'])
     print(num_pages)
-    for i in range(2,num_pages+1):
-        newurl = URL_.replace("page=1","page="+str(i))
+    for i in range(2, num_pages + 1):
+        newurl = URL_.replace("page=1", "page=" + str(i))
         raw = requests.get(newurl).text
         page = json.loads(raw)
         all_data.append(page)
-    print(str(len(all_data))+" Sainsbury's branches with toilets found")
+    print(str(len(all_data)) + " Sainsbury's branches with toilets found")
     with open("Data/sainsburys_raw.json", "w") as rawDataFile:
         json.dump(all_data, rawDataFile)
     return all_data
+
 
 def get_sainsburys_data_pandas():
     pandas.set_option('display.max_columns', None)
@@ -35,8 +37,8 @@ def get_sainsburys_data_pandas():
     page_meta = jsondata['page_meta']
     num_pages = math.ceil(page_meta['total'] / page_meta['limit'])
     pages = pandas.json_normalize(jsondata['results'])
-    for i in range(2,num_pages+1):
-        newurl = URL_.replace("page=1","page="+str(i))
+    for i in range(2, num_pages + 1):
+        newurl = URL_.replace("page=1", "page=" + str(i))
         raw = requests.get(newurl).text
         jsonRaw = json.loads(raw)
         print(len(jsonRaw['results']))
@@ -45,17 +47,17 @@ def get_sainsburys_data_pandas():
     return pages
 
 
-
 def process_sainsburys_data(dataFrame):
+    today = date.today()
     onlyLondon = dataFrame
     print(onlyLondon.shape)
     pandas.set_option('display.max_columns', None)
     onlyLondon = onlyLondon[['name', 'opening_times', 'contact.address1', 'contact.post_code', 'location.lat', 'location.lon']]
-    onlyLondon = onlyLondon.rename(columns={"location.lat":"latitude", "location.lon": "longitude"})
-    onlyLondon["address"] = onlyLondon["contact.address1"]+" "+onlyLondon['contact.post_code']
+    onlyLondon = onlyLondon.rename(columns={"location.lat": "latitude", "location.lon": "longitude"})
+    onlyLondon["address"] = onlyLondon["contact.address1"] + " " + onlyLondon['contact.post_code']
     usefulData = onlyLondon.drop(["contact.address1", "contact.post_code"], axis=1)
-    usefulData["name"] = usefulData["name"]+" Sainsbury's"
-    usefulData["data_source"] = "Sainsbury's Store Locator website, which lists which stores have toilets"
+    usefulData["name"] = usefulData["name"] + " Sainsbury's"
+    usefulData["data_source"] = f'Sainsburys Store Locator website {today.strftime("%d/%m/%Y")}'
     opening_hours = usefulData['opening_times'].astype(str).map(parse_opening)
     usefulData["opening_times"] = opening_hours
     usefulData = usefulData.rename(columns={"opening_times": "opening_hours"})
@@ -81,11 +83,13 @@ def get_borough(location):
 
 
 DAYS = ["MON", "TUE", "WED", "THUR", "FRI", "SAT", "SUN"]
+
+
 def parse_day(dayDict):
     day = DAYS[int(dayDict['day'])]
     start = dayDict['start_time']
     end = dayDict['end_time']
-    return day+" "+start+"-"+end
+    return day + " " + start + "-" + end
 
 
 def parse_opening(allData):
@@ -102,3 +106,6 @@ def get_all_london_toilets_sainsburys():
     dataFrame = get_sainsburys_data_pandas()
     process_sainsburys_data(dataFrame)
 
+
+if __name__ == "__main__":
+    get_all_london_toilets_sainsburys()

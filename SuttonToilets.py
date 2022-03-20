@@ -1,4 +1,3 @@
-
 import json
 import Geocoder
 import pandas as pd
@@ -10,11 +9,13 @@ def get_address(toilet):
     if postcode in street:
         return street
     else:
-        return street+" "+postcode
+        return street + " " + postcode
+
 
 def get_name(toilet):
     area = toilet['Area '].replace('\n', ' ')
-    return area+" "+"toilets"
+    return area + " " + "toilets"
+
 
 def get_baby_change(toilet):
     try:
@@ -27,6 +28,7 @@ def get_baby_change(toilet):
     except TypeError:
         return False
 
+
 def get_disabled(toilet):
     try:
         description = toilet['Type of toilet (WC, Baby Changing, Accessible, Changing Places)']
@@ -37,6 +39,7 @@ def get_disabled(toilet):
         return False
     except TypeError:
         return False
+
 
 def get_opening_hours(toilet):
     return toilet['Opening hours (If not 24 hour)'].replace('\n', ' ')
@@ -57,14 +60,18 @@ def sutton_excel_to_json():
             if latLng != "unavailable":
                 toilet = {
                     'data_source': 'Spreadsheet sent in by Sutton council 5/10/2020',
-                    'borough':'Sutton',
+                    'borough': 'Sutton',
                     'address': get_address(t),
                     'opening_hours': get_opening_hours(t),
-                    'name' : get_name(t),
-                    'baby_change' : get_baby_change(t),
-                    'latitude' : latLng[0],
-                    'longitude' : latLng[1],
-                    'wheelchair' : get_disabled(t)
+                    'name': get_name(t),
+                    'baby_change': get_baby_change(t),
+                    'latitude': latLng[0],
+                    'longitude': latLng[1],
+                    'wheelchair': get_disabled(t)
                 }
                 toilets.append(toilet)
         json.dump(toilets, dataFile)
+
+
+if __name__ == "__main__":
+    sutton_excel_to_json()

@@ -47,3 +47,7 @@ def redbridge_excel_to_json():
                 }
                 toilets.append(toilet)
         json.dump(toilets, dataFile)
+
+
+if __name__ == "__main__":
+    redbridge_excel_to_json()

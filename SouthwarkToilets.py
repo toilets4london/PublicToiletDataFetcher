@@ -27,3 +27,7 @@ def get_toilets_from_csv():
     print(toilets)
     with open("Data/processed_data_southwark.json", "w") as jsonFile:
         json.dump(toilets, jsonFile)
+
+
+if __name__ == "__main__":
+    get_toilets_from_csv()

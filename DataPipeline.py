@@ -17,6 +17,7 @@ import HaringeyToilets
 import SouthwarkToilets
 import HounslowToilets
 import WandsworthToilets2
+import tfltoilets2
 import TransportForLondonToilets
 import SainsburysToilets
 import WalthamForestToilets
@@ -26,43 +27,79 @@ import MertonToilets
 import EalingToilets
 import EnfieldToilets
 import CityOfLondonToilets
+import BarkingToilets
+import BexleyToilets
 
 
-# HOW THIS FILE WORKS: Just uncomment the relevant line of code to extract those toilets. The output will appear in
-# the Data/ directory as a nicely formatted json ready to post / upload to the Toilets4London API (unless it requires
-# manual coordinate inputting) or use for any purpose. Some scripts have geocoding or reverse geocoding built in and
-# so take a while to run as they use an open geocoding API. The OpenStreetMap toilets overlap with the other sources -
-# Toilets4London always prefers council data sources to OpenStreetMap and Manual uploads whenever possible as these
-# are easier to keep updated and are more reliable.
+def osm():
+    OpenStreetMapToilets.get_openstreetmap_data()
+    OpenStreetMapToilets.write_filtered_json()
 
-# OpenStreetMapToilets.get_openstreetmap_data()
-# OpenStreetMapToilets.write_filtered_json()
-# CamdenToilets.camden_csv_to_json()
-# RichmondToilets.get_richmond_data()
-# RichmondToilets.write_cleaned_data_richmond()
-# SuttonToilets.sutton_excel_to_json()
-# RedbridgeToilets.redbridge_excel_to_json()
-# LewishamToilets.lewisham_excel_to_json()
-# LambethToilets.lambeth_excel_to_json()
-# HealthmaticToilets.healthmatic_excel_to_json()
-# KensingtonChelseaToilets.kensington_data_to_json()
-# BromleyToilets.extract_bromley_json()
-# NewhamToilets.extract_all_newham_toilets()
-# BarnetToilets.get_all_barnet_toilets()
-# BarnetToilets2.barnet_libraries_csv_to_json()
-# WestminsterToilets.get_westminster_toilets()
-# BrentToilets.get_all_brent_toilets()
-# HaringeyToilets.get_haringey_data()
-# SouthwarkToilets.get_toilets_from_csv()
-# HounslowToilets.get_hounslow_toilets()
-# WandsworthToilets2.process_wandsworth_data()
-# TransportForLondonToilets.get_tfl_toilets()
-# LewishamToilets.lewisham_json_api_to_filtered_json()
-# SainsburysToilets.get_all_london_toilets_sainsburys()
-# WalthamForestToilets.extract_waltham_forest_data()
-# GreenwichToilets.extract_greenwich_data()
-# HillingdonToilets.hillingdon_csv_to_json()
-# MertonToilets.process_merton_data()
-# EalingToilets.get_ealing_data()
-# EnfieldToilets.enfield_data_to_json()
-# CityOfLondonToilets.get_city_toilets()
+
+def barnet():
+    BarnetToilets.get_all_barnet_toilets()
+    BarnetToilets2.barnet_libraries_csv_to_json()
+
+
+def lewisham():
+    LewishamToilets.lewisham_excel_to_json()
+    LewishamToilets.lewisham_json_api_to_filtered_json()
+
+
+def tfl():
+    tfltoilets2.get_data()
+    TransportForLondonToilets.get_tfl_toilets()
+
+
+class DataFetcher():
+
+    def __init__(self):
+        self.method_dict = {"City of London": CityOfLondonToilets.get_city_toilets,
+                            "Barking and Dagenham": BarkingToilets.get_barking_data_from_csv,
+                            "Barnet": barnet,
+                            "Bexley": BexleyToilets.extract_bexley_data,
+                            "Brent": BrentToilets.get_all_brent_toilets,
+                            "Bromley": BromleyToilets.extract_bromley_json,
+                            "Camden": CamdenToilets.camden_csv_to_json,
+                            "Croydon": [],
+                            "Ealing": EalingToilets.get_ealing_data,
+                            "Enfield": EnfieldToilets.enfield_data_to_json,
+                            "Greenwich": GreenwichToilets.extract_greenwich_data,
+                            "Hackney": [],
+                            "Hammersmith and Fulham": [],
+                            "Haringey": HaringeyToilets.get_haringey_data,
+                            "Harrow": [],
+                            "Havering": [],
+                            "Hillingdon": HillingdonToilets.hillingdon_csv_to_json,
+                            "Hounslow": HounslowToilets.get_hounslow_toilets,
+                            "Islington": [],
+                            "Kensington and Chelsea": KensingtonChelseaToilets.kensington_data_to_json,
+                            "Kingston upon Thames": [],
+                            "Lambeth": LambethToilets.lambeth_excel_to_json,
+                            "Lewisham": lewisham,
+                            "Merton": MertonToilets.process_merton_data,
+                            "Newham": NewhamToilets.extract_all_newham_toilets,
+                            "Redbridge": RedbridgeToilets.redbridge_excel_to_json,
+                            "Richmond upon Thames": RichmondToilets.get_data(),
+                            "Southwark": SouthwarkToilets.get_toilets_from_csv,
+                            "Sutton": SuttonToilets.sutton_excel_to_json,
+                            "Tower Hamlets": [],
+                            "Waltham Forest": WalthamForestToilets.extract_waltham_forest_data,
+                            "Wandsworth": WandsworthToilets2.process_wandsworth_data,
+                            "Westminster": WestminsterToilets.get_westminster_toilets,
+                            "OpenStreetMap": osm,
+                            "Healthmatic": HealthmaticToilets.healthmatic_excel_to_json,
+                            "TFL": TransportForLondonToilets.get_tfl_toilets,
+                            "Sainsburys": SainsburysToilets.get_all_london_toilets_sainsburys}
+
+    def fetch(self, data_source):
+        if not self.method_dict.get(data_source, []):
+            print(f"Data source {data_source} does not exist")
+            return
+        method = self.method_dict[data_source]
+        method()
+
+
+if __name__ == "__main__":
+    fetcher = DataFetcher()
+    fetcher.fetch("Tower Hamlets")

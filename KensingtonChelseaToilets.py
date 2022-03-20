@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+from datetime import date
+
 
 KENSINGTON_CHELSEA_URL = "https://www.rbkc.gov.uk/environment/environmental-health/public-toilets"
 
@@ -23,6 +25,7 @@ def parse(html):
 
 
 def kensington_data_to_json():
+    today = date.today()
     data = get_data()
     parsed = parse(data)
     with open('Data/processed_data_kensington.json', 'w') as dataFile:
@@ -34,7 +37,7 @@ def kensington_data_to_json():
             t['opening_hours'] = toilet[1]
             t['wheelchair'] = ('Y' in toilet[2].upper())
             t['baby_change'] = ('Y' in toilet[3].upper())
-            t['data_source'] = "https://www.rbkc.gov.uk/environment/environmental-health/public-toilets"
+            t['data_source'] = f'rbkc.gov.uk/environment/environmental-health/public-toilets {today.strftime("%d/%m/%Y")}'
             t['borough'] = 'Kensington and Chelsea'
             t['latitude'] = 0
             t['longitude'] = 0
@@ -42,3 +45,6 @@ def kensington_data_to_json():
 
         json.dump(toilets, dataFile)
 
+
+if __name__ == "__main__":
+    kensington_data_to_json()

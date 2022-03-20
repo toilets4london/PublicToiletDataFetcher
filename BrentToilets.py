@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
-
+from datetime import date
 
 URL = "https://www.brent.gov.uk/services-for-residents/transport-and-streets/public-toilets/"
 
@@ -33,6 +33,7 @@ def only_single_whitespace(str):
 
 
 def parse_raw_data(raw_html):
+    today = date.today()
     pattern = re.compile("<span class='location'>.*?</span>")
     latlng = re.search(pattern, raw_html).group().replace("<span class='location'>", "").replace("</span>", "")
     components = latlng.split(",")
@@ -40,7 +41,7 @@ def parse_raw_data(raw_html):
     lng = float(components[1])
 
     toilet = {
-        'data_source': 'Extracted from https://www.brent.gov.uk/services-for-residents/transport-and-streets/public-toilets/ on 12/02/2021',
+        'data_source': f'brent.gov.uk/services-for-residents/transport-and-streets/public-toilets/ {today.strftime("%d/%m/%Y")}',
         'borough': 'Brent',
         'latitude': lat,
         'longitude': lng
@@ -113,10 +114,13 @@ def get_name(match):
 def get_all_brent_toilets():
     links = parse_main_page(get_link_data())
     toilets = []
-    for link in links[0:len(links)-1]:
+    for link in links[0:len(links) - 1]:
         data = requests.get(link).text
         toilet = parse_raw_data(data)
         toilets.append(toilet)
     with open("Data/processed_data_brent.json", 'w') as dataFile:
         json.dump(toilets, dataFile)
 
+
+if __name__ == "__main__":
+    get_all_brent_toilets()

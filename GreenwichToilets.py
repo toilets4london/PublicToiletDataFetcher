@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+from datetime import date
 
 URL = "https://www.royalgreenwich.gov.uk/info/200258/parking_transport_and_streets/810/find_a_public_toilet_in_greenwich"
 
@@ -10,6 +11,7 @@ def get_raw_data():
 
 
 def process_data(raw):
+    today = date.today()
     soup = BeautifulSoup(raw, 'html.parser')
     table = soup.find_all("tbody")[0]
     rows = table.find_all("tr")
@@ -23,7 +25,7 @@ def process_data(raw):
         wheelchair = "disabled" in additional.lower()
         baby_change = "baby" in additional.lower() or "change" in additional.lower()
         toilet = {
-            'data_source': 'www.royalgreenwich.gov.uk, extracted 15/03/2021',
+            'data_source': f'royalgreenwich.gov.uk {today.strftime("%d/%m/%Y")}',
             'borough': 'Greenwich',
             'address': address,
             'opening_hours': opening,
@@ -43,3 +45,7 @@ def process_data(raw):
 
 def extract_greenwich_data():
     process_data(get_raw_data())
+
+
+if __name__ == "__main__":
+    extract_greenwich_data()

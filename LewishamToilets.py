@@ -2,6 +2,7 @@ import json
 import requests
 import Geocoder
 import pandas as pd
+from datetime import date
 
 
 def get_address(toilet):
@@ -127,6 +128,7 @@ def lewisham_json_api_to_filtered_json():
     excel file sent to me did not have full addresses for all toilets """
 
     official_data_i_was_sent = read_lewisham_data()
+    today = date.today()
     # Found by examining source of https://www.lewishamlocal.com/community-toilets-map/
     # Place category 8 corresponds to public toilets
     API_URL = "https://www.lewishamlocal.com/wp-json/geodir/v2/places?gd_placecategory=8&per_page=100"
@@ -145,7 +147,7 @@ def lewisham_json_api_to_filtered_json():
             disabled = is_disabled(t, official_data_i_was_sent)
             babychange = is_disabled(t, official_data_i_was_sent)
             filtered_dict = {}
-            filtered_dict['data_source'] = "Lewisham Community Toilets https://www.lewishamlocal.com/projects/communitytoilets/"
+            filtered_dict['data_source'] = f'lewishamlocal.com/projects/communitytoilets/ {today.strftime("%d/%m/%Y")}'
             filtered_dict['address'] = address
             filtered_dict['latitude'] = latitude
             filtered_dict['longitude'] = longitude
@@ -159,3 +161,7 @@ def lewisham_json_api_to_filtered_json():
             toilets.append(filtered_dict)
     with open("Data/processed_data_lewisham_2.json", 'w') as dataFile:
         json.dump(toilets, dataFile)
+
+
+if __name__ == "__main__":
+    lewisham_json_api_to_filtered_json()

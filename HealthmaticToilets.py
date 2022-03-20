@@ -88,3 +88,7 @@ def healthmatic_excel_to_json():
                 except:
                     print('Error reverse geocoding %s'%get_name(t))
         json.dump(toilets, dataFile)
+
+
+if __name__ == "__main__":
+    healthmatic_excel_to_json()

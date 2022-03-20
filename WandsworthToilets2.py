@@ -133,3 +133,7 @@ def process_wandsworth_data():
 
     with open("Data/processed_data_wandsworth.json", "w") as jsonFile:
         json.dump(toilets, jsonFile)
+
+
+if __name__ == "__main__":
+    process_wandsworth_data()

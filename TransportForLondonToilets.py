@@ -1,6 +1,7 @@
 import requests
 import json
 import Geocoder
+from datetime import date
 
 
 URL = "https://api.tfl.gov.uk/StopPoint/Type/NaptanMetroStation?app_key=6da1137fb6314cc7be7a3fb925f42efe"
@@ -73,6 +74,7 @@ def get_tfl_toilets():
     with open("Data/transport_for_london_raw.json", "r") as rawDataFile:
         raw_data = json.loads(rawDataFile.read())
     toilets = []
+    today = date.today()
     for point in raw_data:
         if has_toilets(point):
             full_addr = Geocoder.reverse_geocode(point[LATITUDE], point[LONGITUDE])
@@ -83,7 +85,7 @@ def get_tfl_toilets():
                     'name': point[NAME],
                     'latitude': point[LATITUDE],
                     'longitude': point[LONGITUDE],
-                    'data_source': 'Transport For London Open Data API',
+                    'data_source': f'TFL Open Data API {today.strftime("%d/%m/%Y")}',
                     'address': addr,
                     'opening_hours': get_opening_hours(point),
                     'borough': borough
@@ -92,3 +94,6 @@ def get_tfl_toilets():
     with open("Data/processed_data_tfl.json", "w") as dataFile:
         json.dump(toilets, dataFile)
 
+
+if __name__ == "__main__":
+    get_tfl_toilets()

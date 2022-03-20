@@ -1,6 +1,7 @@
 import json
 import requests
 from Helpers import ENtoLL84
+from datetime import date
 
 url = "https://utility.arcgis.com/usrsvcs/servers/7023b128344b47acbac76fc47f471703/rest/services/WCC/AGOL/MapServer" \
       "/58/query?f=json&returnGeometry=true&spatialRel=esriSpatialRelIntersects&geometry=%7B%22xmin%22%3A-20000%2C" \
@@ -13,6 +14,7 @@ def get_data():
 
 
 def get_westminster_toilets():
+    today = date.today()
     raw = get_data()
     dic = json.loads(raw)
     toilets = []
@@ -21,7 +23,7 @@ def get_westminster_toilets():
         attr = feature["attributes"]
         lng, lat = ENtoLL84(attr["Eastings"], attr["Northings"])
         toilets.append({
-            'data_source': 'https://www.westminster.gov.uk/leisure-libraries-and-community/public-toilets on 20/07/2021',
+            'data_source': f'westminster.gov.uk/leisure-libraries-and-community/public-toilets {today.strftime("%d/%m/%Y")}',
             'borough': 'Westminster',
             'address': attr["Location"] + " " + attr["Postcode"],
             'opening_hours': attr.get("Opening_Times", "") or "",

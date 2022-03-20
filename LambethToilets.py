@@ -70,3 +70,7 @@ def lambeth_excel_to_json():
             else:
                 print("Error geocoding %s"%get_address(t))
         json.dump(toilets, dataFile)
+
+
+if __name__ == "__main__":
+    lambeth_excel_to_json()

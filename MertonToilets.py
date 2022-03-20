@@ -67,3 +67,7 @@ def process_merton_data():
 
     with open("Data/processed_data_merton.json", "w") as jsonFile:
         json.dump(toilets, jsonFile)
+
+
+if __name__ == "__main__":
+    process_merton_data()

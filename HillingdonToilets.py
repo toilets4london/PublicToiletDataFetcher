@@ -49,4 +49,5 @@ def hillingdon_csv_to_json():
         json.dump(toilets, dataFile)
 
 
-hillingdon_csv_to_json()
+if __name__ == "__main__":
+    hillingdon_csv_to_json()

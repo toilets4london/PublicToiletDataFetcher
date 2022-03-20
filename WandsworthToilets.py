@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import json
 
 URL = "https://www.wandsworth.gov.uk/toilets"
 BASE = "https://www.wandsworth.gov.uk"
@@ -18,10 +17,9 @@ def parse_main_page():
     for i in range(len(urls)):
         u = urls[i]
         if "http" not in u:
-            urls[i] = BASE+urls[i]
+            urls[i] = BASE + urls[i]
     print(urls)
 
 
-
-
-parse_main_page()
+if __name__ == "__main__":
+    parse_main_page()
