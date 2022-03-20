@@ -23,7 +23,6 @@ def get_opening_hours(toilet):
 
 def read_redbridge_data():
     df = pd.read_excel('Data/redbridge_raw.xlsx')
-    print(df.to_dict(orient='records'))
     return df.to_dict(orient='records')
 
 

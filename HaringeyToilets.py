@@ -3,8 +3,7 @@ import json
 from HillingdonToilets import ENtoLL84
 from datetime import date
 
-URL = "https://my.haringey.gov.uk/GetOWS.ashx?VERSION=1.0.0&SERVICE=WFS&REQUEST=GetFeature&TYPENAME=Toilets&MAPSOURCE=mapsources%2FAllMaps" \
-      "&OUTPUTFORMAT=GeoJSON_BBOX "
+URL = "https://my.haringey.gov.uk/GetOWS.ashx?VERSION=1.0.0&SERVICE=WFS&REQUEST=GetFeature&TYPENAME=Toilets&MAPSOURCE=mapsources%2FAllMaps&OUTPUTFORMAT=GeoJSON_BBOX"
 
 
 def get_haringey_data():

@@ -81,7 +81,6 @@ def parse_detail_page(url):
         'longitude': float(lat_lng[1]),
         'wheelchair': disabled,
     }
-    print(toilet)
     return toilet
 
 

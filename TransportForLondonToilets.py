@@ -34,7 +34,6 @@ def explore_tfl_data():
     yes = 0
     for point in raw_data:
         if has_toilets(point):
-            print(point[NAME]+" has toilets")
             yes += 1
     print(str(yes)+" toilets found")
 

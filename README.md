@@ -21,7 +21,7 @@ You can see the outputs of all the scripts in the Data/ directory. These outputs
 
 ## What should I run to get the toilet data output shown in the Data/ directory?
 
-`DataPipeline.py` has a dictionary of functions that can be called to extract data from the various sources
+`DataFetcher.py` has a dictionary of functions that can be called to extract data from the various sources
 
 ## Output format
 

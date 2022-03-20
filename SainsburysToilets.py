@@ -18,7 +18,6 @@ def get_sainsburys_data():
     all_data.append(page1)
     page_meta = page1['page_meta']
     num_pages = math.ceil(page_meta['total'] / page_meta['limit'])
-    print(num_pages)
     for i in range(2, num_pages + 1):
         newurl = URL_.replace("page=1", "page=" + str(i))
         raw = requests.get(newurl).text
@@ -41,7 +40,6 @@ def get_sainsburys_data_pandas():
         newurl = URL_.replace("page=1", "page=" + str(i))
         raw = requests.get(newurl).text
         jsonRaw = json.loads(raw)
-        print(len(jsonRaw['results']))
         dataFrame = pandas.json_normalize(jsonRaw['results'])
         pages.append(dataFrame)
     return pages
@@ -50,7 +48,6 @@ def get_sainsburys_data_pandas():
 def process_sainsburys_data(dataFrame):
     today = date.today()
     onlyLondon = dataFrame
-    print(onlyLondon.shape)
     pandas.set_option('display.max_columns', None)
     onlyLondon = onlyLondon[['name', 'opening_times', 'contact.address1', 'contact.post_code', 'location.lat', 'location.lon']]
     onlyLondon = onlyLondon.rename(columns={"location.lat": "latitude", "location.lon": "longitude"})

@@ -47,7 +47,6 @@ def get_opening_hours(toilet):
 
 def read_sutton_data():
     df = pd.read_excel('Data/sutton_raw.xlsx')
-    print(df.to_dict(orient='records'))
     return df.to_dict(orient='records')
 
 

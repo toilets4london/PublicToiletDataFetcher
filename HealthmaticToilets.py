@@ -39,7 +39,6 @@ def get_borough(bouroughs, address):
 # I had to manually look up the lat / long co-oordinates of these toilets as the addresses were very incomplete
 def read_healthmatic_data():
     df = pd.read_excel('Data/healthmatic_raw.xlsx', header=3, usecols="B:Q").fillna("")
-    print(df.to_dict(orient='records'))
     return df.to_dict(orient='records')
 
 

@@ -1,18 +1,6 @@
 [
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
-    "borough": "Newham",
-    "address": "14 East Ham Manor Way Beckton London E6 5NG",
-    "opening_hours": "",
-    "name": "Beckton Community Centre ",
-    "baby_change": true,
-    "latitude": 51.510333700000004,
-    "longitude": 0.06309336615169353,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
-  },
-  {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": "Barking Road Canning Town E16 4HQ",
     "opening_hours": "  Opening times: Monday to Tuesday from 9am - 6pm and Wednesday to Friday from 8am - 6pm",
@@ -20,11 +8,10 @@
     "baby_change": true,
     "latitude": 51.5171255,
     "longitude": 0.0111273,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": "18 Rathbone Market Barking Road Canning Town London E16 1EH",
     "opening_hours": "",
@@ -32,11 +19,10 @@
     "baby_change": true,
     "latitude": 51.5168183,
     "longitude": 0.0112951,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": "292b Barking Road, East Ham, London, E6 3BA",
     "opening_hours": "  Opening times: Monday to Friday from 9am - 4pm (Closed Saturday, Sunday and Bank Holidays) ",
@@ -44,11 +30,10 @@
     "baby_change": true,
     "latitude": 51.53255445,
     "longitude": 0.052353701632653196,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": "Prince Regent Lane Custom House London E16 3JJ ",
     "opening_hours": "",
@@ -56,11 +41,10 @@
     "baby_change": true,
     "latitude": 51.5130166,
     "longitude": 0.0318538,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": " 2-6 Woodgrange Road London E7 0QH",
     "opening_hours": "",
@@ -68,11 +52,10 @@
     "baby_change": true,
     "latitude": 51.5485862,
     "longitude": 0.024927,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": "London E13 9JN",
     "opening_hours": "",
@@ -80,47 +63,43 @@
     "baby_change": true,
     "latitude": 51.53411,
     "longitude": 0.03528,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": "Jack Cornwell Street Manor Park E12 5NN",
     "opening_hours": "",
     "name": "Jack Cornwell Community Centre",
     "baby_change": true,
-    "latitude": 51.5519089,
-    "longitude": 0.0639578,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "latitude": 51.5518013,
+    "longitude": 0.0646996,
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": " 254 Katherine Road Forest Gate London E7 8PN",
     "opening_hours": "",
     "name": "Katherine Road Community Centre",
     "baby_change": true,
-    "latitude": 51.5420024,
-    "longitude": 0.0374885,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "latitude": 51.538659,
+    "longitude": 0.0416041,
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": "685-693 Romford Road Manor Park London E12 5AD",
     "opening_hours": "",
     "name": "Manor Park Library",
     "baby_change": true,
-    "latitude": 51.5500001,
-    "longitude": 0.0458952,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "latitude": 51.550091,
+    "longitude": 0.0461254,
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": "5 Pier Parade North Woolwich London E16 2LJ",
     "opening_hours": "",
@@ -128,11 +107,10 @@
     "baby_change": true,
     "latitude": 51.50102495,
     "longitude": 0.06296156050300662,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": "North Street Plaistow London E13 9HL",
     "opening_hours": "",
@@ -140,11 +118,10 @@
     "baby_change": true,
     "latitude": 51.5300097,
     "longitude": 0.0252656,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "wheelchair": true
   },
   {
-    "data_source": "Extracted from https://www.newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 29/01/2021",
+    "data_source": "newham.gov.uk/community-parks-leisure/public-toilets-newham/2 on 20/03/2022",
     "borough": "Newham",
     "address": "80 High Street South London E6 6ET ",
     "opening_hours": " Opening times:  Monday  - 4-11pm  Tuesday - 12noon-11pm  Wednesday - 12noon-11pm  Thursday - 12noon-12midnight  Friday - Open 24 hours  Saturday - Open 24 hours  Sunday - 12noon-1am",
@@ -152,7 +129,6 @@
     "baby_change": true,
     "latitude": 51.5300802,
     "longitude": 0.055629,
-    "wheelchair": true,
-    "covid": "Many community toilets have been affected by Covid restrictions and may not be currently operating"
+    "wheelchair": true
   }
 ]

@@ -55,7 +55,6 @@ def read_lewisham_data():
 def lewisham_excel_to_json():
     '''Leads to a few geocoding errors as many addresses are not full - see web scraping solution below'''
     data = read_lewisham_data()
-    print(data)
     with open("Data/processed_data_lewisham.json", 'w') as dataFile:
         toilets = []
         for t in data:
@@ -64,7 +63,6 @@ def lewisham_excel_to_json():
             disabled = get_disabled(t)
             babychange = get_baby_change(t)
             opening = get_opening_hours(t)
-            print(address)
             latLng = Geocoder.geocode(address)
             if latLng != "unavailable":
                 toilet = {

@@ -24,7 +24,6 @@ def get_toilets_from_csv():
             "data_source": "Downloaded from https://geo.southwark.gov.uk/ on 10/08/2021",
             "borough": "Southwark"
         })
-    print(toilets)
     with open("Data/processed_data_southwark.json", "w") as jsonFile:
         json.dump(toilets, jsonFile)
 

@@ -27,7 +27,6 @@ def get_hounslow_toilets():
     toilets = []
     t = {}
     for line in lines:
-        print(line)
         if "name" in line.lower():
             t = {"name": line.replace("Name: ", "")}
         if "address" in line.lower():

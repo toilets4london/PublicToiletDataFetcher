@@ -89,7 +89,7 @@ class DataFetcher():
                             "Westminster": WestminsterToilets.get_westminster_toilets,
                             "OpenStreetMap": osm,
                             "Healthmatic": HealthmaticToilets.healthmatic_excel_to_json,
-                            "TFL": TransportForLondonToilets.get_tfl_toilets,
+                            "TFL": tfl,
                             "Sainsburys": SainsburysToilets.get_all_london_toilets_sainsburys}
 
     def fetch(self, data_source):
@@ -102,4 +102,3 @@ class DataFetcher():
 
 if __name__ == "__main__":
     fetcher = DataFetcher()
-    fetcher.fetch("Tower Hamlets")

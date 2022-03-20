@@ -3,7 +3,7 @@
     "name": "Wimbledon Tram Stop",
     "latitude": 51.421051,
     "longitude": -0.205816,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Centre Court Shopping Centre, Queens Road, South Wimbledon, London Borough of Merton, SW19 8YE",
     "opening_hours": "",
     "borough": "Merton"
@@ -12,7 +12,7 @@
     "name": "Bank DLR Station",
     "latitude": 51.513233,
     "longitude": -0.088515,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Bank station, Exit M, Cornhill, City of London, Greater London, England, EC3V 3LA",
     "opening_hours": "",
     "borough": "City of London"
@@ -21,8 +21,8 @@
     "name": "Stratford DLR Station",
     "latitude": 51.541758,
     "longitude": -0.003287,
-    "data_source": "Transport For London Open Data API",
-    "address": "Stratford Platform 3, Station Street, Stratford Marsh, London Borough of Newham, E15 1DA",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Stratford Platforms 3 & 3a, Station Street, Stratford Marsh, London Borough of Newham, E15 1DA",
     "opening_hours": "",
     "borough": "Newham"
   },
@@ -30,7 +30,7 @@
     "name": "Acton Town Underground Station",
     "latitude": 51.503057,
     "longitude": -0.280462,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Acton Town Station, Gunnersbury Lane, Acton, London Borough of Ealing, W3",
     "opening_hours": "",
     "borough": "Ealing"
@@ -39,7 +39,7 @@
     "name": "Alperton Underground Station",
     "latitude": 51.540627,
     "longitude": -0.29961,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Alperton Station, Alperton Station Forecourt, Alperton, London Borough of Brent, HA0 4LU",
     "opening_hours": "",
     "borough": "Brent"
@@ -48,7 +48,7 @@
     "name": "Becontree Underground Station",
     "latitude": 51.540331,
     "longitude": 0.127016,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Becontree, Gale Street, Becontree, London Borough of Barking and Dagenham, RM9 4NU",
     "opening_hours": "",
     "borough": "Barking and Dagenham"
@@ -57,7 +57,7 @@
     "name": "Barkingside Underground Station",
     "latitude": 51.585689,
     "longitude": 0.088585,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Barkingside, Station Road, Barkingside, London Borough of Redbridge, IG6 1NA",
     "opening_hours": "",
     "borough": "Redbridge"
@@ -66,7 +66,7 @@
     "name": "Barking Underground Station",
     "latitude": 51.539321,
     "longitude": 0.081053,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Barking, Station Parade, London Borough of Barking and Dagenham, IG11 8EA",
     "opening_hours": "SunFrom : 06:15 , MonFriTo : 23:30 , SatTo : 23:30 , MonFriFrom : 05:15 , SunTo : 23:30 , SatFrom : 05:15 , ",
     "borough": "Barking and Dagenham"
@@ -75,7 +75,7 @@
     "name": "Bank Underground Station",
     "latitude": 51.512986,
     "longitude": -0.088266,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Bank station, Exit N, Lombard Street, Cornhill, City of London, Greater London, England, EC3V 9AY",
     "opening_hours": "",
     "borough": "City of London"
@@ -84,7 +84,7 @@
     "name": "Boston Manor Underground Station",
     "latitude": 51.495635,
     "longitude": -0.324939,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Boston Manor, Boston Manor Road, London Borough of Hounslow, TW8 9LQ",
     "opening_hours": "",
     "borough": "Hounslow"
@@ -93,7 +93,7 @@
     "name": "Barons Court Underground Station",
     "latitude": 51.490311,
     "longitude": -0.213427,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Metro Cafe, Gliddon Road, West Kensington, London Borough of Hammersmith and Fulham, W14 9EA",
     "opening_hours": "",
     "borough": "Hammersmith and Fulham"
@@ -102,8 +102,8 @@
     "name": "Baker Street Underground Station",
     "latitude": 51.522883,
     "longitude": -0.15713,
-    "data_source": "Transport For London Open Data API",
-    "address": "Baker Street Metropolitan Westbound, Cornwall Terrace Mews, Marylebone, City of Westminster, NW1 4QP",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Baker Street Metropolitan Westbound, Allsop Place, Marylebone, City of Westminster, NW1",
     "opening_hours": "",
     "borough": "Westminster"
   },
@@ -111,8 +111,8 @@
     "name": "Cockfosters Underground Station",
     "latitude": 51.65152,
     "longitude": -0.149171,
-    "data_source": "Transport For London Open Data API",
-    "address": "Cockfosters, Cockfosters Road, Cockfosters, London Borough of Enfield, EN4 9EB",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Cockfosters Station, Cockfosters Road, Cockfosters, London Borough of Enfield, EN4 9EB",
     "opening_hours": "",
     "borough": "Enfield"
   },
@@ -120,7 +120,7 @@
     "name": "Canons Park Underground Station",
     "latitude": 51.607701,
     "longitude": -0.294693,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Canons Park Station, Whitchurch Lane, Canons Park, Stanmore, London Borough of Harrow, HA8 6QU",
     "opening_hours": "",
     "borough": "Harrow"
@@ -129,8 +129,8 @@
     "name": "Canada Water Underground Station",
     "latitude": 51.497931,
     "longitude": -0.049405,
-    "data_source": "Transport For London Open Data API",
-    "address": "Southbound to Surrey Quays, Albatross Way, Maple Quays, Rotherhithe, London Borough of Southwark, SE16 7ED",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Southbound to Surrey Quays, Albatross Way, Maple Quays, Rotherhithe, London Borough of Southwark, SE16 7EB",
     "opening_hours": "",
     "borough": "Southwark"
   },
@@ -138,7 +138,7 @@
     "name": "Canary Wharf Underground Station",
     "latitude": 51.503488,
     "longitude": -0.018246,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Citi, 25, Canada Square, Canary Wharf, Isle of Dogs, London Borough of Tower Hamlets, E14 5LQ",
     "opening_hours": "",
     "borough": "Tower Hamlets"
@@ -147,7 +147,7 @@
     "name": "Dagenham East Underground Station",
     "latitude": 51.544096,
     "longitude": 0.166017,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Dagenham East station, Rainham Road South, Dagenham, London Borough of Barking and Dagenham, RM10 8AA",
     "opening_hours": "",
     "borough": "Barking and Dagenham"
@@ -156,7 +156,7 @@
     "name": "Dagenham Heathway Underground Station",
     "latitude": 51.541639,
     "longitude": 0.147527,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Dagenham Heathway Station, Heathway, Dagenham, London Borough of Barking and Dagenham, RM9 5BG",
     "opening_hours": "",
     "borough": "Barking and Dagenham"
@@ -165,7 +165,7 @@
     "name": "Dollis Hill Underground Station",
     "latitude": 51.551955,
     "longitude": -0.239068,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Dollis Hill, Chapter Road, Dudden Hill, Dollis Hill, London Borough of Brent, NW2 5LY",
     "opening_hours": "",
     "borough": "Brent"
@@ -174,7 +174,7 @@
     "name": "Eastcote Underground Station",
     "latitude": 51.576506,
     "longitude": -0.397373,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Eastcote Railway Station, Field End Road, Eastcote, London Borough of Hillingdon, HA4 9UU",
     "opening_hours": "",
     "borough": "Hillingdon"
@@ -183,7 +183,7 @@
     "name": "Earl's Court Underground Station",
     "latitude": 51.492063,
     "longitude": -0.193378,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Earl's Court (Earl's Court Road), Earl's Court Road, The Boltons, Earl's Court, Royal Borough of Kensington and Chelsea, SW5 9RF",
     "opening_hours": "",
     "borough": "Kensington and Chelsea"
@@ -192,7 +192,7 @@
     "name": "East Ham Underground Station",
     "latitude": 51.538948,
     "longitude": 0.051186,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Station Parade, High Street North, Plashet, London Borough of Newham, E6 1JE",
     "opening_hours": "",
     "borough": "Newham"
@@ -201,7 +201,7 @@
     "name": "Euston Underground Station",
     "latitude": 51.527824,
     "longitude": -0.131846,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Euston Station, Euston Square, St Pancras, London Borough of Camden, NW1 2FL",
     "opening_hours": "",
     "borough": "Camden"
@@ -210,8 +210,8 @@
     "name": "Farringdon Underground Station",
     "latitude": 51.520252,
     "longitude": -0.104913,
-    "data_source": "Transport For London Open Data API",
-    "address": "Farringdon, Turnmill Street, Farringdon, Clerkenwell, London Borough of Islington, EC1M 5SY",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Farringdon - Thameslink - Southbound - Platform 3, Cowcross Street, Farringdon, Clerkenwell, London Borough of Islington, EC1M 6BY",
     "opening_hours": "",
     "borough": "Islington"
   },
@@ -219,7 +219,7 @@
     "name": "Fairlop Underground Station",
     "latitude": 51.595618,
     "longitude": 0.091004,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Fairlop Underground Station, Forest Road, Barkingside, London Borough of Redbridge, IG6 3HE",
     "opening_hours": "",
     "borough": "Redbridge"
@@ -228,8 +228,8 @@
     "name": "Finchley Central Underground Station",
     "latitude": 51.600921,
     "longitude": -0.192527,
-    "data_source": "Transport For London Open Data API",
-    "address": "Finchley Central, Chaville Way, Church End, London Borough of Barnet, N3 2SA",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Finchley Central, Station Road, Church End, London Borough of Barnet, N3 2RY",
     "opening_hours": "",
     "borough": "Barnet"
   },
@@ -237,8 +237,8 @@
     "name": "Finchley Road Underground Station",
     "latitude": 51.546825,
     "longitude": -0.179845,
-    "data_source": "Transport For London Open Data API",
-    "address": "WH Smith, Canfield Gardens, Swiss Cottage, South Hampstead, London Borough of Camden, NW6 3BS",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "WHSmith, Canfield Gardens, Swiss Cottage, South Hampstead, London Borough of Camden, NW6 3BS",
     "opening_hours": "",
     "borough": "Camden"
   },
@@ -246,7 +246,7 @@
     "name": "Harrow & Wealdstone Underground Station",
     "latitude": 51.592268,
     "longitude": -0.335217,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Harrow & Wealdstone, Sandridge Close, Wealdstone, London Borough of Harrow, HA1 1XD",
     "opening_hours": "",
     "borough": "Harrow"
@@ -255,7 +255,7 @@
     "name": "High Barnet Underground Station",
     "latitude": 51.650541,
     "longitude": -0.194298,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "High Barnet, Barnet Hill, High Barnet, London Borough of Barnet, EN5 5RH",
     "opening_hours": "",
     "borough": "Barnet"
@@ -264,7 +264,7 @@
     "name": "Hornchurch Underground Station",
     "latitude": 51.554093,
     "longitude": 0.219116,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Hornchurch Station, Station Lane, Hornchurch, London Borough of Havering, RM12 6RD",
     "opening_hours": "",
     "borough": "Havering"
@@ -273,8 +273,8 @@
     "name": "Hillingdon Underground Station",
     "latitude": 51.553715,
     "longitude": -0.449828,
-    "data_source": "Transport For London Open Data API",
-    "address": "Hillingdon Station, footpath, London Borough of Hillingdon, UB10 9NR",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Hillingdon Station, Western Avenue, London Borough of Hillingdon, UB10 9NR",
     "opening_hours": "",
     "borough": "Hillingdon"
   },
@@ -282,8 +282,8 @@
     "name": "Hanger Lane Underground Station",
     "latitude": 51.530177,
     "longitude": -0.292704,
-    "data_source": "Transport For London Open Data API",
-    "address": "Hanger Lane Gyratory, Park Royal, London Borough of Ealing, W5 1EF",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Hanger Lane Station, S1, Park Royal, London Borough of Ealing, W5 1DL",
     "opening_hours": "",
     "borough": "Ealing"
   },
@@ -291,7 +291,7 @@
     "name": "Hainault Underground Station",
     "latitude": 51.603659,
     "longitude": 0.093482,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Hainault - Central Line (via Newbury Park), New North Road, Hainault, London Borough of Redbridge, IG6 3AA",
     "opening_hours": "",
     "borough": "Redbridge"
@@ -300,7 +300,7 @@
     "name": "Harrow-on-the-Hill Underground Station",
     "latitude": 51.579195,
     "longitude": -0.337225,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Harrow-on-the-Hill Station, Station Approach, Greenhill, Harrow on the Hill, London Borough of Harrow, HA1 1BB",
     "opening_hours": "",
     "borough": "Harrow"
@@ -309,7 +309,7 @@
     "name": "Hounslow Central Underground Station",
     "latitude": 51.471295,
     "longitude": -0.366578,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Hounslow Central, Concorde Close, Lampton, London Borough of Hounslow, TW3 4DG",
     "opening_hours": "",
     "borough": "Hounslow"
@@ -318,7 +318,7 @@
     "name": "Kilburn Underground Station",
     "latitude": 51.547183,
     "longitude": -0.204248,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "NW6 29, Exeter Road, West Hampstead, London Borough of Brent, NW2 3UH",
     "opening_hours": "",
     "borough": "Brent"
@@ -327,7 +327,7 @@
     "name": "Kingsbury Underground Station",
     "latitude": 51.584845,
     "longitude": -0.27879,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Kingsbury, Kingsbury Road, Kingsbury, Preston, London Borough of Brent, NW9 9HE",
     "opening_hours": "",
     "borough": "Brent"
@@ -336,7 +336,7 @@
     "name": "Kensington (Olympia) Underground Station",
     "latitude": 51.497624,
     "longitude": -0.210015,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Kensington (Olympia) Platform 1, Olympia Way, West Kensington, London Borough of Hammersmith and Fulham, W14 8XJ",
     "opening_hours": "MonFriFrom : 07:25 , SatFrom : 08:25 , SatTo : 15:00 , SunFrom : 09:15 , MonFriTo : 20:30 , SunTo : 16:30 , ",
     "borough": "Hammersmith and Fulham"
@@ -345,7 +345,7 @@
     "name": "Kew Gardens Underground Station",
     "latitude": 51.477058,
     "longitude": -0.285241,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Kew Gardens Station, Station Approach, Kew, London Borough of Richmond upon Thames, TW9 3PZ",
     "opening_hours": "",
     "borough": "Richmond upon Thames"
@@ -354,8 +354,8 @@
     "name": "Leyton Underground Station",
     "latitude": 51.556589,
     "longitude": -0.005523,
-    "data_source": "Transport For London Open Data API",
-    "address": "Leyton - Central Line - Eastbound - Platform 2, Eastern Avenue, Temple Mills, London Borough of Waltham Forest, E11 4EE",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Leyton - Central Line - Eastbound - Platform 2, Webster Road, Temple Mills, London Borough of Waltham Forest, E11 4ER",
     "opening_hours": "",
     "borough": "Waltham Forest"
   },
@@ -363,7 +363,7 @@
     "name": "Leytonstone Underground Station",
     "latitude": 51.568324,
     "longitude": 0.008194,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Leytonstone - Central Line, Church Lane, Leytonstone, London Borough of Waltham Forest, E11 1HE",
     "opening_hours": "",
     "borough": "Waltham Forest"
@@ -372,7 +372,7 @@
     "name": "Newbury Park Underground Station",
     "latitude": 51.575726,
     "longitude": 0.090004,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Newbury Park, Eastern Avenue, Newbury Park, London Borough of Redbridge, IG2",
     "opening_hours": "",
     "borough": "Redbridge"
@@ -381,7 +381,7 @@
     "name": "Neasden Underground Station",
     "latitude": 51.553986,
     "longitude": -0.249837,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Arush Newsagent, Neasden Lane, Dudden Hill, Dollis Hill, London Borough of Brent, NW10 1PH",
     "opening_hours": "",
     "borough": "Brent"
@@ -390,7 +390,7 @@
     "name": "North Ealing Underground Station",
     "latitude": 51.517505,
     "longitude": -0.288868,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "North Ealing, Station Road, Park Royal, London Borough of Ealing, W5",
     "opening_hours": "",
     "borough": "Ealing"
@@ -399,7 +399,7 @@
     "name": "Northfields Underground Station",
     "latitude": 51.499319,
     "longitude": -0.314719,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Northfield Avenue, London Borough of Ealing, W5 4TW",
     "opening_hours": "",
     "borough": "Ealing"
@@ -408,7 +408,7 @@
     "name": "North Greenwich Underground Station",
     "latitude": 51.50047,
     "longitude": 0.004287,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "North Greenwich, Peninsula Square, Greenwich Peninsula, Royal Borough of Greenwich, SE10 0PH",
     "opening_hours": "",
     "borough": "Greenwich"
@@ -417,7 +417,7 @@
     "name": "North Harrow Underground Station",
     "latitude": 51.584872,
     "longitude": -0.362408,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "North Harrow, Station Road, Rayners Lane, London Borough of Harrow, HA2 7SJ",
     "opening_hours": "",
     "borough": "Harrow"
@@ -426,7 +426,7 @@
     "name": "Northolt Underground Station",
     "latitude": 51.548236,
     "longitude": -0.368699,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Northolt Station, Mandeville Road, London Borough of Ealing, UB5 5HA",
     "opening_hours": "SunFrom : 09:00 , SatFrom : 08:00 , SunTo : 15:30 , MonFriFrom : 06:15 , SatTo : 17:30 , MonFriTo : 19:15 , ",
     "borough": "Ealing"
@@ -435,7 +435,7 @@
     "name": "Northwick Park Underground Station",
     "latitude": 51.578481,
     "longitude": -0.318056,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Northwick Park, Northwick Avenue, North Wembley, London Borough of Brent, HA3 0AT",
     "opening_hours": "",
     "borough": "Brent"
@@ -444,7 +444,7 @@
     "name": "Northwood Underground Station",
     "latitude": 51.611053,
     "longitude": -0.423829,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Northwood, Station Approach, Northwood Green Lane, Northwood, London Borough of Hillingdon, HA6 2XN",
     "opening_hours": "",
     "borough": "Hillingdon"
@@ -453,7 +453,7 @@
     "name": "Northwood Hills Underground Station",
     "latitude": 51.600572,
     "longitude": -0.409464,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Northwood Hills Station, Joel Street, Northwood Hills, Northwood, London Borough of Hillingdon, HA6 1LL",
     "opening_hours": "",
     "borough": "Hillingdon"
@@ -462,7 +462,7 @@
     "name": "Oakwood Underground Station",
     "latitude": 51.647726,
     "longitude": -0.132182,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Oakwood Station, Bramley Road, Cockfosters, London Borough of Enfield, N14 4UT",
     "opening_hours": "",
     "borough": "Enfield"
@@ -471,7 +471,7 @@
     "name": "Osterley Underground Station",
     "latitude": 51.481274,
     "longitude": -0.352224,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Osterley, Great West Road, Osterley, London Borough of Hounslow, TW7 4PX",
     "opening_hours": "",
     "borough": "Hounslow"
@@ -480,7 +480,7 @@
     "name": "Park Royal Underground Station",
     "latitude": 51.527123,
     "longitude": -0.284341,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Western Avenue, Park Royal, London Borough of Ealing, W5 3EP",
     "opening_hours": "",
     "borough": "Ealing"
@@ -489,7 +489,7 @@
     "name": "Pinner Underground Station",
     "latitude": 51.592901,
     "longitude": -0.381161,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Pinner Station, Station Approach, Pinner, London Borough of Harrow, HA5 5LZ",
     "opening_hours": "",
     "borough": "Harrow"
@@ -498,7 +498,7 @@
     "name": "Perivale Underground Station",
     "latitude": 51.536717,
     "longitude": -0.323446,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Perivale - Central Line - Eastbound - Platform 2, Chilham Close, Perivale, London Borough of Ealing, UB6 8AE",
     "opening_hours": "",
     "borough": "Ealing"
@@ -507,7 +507,7 @@
     "name": "Queensbury Underground Station",
     "latitude": 51.594188,
     "longitude": -0.286219,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Queensbury, Cumberland Road, London Borough of Brent, NW9 9EB",
     "opening_hours": "",
     "borough": "Brent"
@@ -516,7 +516,7 @@
     "name": "Redbridge Underground Station",
     "latitude": 51.576243,
     "longitude": 0.04536,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Redbridge, Eastern Avenue, Redbridge, London Borough of Redbridge, IG4 5DQ",
     "opening_hours": "",
     "borough": "Redbridge"
@@ -525,8 +525,8 @@
     "name": "Richmond Underground Station",
     "latitude": 51.463237,
     "longitude": -0.301336,
-    "data_source": "Transport For London Open Data API",
-    "address": "Richmond Station Car Park, Church Road, North Sheen, London Borough of Richmond upon Thames, TW9 2QE",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Richmond Station Car Park, Sun Alley, North Sheen, London Borough of Richmond upon Thames, TW9 2PP",
     "opening_hours": "MonFriFrom : 06:15 , SunFrom : 07:15 , SatFrom : 06:15 , SatTo : 21:45 , SunTo : 21:30 , MonFriTo : 21:45 , ",
     "borough": "Richmond upon Thames"
   },
@@ -534,8 +534,8 @@
     "name": "Ruislip Gardens Underground Station",
     "latitude": 51.560736,
     "longitude": -0.41071,
-    "data_source": "Transport For London Open Data API",
-    "address": "Ruislip Gardens Underground Station, Ruislip Gardens Station Road, London Borough of Hillingdon, HA4 6LG",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Ruislip Gardens Underground Station, West End Road, London Borough of Hillingdon, HA4 6NW",
     "opening_hours": "",
     "borough": "Hillingdon"
   },
@@ -543,7 +543,7 @@
     "name": "Ruislip Manor Underground Station",
     "latitude": 51.573202,
     "longitude": -0.412973,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Ruislip Manor Station, Victoria Road, London Borough of Hillingdon, HA4 9BH",
     "opening_hours": "",
     "borough": "Hillingdon"
@@ -552,7 +552,7 @@
     "name": "Ruislip Underground Station",
     "latitude": 51.571354,
     "longitude": -0.421898,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Ruislip - Metropolitan, Piccadilly Line - Eastbound - Platform 2, Footpath R167, London Borough of Hillingdon, HA4 6DE",
     "opening_hours": "",
     "borough": "Hillingdon"
@@ -561,7 +561,7 @@
     "name": "Rayners Lane Underground Station",
     "latitude": 51.575147,
     "longitude": -0.371127,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Rayners Lane Station, Alexandra Avenue, Rayners Lane, London Borough of Harrow, HA5 5EG",
     "opening_hours": "",
     "borough": "Harrow"
@@ -570,7 +570,7 @@
     "name": "Stamford Brook Underground Station",
     "latitude": 51.494917,
     "longitude": -0.245704,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Third Chiswick Scout Group, Wilson Walk, London Borough of Hounslow, W6 0SB",
     "opening_hours": "",
     "borough": "Hounslow"
@@ -579,8 +579,8 @@
     "name": "South Harrow Underground Station",
     "latitude": 51.564888,
     "longitude": -0.352492,
-    "data_source": "Transport For London Open Data API",
-    "address": "South Harrow Station, Northolt Road, South Harrow, London Borough of Harrow, HA2 8HW",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "South Harrow Station, Northolt Road, South Harrow, London Borough of Harrow, HA2 0EX",
     "opening_hours": "",
     "borough": "Harrow"
   },
@@ -588,7 +588,7 @@
     "name": "St. John's Wood Underground Station",
     "latitude": 51.534521,
     "longitude": -0.173948,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "NW8 4, Acacia Road, St. John's Wood, City of Westminster, NW8",
     "opening_hours": "",
     "borough": "Westminster"
@@ -597,7 +597,7 @@
     "name": "Snaresbrook Underground Station",
     "latitude": 51.580678,
     "longitude": 0.02144,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Snaresbrook, Station Approach, Snaresbrook, London Borough of Redbridge, E11 1QE",
     "opening_hours": "",
     "borough": "Redbridge"
@@ -606,8 +606,8 @@
     "name": "Stratford Underground Station",
     "latitude": 51.541806,
     "longitude": -0.003458,
-    "data_source": "Transport For London Open Data API",
-    "address": "Stratford Platform 6, Montfichet Road, Stratford Marsh, London Borough of Newham, E20 1GR",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Stratford Platform 6, Montfichet Road, Stratford Marsh, London Borough of Newham, E20 1NN",
     "opening_hours": "",
     "borough": "Newham"
   },
@@ -615,7 +615,7 @@
     "name": "Stanmore Underground Station",
     "latitude": 51.619839,
     "longitude": -0.303266,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "London Road, Stanmore, London Borough of Harrow, HA7 4NR",
     "opening_hours": "",
     "borough": "Harrow"
@@ -624,7 +624,7 @@
     "name": "Sudbury Hill Underground Station",
     "latitude": 51.556946,
     "longitude": -0.336435,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Sudbury Hill, Cavendish Avenue, Sudbury Hill, London Borough of Harrow, HA1 3QN",
     "opening_hours": "",
     "borough": "Harrow"
@@ -633,7 +633,7 @@
     "name": "Sudbury Town Underground Station",
     "latitude": 51.550815,
     "longitude": -0.315745,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Sudbury Town, Station Approach, Sudbury, London Borough of Brent, HA0 2LA",
     "opening_hours": "",
     "borough": "Brent"
@@ -642,7 +642,7 @@
     "name": "South Woodford Underground Station",
     "latitude": 51.591907,
     "longitude": 0.027338,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "South Woodford, Station Approach, Snaresbrook, London Borough of Redbridge, E18 1AG",
     "opening_hours": "",
     "borough": "Redbridge"
@@ -651,7 +651,7 @@
     "name": "Totteridge & Whetstone Underground Station",
     "latitude": 51.630597,
     "longitude": -0.17921,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Totteridge & Whetstone, Totteridge Lane, Whetstone, London Borough of Barnet, N20 9QP",
     "opening_hours": "",
     "borough": "Barnet"
@@ -660,7 +660,7 @@
     "name": "Upminster Bridge Underground Station",
     "latitude": 51.55856,
     "longitude": 0.235809,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Upminster Bridge Station, Upminster Road, Upminster, London Borough of Havering, RM11 3XH",
     "opening_hours": "",
     "borough": "Havering"
@@ -669,7 +669,7 @@
     "name": "Upminster Underground Station",
     "latitude": 51.559063,
     "longitude": 0.250882,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Upminster Station, Hall Lane, Upminster, London Borough of Havering, RM14 2TD",
     "opening_hours": "SatFrom : 06:15 , MonFriFrom : 05:15 , MonFriTo : 22:00 , SatTo : 22:00 , SunFrom : 06:45 , SunTo : 22:00 , ",
     "borough": "Havering"
@@ -678,8 +678,8 @@
     "name": "Uxbridge Underground Station",
     "latitude": 51.546565,
     "longitude": -0.477949,
-    "data_source": "Transport For London Open Data API",
-    "address": "Uxbridge, Baker's Road, London Borough of Hillingdon, UB8 1RG",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Uxbridge, Baker's Road, London Borough of Hillingdon, UB8 1SS",
     "opening_hours": "",
     "borough": "Hillingdon"
   },
@@ -687,7 +687,7 @@
     "name": "Victoria Underground Station",
     "latitude": 51.496359,
     "longitude": -0.143102,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Circle Westbound, Wilton Road, Victoria, City of Westminster, SW1V 1AN",
     "opening_hours": "",
     "borough": "Westminster"
@@ -696,8 +696,8 @@
     "name": "White City Underground Station",
     "latitude": 51.511959,
     "longitude": -0.224297,
-    "data_source": "Transport For London Open Data API",
-    "address": "White City - Eastbound, Depot Road, London Borough of Hammersmith and Fulham, W12 7RH",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "White City - Eastbound, Depot Road, White City Estate, London Borough of Hammersmith and Fulham, W12 7RH",
     "opening_hours": "",
     "borough": "Hammersmith and Fulham"
   },
@@ -705,7 +705,7 @@
     "name": "West Finchley Underground Station",
     "latitude": 51.609426,
     "longitude": -0.188362,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "West Finchley, Nether Street, West Finchley, London Borough of Barnet, N3 1NT",
     "opening_hours": "",
     "borough": "Barnet"
@@ -714,7 +714,7 @@
     "name": "West Hampstead Underground Station",
     "latitude": 51.546638,
     "longitude": -0.191059,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "West Hampstead Station, West End Lane, West Hampstead, London Borough of Camden, NW6 2LX",
     "opening_hours": "",
     "borough": "Camden"
@@ -723,7 +723,7 @@
     "name": "West Harrow Underground Station",
     "latitude": 51.57971,
     "longitude": -0.3534,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Vaughan Primary School, Vaughan Road, Harrow on the Hill, London Borough of Harrow, HA1 4EL",
     "opening_hours": "",
     "borough": "Harrow"
@@ -732,7 +732,7 @@
     "name": "Willesden Green Underground Station",
     "latitude": 51.549146,
     "longitude": -0.221537,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Willesden Green Station, Walm Lane, Brondesbury, London Borough of Brent, NW2 4QY",
     "opening_hours": "",
     "borough": "Brent"
@@ -741,7 +741,7 @@
     "name": "Wimbledon Underground Station",
     "latitude": 51.421207,
     "longitude": -0.206573,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Wimbledon, Wimbledon Bridge, Wimbledon Village, London Borough of Merton, SW19 7NW",
     "opening_hours": "",
     "borough": "Merton"
@@ -750,7 +750,7 @@
     "name": "Woodford Underground Station",
     "latitude": 51.606899,
     "longitude": 0.03397,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Woodford - Central Line - Eastbound, Charteris Road, Woodford, London Borough of Redbridge, IG8 7QE",
     "opening_hours": "",
     "borough": "Redbridge"
@@ -759,8 +759,8 @@
     "name": "Woodside Park Underground Station",
     "latitude": 51.618014,
     "longitude": -0.18542,
-    "data_source": "Transport For London Open Data API",
-    "address": "Woodside Park Station, Woodside Park Road, Woodside Park, London Borough of Barnet, N12 8LA",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Woodside Park, Station Approach, Woodside Park, London Borough of Barnet, N12 8SE",
     "opening_hours": "",
     "borough": "Barnet"
   },
@@ -768,8 +768,8 @@
     "name": "West Ruislip Underground Station",
     "latitude": 51.569688,
     "longitude": -0.437886,
-    "data_source": "Transport For London Open Data API",
-    "address": "West Ruislip, High Road Ickenham, London Borough of Hillingdon, HA4 7DT",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "West Ruislip, High Road Ickenham, London Borough of Hillingdon, HA4 7DW",
     "opening_hours": "",
     "borough": "Hillingdon"
   },
@@ -777,8 +777,8 @@
     "name": "Warren Street Underground Station",
     "latitude": 51.524951,
     "longitude": -0.138321,
-    "data_source": "Transport For London Open Data API",
-    "address": "Euston Underpass, Somers Town, London Borough of Camden, NW1 3AA",
+    "data_source": "TFL Open Data API 20/03/2022",
+    "address": "Euston Underpass, Fitzrovia, London Borough of Camden, NW1 3AA",
     "opening_hours": "",
     "borough": "Camden"
   },
@@ -786,7 +786,7 @@
     "name": "Wembley Central Underground Station",
     "latitude": 51.552304,
     "longitude": -0.296852,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Wembley Central, Wembley Central Square, Sudbury, London Borough of Brent, HA0 2DH",
     "opening_hours": "SatFrom : 09:00 , SatTo : 17:00 , MonFriTo : 19:00 , MonFriFrom : 07:00 , ",
     "borough": "Brent"
@@ -795,7 +795,7 @@
     "name": "Wembley Park Underground Station",
     "latitude": 51.563198,
     "longitude": -0.279262,
-    "data_source": "Transport For London Open Data API",
+    "data_source": "TFL Open Data API 20/03/2022",
     "address": "Wembley Park, Bridge Road, London Borough of Brent, HA9 9AA",
     "opening_hours": "",
     "borough": "Brent"
