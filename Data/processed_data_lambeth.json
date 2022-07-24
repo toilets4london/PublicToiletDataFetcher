@@ -83,8 +83,8 @@
     "opening_hours": "",
     "name": "Hillside Gardens",
     "baby_change": true,
-    "latitude": 51.3546384,
-    "longitude": -0.1415276,
+    "latitude": 51.3530851,
+    "longitude": -0.1453973,
     "wheelchair": true
   },
   {
@@ -116,8 +116,8 @@
     "opening_hours": "",
     "name": "Myatts Field Park",
     "baby_change": true,
-    "latitude": 51.47258,
-    "longitude": -0.10566,
+    "latitude": 51.4736828,
+    "longitude": -0.1033501,
     "wheelchair": false
   },
   {
@@ -127,8 +127,8 @@
     "opening_hours": "",
     "name": "Myatts Field Park",
     "baby_change": false,
-    "latitude": 51.47258,
-    "longitude": -0.10566,
+    "latitude": 51.4736828,
+    "longitude": -0.1033501,
     "wheelchair": false
   },
   {
@@ -149,8 +149,8 @@
     "opening_hours": "",
     "name": "Ruskin Park",
     "baby_change": false,
-    "latitude": 51.46594035,
-    "longitude": -0.09284335000000121,
+    "latitude": 51.4642266,
+    "longitude": -0.09461546313223525,
     "wheelchair": false
   },
   {
@@ -160,8 +160,8 @@
     "opening_hours": "",
     "name": "Ruskin Park",
     "baby_change": false,
-    "latitude": 51.46612685,
-    "longitude": -0.09551068869274032,
+    "latitude": 51.4642266,
+    "longitude": -0.09461546313223525,
     "wheelchair": false
   },
   {
@@ -171,8 +171,8 @@
     "opening_hours": "",
     "name": "Streatham Common",
     "baby_change": true,
-    "latitude": 51.422493,
-    "longitude": -0.1190888,
+    "latitude": 51.4221408,
+    "longitude": -0.119782,
     "wheelchair": true
   },
   {
@@ -182,8 +182,8 @@
     "opening_hours": "",
     "name": "The Rookery",
     "baby_change": true,
-    "latitude": 51.4220395,
-    "longitude": -0.11960469999999807,
+    "latitude": 51.4220339,
+    "longitude": -0.11956320000000195,
     "wheelchair": false
   }
 ]

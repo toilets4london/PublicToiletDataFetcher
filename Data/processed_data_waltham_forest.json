@@ -9,43 +9,55 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
+  },
+  {
+    "name": "Chingford Library",
+    "latitude": 51.63149,
+    "longitude": 0.002856,
+    "address": "Chingford Library , The Green, E4 7EN, 020 8496 3000",
+    "opening_hours": "Monday to Friday 9am to 7pm, Saturday 9am to 6pm",
+    "wheelchair": true,
+    "baby_change": true,
+    "borough": "Waltham Forest",
+    "open": true,
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Chingford Mount Cemetery",
     "latitude": 51.6225,
     "longitude": -0.01661,
     "address": "Chingford Mount Cemetery Offices - 121 Old Church Road, E4 6ST, 020 8524 5030",
-    "opening_hours": "Facilities: 1 unisex toilet located in Offices, Monday to Thursday: 9am to -12 pm, 1- 3pm, Friday: 9.30am to 12 noon",
+    "opening_hours": "Facilities: 1 unisex toilet located in Offices, Monday to Thursday: 9am to 12 pm, 1 to 3pm, Friday: 9.30am to 12 noon",
     "wheelchair": false,
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
-    "name": "Costa Coffee",
+    "name": "Costa Coffee Cafe",
     "latitude": 51.61794,
     "longitude": -0.01765,
-    "address": "Costa Coffee Cafe - 24 Old Church Road, E4 8DD, 020 85291316",
+    "address": "Costa Coffee Cafe 24 Old Church Road, E4 8DD, 020 85291316",
     "opening_hours": "Monday to Saturday: 7am to 6pm, Sunday: 9am to 5pm",
     "wheelchair": true,
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Hale End Library",
     "latitude": 51.60933,
     "longitude": 0.001106,
     "address": "Hale End Library Castle Avenue, Highams Park, E4 9QD, 020 8496 3000",
-    "opening_hours": "Closed : Monday, Thursday, Sunday, Open: Wednesday, Friday 10am to 6pm,, Saturday 10am to 4pm, ",
+    "opening_hours": "Closed : Monday, Thursday, Sunday, Open: Tuesday, Wednesday, Friday 10am to 6pm,, Saturday 10am to 4pm",
     "wheelchair": true,
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Humphrys caf\u00e9",
@@ -57,7 +69,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Ridgeway Park",
@@ -69,7 +81,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Station Caf\u00e9 and Sandwich Bar",
@@ -81,7 +93,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Trattoria Ibleo Restaurant",
@@ -93,7 +105,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "The Melting Point Bistro",
@@ -105,19 +117,19 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
-    "name": "Library North Chingford",
-    "latitude": 51.6315,
-    "longitude": 0.002854,
-    "address": "Library North Chingford The Green, Station Road, E4 7EN, 0208 496 3000",
-    "opening_hours": "Facilities: Children, Monday to Saturday 9am to 7 pm, Sunday 12am to 4pm",
-    "wheelchair": false,
-    "baby_change": false,
+    "name": "Crate Building",
+    "latitude": 51.58058,
+    "longitude": -0.03253,
+    "address": "Crate Building , 35 St James Street, E17 7FY, 020 3026 9923",
+    "opening_hours": "Monday to Saturday 8am to 11pm",
+    "wheelchair": true,
+    "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Enjoy Caf\u00e9",
@@ -129,19 +141,19 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Higham Hill Library",
     "latitude": 51.59586,
     "longitude": -0.02734,
     "address": "Higham Hill Library North Countess Road, E17 5HS, 020 8496 3000",
-    "opening_hours": "Closed: Tuesday, Wednesday, Sunday, Open: Monday, Thursday, Friday 10am to 6pm, Saturday 10am to 4pm",
+    "opening_hours": "Closed: Tuesday, Wednesday, Sunday, Open: Monday, Thursday, Friday, Saturday 10am to 6pm",
     "wheelchair": true,
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Home Made Community Caf\u00e9",
@@ -153,19 +165,19 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
-    "name": "Lancaster Home & Garden store",
+    "name": "Lancaster Home and Garden store",
     "latitude": 51.58609,
     "longitude": -0.0025,
-    "address": "Lancaster Home & Garden store Unit 2, 186 Wood Rd, E17 3NZ, 020 8520 1088",
+    "address": "Lancaster Home and Garden store Unit 2, 186 Wood Rd, E17 3NZ, 020 8520 1088",
     "opening_hours": "Monday to Friday: 8am to 6pm, Saturday 8am to 7pm, Sunday: 10am to 5pm",
     "wheelchair": false,
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Le Delice Restaurant",
@@ -177,7 +189,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "McDonalds \u2013 Walthamstow",
@@ -189,7 +201,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "The Bell Restaurant",
@@ -201,19 +213,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
-  },
-  {
-    "name": "The Mall Shopping Centre",
-    "latitude": 51.58321,
-    "longitude": -0.02403,
-    "address": "The Mall Shopping Centre The Mall Ltd, 45 Selbourne Walk E17 7JR",
-    "opening_hours": "Monday to Saturday 7am to 9pm, Sunday: 11am to 5pm",
-    "wheelchair": true,
-    "baby_change": true,
-    "borough": "Waltham Forest",
-    "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Walthamstow Library",
@@ -225,7 +225,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "William Morris Gallery",
@@ -237,31 +237,31 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Wood Street Library",
     "latitude": 51.59164,
     "longitude": -0.00446,
-    "address": "Wood Street Library Forest Road, Walthamstow, E17 4AA, 020 8496 3000",
-    "opening_hours": "Closed; Wednesday, Thursday and Sunday, Open; Monday, Tuesday, Friday: 10am to 6pm, Saturday: 10am to 4pm",
+    "address": "Wood Street Library 1 Troubridge Square, E17 3HB, 020 8496 3000",
+    "opening_hours": "Monday to Friday: 9am to 7pm, Saturday: 9am to 6pm, Sunday 12pm to 4pm",
     "wheelchair": true,
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Yasar Kebab & Steak's",
     "latitude": 51.58741,
     "longitude": -0.04031,
     "address": "Yasar Kebab & Steak's 8 Blackhorse Lane, E17 6HJ, 020 85274081",
-    "opening_hours": "Sunday to Thursday Midday to 2am, Friday to Saturday Midday to 4am",
+    "opening_hours": "Sunday to Thursday: Midday to 2am, Friday to Saturday: Midday to 4am",
     "wheelchair": true,
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Ye Olde Rose and Crown Theatre Pub",
@@ -273,7 +273,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Epicentre",
@@ -285,7 +285,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Leytonstone Library",
@@ -297,7 +297,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Langthorne Park",
@@ -309,7 +309,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "L'Horizon Patisserie",
@@ -321,7 +321,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Plough and Harrow",
@@ -333,7 +333,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Cann Hall Pavilion",
@@ -345,7 +345,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Coronation Gardens Park",
@@ -357,7 +357,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Drapers Field",
@@ -369,7 +369,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "KFC Lea Bridge Road",
@@ -381,7 +381,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Kukoolala Cafe",
@@ -393,19 +393,19 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Lea Bridge Library",
     "latitude": 51.57077,
     "longitude": -0.02362,
     "address": "Lea Bridge Library Lea Bridge Road, E10 7HU, 020 8496 3000",
-    "opening_hours": "Closed Sunday, Monday, Friday, Open Tuesday, Wednesday, Thursday: 10am to 6pm, Saturday: 10am to 4pm",
+    "opening_hours": "Monday to Friday: 9am to 6pm, Saturday: 9am to 6pm, Sunday 10am to 4pm",
     "wheelchair": true,
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Leyton Library",
@@ -417,7 +417,7 @@
     "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "The Holly Tree",
@@ -429,7 +429,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Costa Coffee",
@@ -441,19 +441,19 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Hale End Library",
     "latitude": 51.60933,
     "longitude": 0.001106,
     "address": "Hale End Library Castle Avenue, Highams Park, E4 9QD, 020 8496 3000",
-    "opening_hours": "Closed : Monday, Thursday, Sunday, Open: Wednesday, Friday 10am to 6pm,, Saturday 10am to 4pm",
+    "opening_hours": "Closed : Monday, Thursday, Sunday, Open: Tuesday, Wednesday, Friday 10am to 6pm,, Saturday 10am to 4pm",
     "wheelchair": false,
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Humphrys cafe",
@@ -465,19 +465,19 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
-    "name": "Queen Elizabeth Pub",
-    "latitude": 51.63026,
-    "longitude": 0.015671,
-    "address": "Queen Elizabeth Pub 95 Forest Side, E4 6BA, 020 8529 1160",
-    "opening_hours": "Monday to Thursday: 11.30 am to 11pm, Friday to Saturday: 11.30 am to Midnight, Saturday to Sunday: Midday to 11pm",
-    "wheelchair": false,
-    "baby_change": false,
+    "name": "North Chingford Library",
+    "latitude": 51.63149,
+    "longitude": 0.002856,
+    "address": "North Chingford Library , The Green, E4 7EN, 020 8496 3000",
+    "opening_hours": "Open: Monday to Friday 9am to 7pm, Saturday 9am to 6pm, Sunday 12pm to 4pm",
+    "wheelchair": true,
+    "baby_change": true,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Trattoria Ibleo Restaurant",
@@ -489,7 +489,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Epicentre",
@@ -501,7 +501,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Leytonstone Library",
@@ -513,7 +513,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Langthorne Park",
@@ -525,7 +525,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "L'Horizon Patisserie",
@@ -537,7 +537,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Plough and Harrow",
@@ -549,7 +549,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Cann Hall Pavilion",
@@ -561,7 +561,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Coronation Gardens Park",
@@ -573,7 +573,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Drapers Field",
@@ -585,7 +585,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "KFC Lea Bridge Road",
@@ -597,7 +597,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Kukoolala Cafe",
@@ -609,7 +609,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "Lea Bridge Library",
@@ -621,10 +621,10 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
-    "name": "Leyton",
+    "name": "Leyton Library",
     "latitude": 51.55847,
     "longitude": -0.00722,
     "address": "Leyton Library High Road, E10 5QH, 020 8496 3000",
@@ -633,7 +633,7 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   },
   {
     "name": "The Holly Tree",
@@ -645,6 +645,6 @@
     "baby_change": false,
     "borough": "Waltham Forest",
     "open": true,
-    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 20/03/2022"
+    "data_source": "walthamforest.gov.uk/neighbourhoods/public-toilets 23/07/2022"
   }
 ]

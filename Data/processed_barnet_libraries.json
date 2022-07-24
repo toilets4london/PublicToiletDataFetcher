@@ -1,6 +1,6 @@
 [
   {
-    "data_source": "Downloaded from https://data.gov.uk/",
+    "data_source": "https://data.gov.uk/ 23/07/2022",
     "borough": "Barnet",
     "address": "Burnt Oak Library",
     "opening_hours": "Mo,Tu,We,Fr,Sa 09:00-17:00; Th 09:00-20:00; Su off",
@@ -10,7 +10,7 @@
     "open": true
   },
   {
-    "data_source": "Downloaded from https://data.gov.uk/",
+    "data_source": "https://data.gov.uk/ 23/07/2022",
     "borough": "Barnet",
     "address": "Chipping Barnet Library",
     "opening_hours": "Mo 10:00-20:00; Tu,Th,Sa 09:30-17:00; We,Fr 09:30-20:00; Su 14:00-17:00",
@@ -20,7 +20,7 @@
     "open": true
   },
   {
-    "data_source": "Downloaded from https://data.gov.uk/",
+    "data_source": "https://data.gov.uk/ 23/07/2022",
     "borough": "Barnet",
     "address": "Church End Library",
     "opening_hours": "Mo 09:30-20:00; Tu,Th-Sa 09:30-17:00; We 10:00-20:00; Su off",
@@ -30,7 +30,7 @@
     "open": true
   },
   {
-    "data_source": "Downloaded from https://data.gov.uk/",
+    "data_source": "https://data.gov.uk/ 23/07/2022",
     "borough": "Barnet",
     "address": "East Barnet Library",
     "opening_hours": "Mo,We,Fr,Sa 09:30-17:00; Tu 09:30-20:00; Th 10:00-20:00; Su off",
@@ -40,7 +40,7 @@
     "open": true
   },
   {
-    "data_source": "Downloaded from https://data.gov.uk/",
+    "data_source": "https://data.gov.uk/ 23/07/2022",
     "borough": "Barnet",
     "address": "East Finchley Library",
     "opening_hours": "Mo,Th,Sa 09:30-17:00; We 09:30-20:00; Fr 10:00-17:00; Tu,Su off",
@@ -50,7 +50,7 @@
     "open": true
   },
   {
-    "data_source": "Downloaded from https://data.gov.uk/",
+    "data_source": "https://data.gov.uk/ 23/07/2022",
     "borough": "Barnet",
     "address": "Edgware Library",
     "opening_hours": "Mo,We,Fr,Sa 09:30-17:00; Tu 09:30-20:00; Th 10:00-20:00; Su 14:00-17:00",
@@ -60,7 +60,7 @@
     "open": true
   },
   {
-    "data_source": "Downloaded from https://data.gov.uk/",
+    "data_source": "https://data.gov.uk/ 23/07/2022",
     "borough": "Barnet",
     "address": "Hendon Library",
     "opening_hours": "Mo,We 09:30-20:00; Tu,Fr-Sa 09:30-17:00; Th 10:00-20:00; Su 14:00-17:00",
@@ -70,7 +70,7 @@
     "open": true
   },
   {
-    "data_source": "Downloaded from https://data.gov.uk/",
+    "data_source": "https://data.gov.uk/ 23/07/2022",
     "borough": "Barnet",
     "address": "Mill Hill Library",
     "opening_hours": " Tu 09:30-20:00;  Mo,Fr-Sa 09:30-17:00; Th 10:00-20:00; We,Su off",
@@ -80,7 +80,7 @@
     "open": true
   },
   {
-    "data_source": "Downloaded from https://data.gov.uk/",
+    "data_source": "https://data.gov.uk/ 23/07/2022",
     "borough": "Barnet",
     "address": "North Finchley Library",
     "opening_hours": " Tu,Fr 09:30-20:00;  Mo,Sa 09:30-17:00; Th 10:00-17:00; We,Su off",
@@ -90,13 +90,23 @@
     "open": true
   },
   {
-    "data_source": "Downloaded from https://data.gov.uk/",
+    "data_source": "https://data.gov.uk/ 23/07/2022",
     "borough": "Barnet",
     "address": "Osidge Library",
     "opening_hours": " Tu 09:30-20:00;  Mo,Fr 09:30-17:00; We 10:00-17:00; Th,Su off; Sa 09:30-13:00, 14:00-15:00",
     "name": "Library toilets",
-    "latitude": 51.6308087,
-    "longitude": -0.1485207,
+    "latitude": 51.630347400000005,
+    "longitude": -0.14908155686882668,
+    "open": true
+  },
+  {
+    "data_source": "https://data.gov.uk/ 23/07/2022",
+    "borough": "Barnet",
+    "address": "South Friern Library",
+    "opening_hours": "Mo,Tu,Th,Sa 09:30-13:00, 14:00-17:00; We 10:00-13:00, 14:00-20:00; Fr,Su off",
+    "name": "Library toilets",
+    "latitude": 51.600496500000006,
+    "longitude": -0.14801501947394524,
     "open": true
   }
 ]

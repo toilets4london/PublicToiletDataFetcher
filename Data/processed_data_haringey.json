@@ -1,66 +1,66 @@
 [
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Albert Rec. Ground",
     "opening_hours": "",
     "name": "Albert Road",
-    "latitude": 51.6012818605644,
-    "longitude": -0.13522957523927534,
+    "latitude": 51.60128186056438,
+    "longitude": -0.13522957523927573,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Muswell Hill Public Toilets",
     "opening_hours": "9am-5pm 7 days a week",
     "name": "Summerland Gardens (Veolia)",
-    "latitude": 51.5897361097602,
+    "latitude": 51.58973610976019,
     "longitude": -0.14263173224341272,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Priory Park",
     "opening_hours": "9am-5pm 7 days a week",
     "name": "Priory Park Caf\u00e9",
-    "latitude": 51.5849184598863,
-    "longitude": -0.12468373664820258,
+    "latitude": 51.58491845988629,
+    "longitude": -0.12468373664820298,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Opposite Chestnuts Recreation Ground",
     "opening_hours": "9am-6pm 7 days a week",
     "name": "St Ann's Road (Veolia)",
-    "latitude": 51.581970706321826,
-    "longitude": -0.08856170503434577,
+    "latitude": 51.58197070632182,
+    "longitude": -0.08856170503434575,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "In the middle of the park. One toilet inside and toilets also next to the caf\u00e9",
     "opening_hours": "9am-6pm 7 days a week",
     "name": "Finsbury Park Cafe",
-    "latitude": 51.56562220784132,
-    "longitude": -0.1046284635995067,
+    "latitude": 51.5656222078413,
+    "longitude": -0.1046284635995071,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "1 toilet inside the caf\u00e9 and other toilets adjacent to the cafe. There is a proposal to demolish both and build a new structure with better toilets. On a rent discount scheme to allow public to use their toilet",
     "opening_hours": "7am-4pm 7 days a week",
     "name": "Chestnut Caf\u00e9",
-    "latitude": 51.5819336538908,
-    "longitude": -0.09015106625126508,
+    "latitude": 51.58193365389078,
+    "longitude": -0.09015106625126551,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Toilets maintained by the Co-or Hub",
     "opening_hours": "11am-5pm 7 days a week",
@@ -70,7 +70,7 @@
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Downhills Park",
     "opening_hours": "11am-5pm 7 days a week",
@@ -80,37 +80,37 @@
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Both caf\u00e9 and museum have separate facilities",
     "opening_hours": "10am-7pm 7 days a week",
     "name": "Bruce Castle Park Cafe & Museum",
     "latitude": 51.59910836892737,
-    "longitude": -0.07523671323439891,
+    "longitude": -0.0752367132343993,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Toilets inside the cafe. On a rent discount scheme to allow public to use their toilets",
     "opening_hours": "9am-6pm 7 days a week",
     "name": "Markfield Park Caf\u00e9",
-    "latitude": 51.581766393790694,
-    "longitude": -0.06130485211850318,
+    "latitude": 51.58176639379069,
+    "longitude": -0.06130485211850356,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Toilets available to the public",
     "opening_hours": "10am-4pm Fri-Sun",
     "name": "Down Lane Park Cafe",
-    "latitude": 51.592057805966384,
+    "latitude": 51.59205780596638,
     "longitude": -0.060462448170889374,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Priory Park",
     "opening_hours": "10am-4pm Fri-Sun",
@@ -120,17 +120,17 @@
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Down Lane Rec. Ground",
     "opening_hours": "10am-4pm Fri-Sun",
     "name": "Tottenham Caf\u00e9 Connect",
     "latitude": 51.59092095202158,
-    "longitude": -0.06295067328252675,
+    "longitude": -0.06295067328252676,
     "wheelchair": false
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "There is a proposal to build toilets and refurbish the kiosk",
     "opening_hours": "",
@@ -140,7 +140,7 @@
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "within Caf\u00e9",
     "opening_hours": "",
@@ -150,57 +150,57 @@
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Caf\u00e9 is within Alexandra Palace grounds",
     "opening_hours": "10am-6pm 7 days a week",
     "name": "Lake side Cafe",
-    "latitude": 51.59672826700134,
+    "latitude": 51.59672826700133,
     "longitude": -0.13161876470901887,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "J/W Albert Road",
     "opening_hours": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
     "name": "Alexandra Park Library",
-    "latitude": 51.598834610531945,
-    "longitude": -0.13684594694679797,
+    "latitude": 51.59883461053194,
+    "longitude": -0.13684594694679794,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Within Library",
     "opening_hours": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
     "name": "Highgate Library",
-    "latitude": 51.577139753608684,
-    "longitude": -0.14375790224881593,
+    "latitude": 51.57713975360866,
+    "longitude": -0.1437579022488163,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Within Library",
     "opening_hours": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
     "name": "Hornsey Library",
-    "latitude": 51.57836894911225,
+    "latitude": 51.57836894911224,
     "longitude": -0.12159534750078195,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Within Library",
     "opening_hours": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
     "name": "Marcus Garvey Central Library",
     "latitude": 51.58814018237903,
-    "longitude": -0.07594576156003005,
+    "longitude": -0.07594576156003044,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "J/W Avenue Mews",
     "opening_hours": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
@@ -210,7 +210,7 @@
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Within Library",
     "opening_hours": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
@@ -220,47 +220,47 @@
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Within Library",
     "opening_hours": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
     "name": "Stroud Green & Harringay Library",
-    "latitude": 51.57763054249165,
-    "longitude": -0.10651026479194163,
+    "latitude": 51.57763054249163,
+    "longitude": -0.106510264791942,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Within Library",
     "opening_hours": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
     "name": "Wood Green Library",
-    "latitude": 51.59552265028092,
-    "longitude": -0.10967894363428517,
+    "latitude": 51.595522650280905,
+    "longitude": -0.10967894363428558,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Within Library",
     "opening_hours": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
     "name": "Coombes Croft Library",
     "latitude": 51.60353541857192,
-    "longitude": -0.0682912571114289,
+    "longitude": -0.0682912571114293,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Crouch End Public Toilets",
     "opening_hours": "9am-5pm 7 days a week",
     "name": "Hatherley Gardens (Veolia)",
     "latitude": 51.578057862497424,
-    "longitude": -0.12246935913995959,
+    "longitude": -0.12246935913995996,
     "wheelchair": true
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "J/W Park Lane",
     "opening_hours": "",
@@ -270,7 +270,7 @@
     "wheelchair": false
   },
   {
-    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 20/03/2022",
+    "data_source": "www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/map-public-toilets-haringey 23/07/2022",
     "borough": "Haringey",
     "address": "Within Vue Cinema",
     "opening_hours": "",

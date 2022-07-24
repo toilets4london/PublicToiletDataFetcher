@@ -7,6 +7,12 @@ Most data is obtained through one of 3 methods
 - B) Spreadsheets / csv file datasets sent in by local authorities and community groups
 - C) Data extracted from the crowd-sourced OpenStreetMap dataset (see Data/query.xml for the query used)
 
+## Address geocoding
+
+- Some data sources come with lat / lng coords but some don't
+- For those that don't I geocode the addresses
+- If you add a google geocoding API key to `api_key.txt` the google geocoding API will be used for geocoding, otherwise it will default to Nominatim geocoding
+
 ## What do the web scraping scripts do? How are they used?
 
 The aim is to extract as much detailed public toilet data from a webpage as possible, and process it into a form that is consumable by the Toilets4London REST Api.

@@ -6,8 +6,8 @@
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summer",
     "name": "Beddington Park toilets",
     "baby_change": true,
-    "latitude": 51.4171257,
-    "longitude": -0.0812086,
+    "latitude": 51.4120809,
+    "longitude": -0.1784713,
     "wheelchair": true
   },
   {
@@ -28,8 +28,8 @@
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summer",
     "name": "Grove Park toilets",
     "baby_change": true,
-    "latitude": 51.4033797,
-    "longitude": -0.2567874,
+    "latitude": 51.4037514,
+    "longitude": -0.256843,
     "wheelchair": true
   },
   {
@@ -39,8 +39,8 @@
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summer",
     "name": "Manor Park toilets",
     "baby_change": true,
-    "latitude": 51.3648732,
-    "longitude": -0.1922782,
+    "latitude": 51.3663912,
+    "longitude": -0.1929071,
     "wheelchair": true
   },
   {
@@ -50,8 +50,8 @@
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summers",
     "name": "Mellows Park toilets",
     "baby_change": true,
-    "latitude": 51.3576165,
-    "longitude": -0.1482541,
+    "latitude": 51.3653573,
+    "longitude": -0.1175583,
     "wheelchair": true
   },
   {
@@ -61,8 +61,8 @@
     "opening_hours": "Cafe opening hours - vary throughout the year but usually from 9am to approx 4.30pm longer hours in summers",
     "name": "Oaks Park toilets",
     "baby_change": false,
-    "latitude": 51.3315798,
-    "longitude": -0.1833059,
+    "latitude": 51.3347373,
+    "longitude": -0.1693641,
     "wheelchair": true
   },
   {
@@ -72,8 +72,8 @@
     "opening_hours": "Opening hours - vary throughout the year but usually from 8am to dusk",
     "name": "Rosehill Park toilets",
     "baby_change": false,
-    "latitude": 51.3799579,
-    "longitude": -0.1918935,
+    "latitude": 51.378998,
+    "longitude": -0.1920409,
     "wheelchair": true
   },
   {
@@ -94,8 +94,8 @@
     "opening_hours": "Opening hours - vary throughout the year but usually from 8am to dusk",
     "name": "Bandon Hill Cemetery toilets",
     "baby_change": false,
-    "latitude": 51.3633774,
-    "longitude": -0.1318941,
+    "latitude": 51.4285746,
+    "longitude": -0.1877087,
     "wheelchair": true
   },
   {
@@ -116,8 +116,8 @@
     "opening_hours": "opening hours on website https://www.everyoneactive.com/centre/the-phoenix-centre/",
     "name": "Phoenix Centre toilets",
     "baby_change": true,
-    "latitude": 51.3528029,
-    "longitude": -0.132268,
+    "latitude": 51.360047,
+    "longitude": -0.1299907,
     "wheelchair": true
   },
   {
@@ -127,8 +127,8 @@
     "opening_hours": "opening hours on website https://www.everyoneactive.com/centre/cheam-leisure-centre/",
     "name": "Cheam LC toilets",
     "baby_change": true,
-    "latitude": 51.3980075,
-    "longitude": -0.2554278,
+    "latitude": 51.3960282,
+    "longitude": -0.2548588,
     "wheelchair": true
   },
   {
@@ -138,8 +138,8 @@
     "opening_hours": "opening hours on website https://www.everyoneactive.com/centre/david-weir-leisure-centre/",
     "name": "David Weir Leisure Centre toilets",
     "baby_change": true,
-    "latitude": 51.3852055,
-    "longitude": -0.1779199,
+    "latitude": 51.3897895,
+    "longitude": -0.1886963,
     "wheelchair": true
   },
   {
@@ -204,8 +204,8 @@
     "opening_hours": "Mon & Tues: 9am - 7pm (unstaffed 9am - 9:30am)  Wed, Fri & Sat: 9am - 5pm (unstaffed 9am - 9:30am)  Thurs: 9am - 6pm (unstaffed 9am - 9:30am)  Sun: 1pm - 4:30pm",
     "name": "Phoneix Library toilets",
     "baby_change": false,
-    "latitude": 51.3528029,
-    "longitude": -0.132268,
+    "latitude": 51.3527707,
+    "longitude": -0.1319541,
     "wheelchair": false
   },
   {

@@ -1,7 +1,7 @@
 [
   {
-    "latitude": 51.54641462694694,
-    "longitude": 0.08561724568305439,
+    "latitude": 51.546414626946934,
+    "longitude": 0.08561724568305398,
     "address": "Barking Park, Longbridge Road, Barking (visitors centre) IG11 8TA",
     "wheelchair": true,
     "baby_change": true,
@@ -22,8 +22,8 @@
     "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
   },
   {
-    "latitude": 51.552775815911964,
-    "longitude": 0.17603607453426612,
+    "latitude": 51.55277581591195,
+    "longitude": 0.1760360745342661,
     "address": "Eastbrookend Country Park inside Millennium Centre RM7 0SS",
     "wheelchair": true,
     "baby_change": true,
@@ -33,7 +33,7 @@
     "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
   },
   {
-    "latitude": 51.53261412626692,
+    "latitude": 51.53261412626691,
     "longitude": 0.09047984291296794,
     "address": "Greatfields Park, Greatfields Road, Barking  IG11 7UF",
     "wheelchair": true,
@@ -55,7 +55,7 @@
     "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
   },
   {
-    "latitude": 51.54007198751451,
+    "latitude": 51.5400719875145,
     "longitude": 0.1475683579210288,
     "address": "Junction of Hedgemans Road and Heathway, Dagenham RM9 6HA",
     "wheelchair": true,
@@ -66,8 +66,8 @@
     "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
   },
   {
-    "latitude": 51.53832528785791,
-    "longitude": 0.07930617637468355,
+    "latitude": 51.53832528785789,
+    "longitude": 0.07930617637468317,
     "address": "Junction of Ripple Road and London Road, Barking IG11 8HG",
     "wheelchair": false,
     "baby_change": false,
@@ -88,7 +88,7 @@
     "data_source": "2014 Freedom of Info request (very old I know - please report toilet if inaccurate)"
   },
   {
-    "latitude": 51.586818166827456,
+    "latitude": 51.58681816682745,
     "longitude": 0.14108185704868004,
     "address": "Marks Gate Cemetery, Whalebone Lane North, Marks Gate RM6 5NJ",
     "wheelchair": true,
@@ -100,7 +100,7 @@
   },
   {
     "latitude": 51.55501807299927,
-    "longitude": 0.18168264234419362,
+    "longitude": 0.1816826423441932,
     "address": "Eastbrookend Cemetry, Dagenham Road, Dagenham RM7 OSS",
     "wheelchair": true,
     "baby_change": false,

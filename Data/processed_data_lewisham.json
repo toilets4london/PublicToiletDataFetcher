@@ -17,8 +17,8 @@
     "opening_hours": "Mon-Sat 9am-5pm",
     "name": "Age Exchange",
     "baby_change": true,
-    "latitude": 51.46552955,
-    "longitude": 0.00948056451856254,
+    "latitude": 51.465533199999996,
+    "longitude": 0.009491222217329716,
     "wheelchair": true
   },
   {
@@ -35,23 +35,12 @@
   {
     "data_source": "Lewisham Community Toilets dataset (updated for Covid)",
     "borough": "Lewisham",
-    "address": "Adelaide Avenue, Lewisham, London, SE14 1LE",
-    "opening_hours": "9am-4pm every day",
-    "name": "Hilly Fields Park Toilet",
-    "baby_change": true,
-    "latitude": 51.4590896,
-    "longitude": -0.0295562,
-    "wheelchair": true
-  },
-  {
-    "data_source": "Lewisham Community Toilets dataset (updated for Covid)",
-    "borough": "Lewisham",
     "address": "Caf\u00e9 Crofton Park Lewisham, London ",
     "opening_hours": "",
     "name": "Caf\u00e9 Crofton Park",
     "baby_change": true,
-    "latitude": 51.448542,
-    "longitude": -0.0407014,
+    "latitude": 51.4554356,
+    "longitude": -0.0364707,
     "wheelchair": true
   },
   {
@@ -116,8 +105,8 @@
     "opening_hours": "Mon and Fri 11am to 4pm",
     "name": "Deptford Park Toilet",
     "baby_change": false,
-    "latitude": 51.4877944,
-    "longitude": -0.0378851,
+    "latitude": 51.4877575,
+    "longitude": -0.0379857,
     "wheelchair": true
   },
   {
@@ -248,8 +237,8 @@
     "opening_hours": "Mon & Sat 9am to 4pm",
     "name": "Mountsfield Park Toilet",
     "baby_change": false,
-    "latitude": 51.4469348,
-    "longitude": -0.0062108,
+    "latitude": 51.4476384,
+    "longitude": -0.0064829,
     "wheelchair": true
   },
   {
@@ -380,8 +369,8 @@
     "opening_hours": "Mon & Sat 9am to 4pm",
     "name": "Sydenham Wells Park Toilet",
     "baby_change": false,
-    "latitude": 51.4756981,
-    "longitude": -0.0368924,
+    "latitude": 51.475376,
+    "longitude": -0.0384402,
     "wheelchair": true
   },
   {

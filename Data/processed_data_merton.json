@@ -6,7 +6,7 @@
     "name": "Caffe D'Oro",
     "latitude": 51.402716,
     "longitude": -0.192341,
-    "opening_hours": "Monday to Saturday: 7.00am \u00e2\u20ac\u201c 4.30pm"
+    "opening_hours": "Monday to Saturday: 7.00am \u2013 4.30pm"
   },
   {
     "data_source": "https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme",
@@ -20,8 +20,8 @@
   {
     "data_source": "https://www.merton.gov.uk/streets-parking-transport/community-toilet-scheme",
     "borough": "Merton",
-    "address": "Haydons Caf\u00c3\u00a9, Merton",
-    "name": "Haydons Caf\u00c3\u00a9",
+    "address": "Haydons Caf\u00e9, Merton",
+    "name": "Haydons Caf\u00e9",
     "latitude": 51.427052,
     "longitude": -0.190577,
     "opening_hours": "Mon - Sat : 06:30 16:00Sunday: 09:00 - 16:00341 Haydon's Road, Colliers Wood, SW19 8LA"

@@ -56,15 +56,38 @@ def get_opening_hours(stoppoint):
     opening = ""
     try:
         properties = stoppoint['additionalProperties']
+        monfrifrom = ""
+        monfrito = ""
+        satfrom = ""
+        satto = ""
+        sunfrom = ""
+        sunto = ""
         for p in properties:
             try:
                 if p['category'] == 'Opening Time':
-                    opening += p['key']
-                    opening += " : "
-                    opening += p['value']
-                    opening += " , "
+                    key = p["key"]
+                    key = key.strip()
+                    value = p["value"]
+                    if key == "MonFriTo":
+                        monfrito = value
+                    elif key == "MonFriFrom":
+                        monfrifrom = value
+                    elif key == "SatTo":
+                        satto = value
+                    elif key == "SatFrom":
+                        satfrom = value
+                    elif key == "SunTo":
+                        sunto = value
+                    elif key == "SunFrom":
+                        sunfrom = value
             except KeyError:
                 pass
+        if monfrifrom != "":
+            opening = f"Mon-Fri {monfrifrom}-{monfrito}"
+        if satfrom != "":
+            opening += f", Sat {satfrom}-{satto}"
+        if sunfrom != "":
+            opening += f", Sun {sunfrom}-{sunto}"
     finally:
         return opening
 
@@ -80,6 +103,8 @@ def get_tfl_toilets():
             borough = get_borough(full_addr)
             if borough != "Other":
                 addr = full_addr.replace(", London, Greater London, England", "").replace(", United Kingdom", "")
+                addr = addr.split(",")
+                addr = ",".join([addr[0], addr[1], addr[-1]])
                 t = {
                     'name': point[NAME],
                     'latitude': point[LATITUDE],
