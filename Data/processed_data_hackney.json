@@ -1,0 +1,58 @@
+[
+  {
+    "address": "Stamford Hill (opposite Sainsbury\u2019s) N16",
+    "opening_hours": "7am-7pm",
+    "borough": "Hackney",
+    "latitude": 51.5695606,
+    "longitude": -0.07287,
+    "data_source": "hackney.gov.uk"
+  },
+  {
+    "address": "Ridley Road E8",
+    "opening_hours": "7am-7pm",
+    "borough": "Hackney",
+    "latitude": 51.5480621,
+    "longitude": -0.0715699,
+    "data_source": "hackney.gov.uk"
+  },
+  {
+    "address": "Mare Street (Narrow Way) E8",
+    "opening_hours": "7am-7pm",
+    "borough": "Hackney",
+    "latitude": 51.54957599999999,
+    "longitude": -0.055406,
+    "data_source": "hackney.gov.uk"
+  },
+  {
+    "address": "Hoxton Market (Stanway Street) N16",
+    "opening_hours": "7am-7pm",
+    "borough": "Hackney",
+    "latitude": 51.5325833,
+    "longitude": -0.0800968,
+    "data_source": "hackney.gov.uk"
+  },
+  {
+    "address": "Hackney Town Hall E8",
+    "opening_hours": "7am-7pm",
+    "borough": "Hackney",
+    "latitude": 51.54507210000001,
+    "longitude": -0.0563459,
+    "data_source": "hackney.gov.uk"
+  },
+  {
+    "address": "Dalston Passage N8",
+    "opening_hours": "24hr",
+    "borough": "Hackney",
+    "latitude": 51.5452153,
+    "longitude": -0.0749183,
+    "data_source": "hackney.gov.uk"
+  },
+  {
+    "address": "Kingsland Waste E8",
+    "opening_hours": "24hr",
+    "borough": "Hackney",
+    "latitude": 51.5481846,
+    "longitude": -0.05471409999999999,
+    "data_source": "hackney.gov.uk"
+  }
+]

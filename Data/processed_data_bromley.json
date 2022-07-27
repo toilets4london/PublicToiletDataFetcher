@@ -4,10 +4,10 @@
     "address": "Brittenden Parade, High Street Green Street Green, Orpington, BR6 6DD",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday  Saturday, 8.30am  3pm",
+    "opening_hours": "Monday \u2013 Saturday, 8.30am \u2013 3pm",
     "latitude": 51.3555944,
     "longitude": 0.08986029999999999,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -15,10 +15,10 @@
     "address": "Bell Parade, Glebe Way, West Wickham, BR4 0RH",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday  Saturday, 8.30am  5.30pm",
+    "opening_hours": "Monday \u2013 Saturday, 8.30am \u2013 5.30pm",
     "latitude": 51.3755917,
     "longitude": -0.0142497,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -26,10 +26,10 @@
     "address": "2 Station Square, Petts Wood, Orpington, BR5 1NA",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday  Saturday, 7am-4pm Sundays, 9am  4pm",
+    "opening_hours": "Monday \u2013 Saturday, 7am-4pm Sundays, 9am \u2013 4pm",
     "latitude": 51.390124,
     "longitude": 0.07463199999999999,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -37,10 +37,10 @@
     "address": "164 High Street, Beckenham, BR3 1EW",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Saturday, 7.30am -6pm Sunday, 8am  6pm",
+    "opening_hours": "Monday \u2013 Saturday, 7.30am -6pm Sunday, 8am \u2013 6pm",
     "latitude": 51.4075818,
     "longitude": -0.0276524,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -48,10 +48,10 @@
     "address": "12 High Street, Chislehurst, BR7 5AN",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday -Friday, 6.30am  5.30pm Saturday, 8am-6pm Sunday, 8.30am-5.30pm",
+    "opening_hours": "Monday -Friday, 6.30am \u2013 5.30pm Saturday, 8am-6pm Sunday, 8.30am-5.30pm",
     "latitude": 51.4179858,
     "longitude": 0.0679893,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -59,10 +59,10 @@
     "address": "55 High Street, West Wickham, BR4 0NX",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday -Friday, 7am  6pm Saturday, 7.30am  6pm Sunday, 7.30am  5.30pm",
+    "opening_hours": "Monday -Friday, 7am \u2013 6pm Saturday, 7.30am \u2013 6pm Sunday, 7.30am \u2013 5.30pm",
     "latitude": 51.3760637,
     "longitude": -0.0174533,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -70,21 +70,21 @@
     "address": "41 Croydon Road, West Wickham, BR4 9HZ",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Saturday, 8am-4pm",
+    "opening_hours": "Monday \u2013 Saturday, 8am-4pm",
     "latitude": 51.3699685,
     "longitude": 0.0011021,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
     "name": "Cotmandene Community Centre",
-    "address": "64 Cotmandene Crescent, St Pauls Cray, BR5 2RG.",
+    "address": "64 Cotmandene Crescent, St Paul\u2019s Cray, BR5 2RG.",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday -Saturday, 7am  4pm Sunday, 8.30am-2.30pm",
+    "opening_hours": "Monday -Saturday, 7am \u2013 4pm Sunday, 8.30am-2.30pm",
     "latitude": 51.4039914,
     "longitude": 0.1048783,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -92,10 +92,10 @@
     "address": "18 Crescent Way, Orpington, BR6 9LS",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday  Saturday, 8am-5pm",
+    "opening_hours": "Monday \u2013 Saturday, 8am-5pm",
     "latitude": 51.36037890000001,
     "longitude": 0.08770670000000001,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -103,10 +103,10 @@
     "address": "263 High Street, Orpington, BR5 4AR",
     "wheelchair": true,
     "baby_change": false,
-    "opening_hours": "Wednesday  Saturday, 10am-4pm Sunday, 11am  4pm",
+    "opening_hours": "Wednesday \u2013 Saturday, 10am-4pm Sunday, 11am \u2013 4pm",
     "latitude": 51.38648300000001,
     "longitude": 0.113745,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -114,10 +114,10 @@
     "address": "52-54 High Street, Beckenham, BR3 1AY",
     "wheelchair": false,
     "baby_change": true,
-    "opening_hours": "Monday  Friday, 7.30am-5pm Saturday, 7.30am  6pm Sunday, 8am  5pm",
+    "opening_hours": "Monday \u2013 Friday, 7.30am-5pm Saturday, 7.30am \u2013 6pm Sunday, 8am \u2013 5pm",
     "latitude": 51.4090332,
     "longitude": -0.0252791,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -125,10 +125,10 @@
     "address": "34 Hayes Street, BR2 7LD",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Sunday, 12 midday  11pm",
+    "opening_hours": "Monday \u2013 Sunday, 12 midday \u2013 11pm",
     "latitude": 51.3790776,
     "longitude": 0.0178746,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -136,10 +136,10 @@
     "address": "Oakley Road, Keston, BR2 8HD",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday  Saturday, 9am  6pm Sunday, 10.30am  4.30pm",
+    "opening_hours": "Monday \u2013 Saturday, 9am \u2013 6pm Sunday, 10.30am \u2013 4.30pm",
     "latitude": 51.3684768,
     "longitude": 0.03848559999999999,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -147,10 +147,10 @@
     "address": "123 High Street, Bromley, BR1 1JL",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Wednesday, 8am  6.30pm Thursday, 8am  9pm Friday &amp; Saturday, 8am-7pm Sunday, 11am-5pm",
+    "opening_hours": "Monday \u2013 Wednesday, 8am \u2013 6.30pm Thursday, 8am \u2013 9pm Friday &amp; Saturday, 8am-7pm Sunday, 11am-5pm",
     "latitude": 51.404017,
     "longitude": 0.0157185,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -158,10 +158,10 @@
     "address": "3 High Street, Tickenham Road, West Wickham BR4 0NF",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Sunday, 8am-8pm Sunday, 10.30am  4.30pm",
+    "opening_hours": "Monday \u2013 Sunday, 8am-8pm Sunday, 10.30am \u2013 4.30pm",
     "latitude": 51.3756717,
     "longitude": -0.0148941,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -169,10 +169,10 @@
     "address": "130 Hight Street, Penge SE20 7EZ",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Sunday, 24hours",
+    "opening_hours": "Monday \u2013 Sunday, 24hours",
     "latitude": 51.4148913,
     "longitude": -0.05284759999999999,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -180,10 +180,10 @@
     "address": "59 Station Approach, Hayes BR2 7EA",
     "wheelchair": true,
     "baby_change": false,
-    "opening_hours": "Monday  Saturday, 11.30am  11.00pm Sunday, 11am  11pm",
-    "latitude": 51.37589939999999,
-    "longitude": 0.011354,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "opening_hours": "Monday \u2013 Saturday, 11.30am \u2013 11.00pm Sunday, 11am \u2013 11pm",
+    "latitude": 51.3759217,
+    "longitude": 0.0112899,
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -191,10 +191,10 @@
     "address": "The High Street, Beckenham BR3 1DY",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday, Wednesday, Thursay, Friday, 1.30pm  9.30pm Saturday &amp; Sunday, 11am  9.30pm",
+    "opening_hours": "Monday, Wednesday, Thursay, Friday, 1.30pm \u2013 9.30pm Saturday &amp; Sunday, 11am \u2013 9.30pm",
     "latitude": 51.40713119999999,
     "longitude": -0.0312093,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -202,10 +202,10 @@
     "address": "80 Cotmandene Crescent, Orpington, BR5 2RG",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday  Saturday, 7am  4pm Sunday, 8.30am  2.3pm",
+    "opening_hours": "Monday \u2013 Saturday, 7am \u2013 4pm Sunday, 8.30am \u2013 2.3pm",
     "latitude": 51.4036498,
     "longitude": 0.1054681,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -213,76 +213,76 @@
     "address": "12 Carlton Parade Orpington BR6 0JB",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Friday, 6.30am  4.00pm Saturday, 7am  4pm Sunday, 8am  4pm",
+    "opening_hours": "Monday \u2013 Friday, 6.30am \u2013 4.00pm Saturday, 7am \u2013 4pm Sunday, 8am \u2013 4pm",
     "latitude": 51.3825836,
     "longitude": 0.1073,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
-    "name": "Sainburys",
+    "name": "Sainbury\u2019s",
     "address": "181 High Street, Beckenham, BR3 1AH",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Saturday, 7am-9pm Sunday, 10am  4pm",
-    "latitude": 51.4059051,
-    "longitude": -0.0305734,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "opening_hours": "Monday \u2013 Saturday, 7am-9pm Sunday, 10am \u2013 4pm",
+    "latitude": 51.4059161,
+    "longitude": -0.03069179999999999,
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
-    "name": "Sainburys",
+    "name": "Sainbury\u2019s",
     "address": "Walters Yard, Bromley, BR1 1TP",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Saturday, 7am-10pm Sunday, 11am  5pm",
-    "latitude": 51.4066316,
-    "longitude": 0.0144762,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "opening_hours": "Monday \u2013 Saturday, 7am-10pm Sunday, 11am \u2013 5pm",
+    "latitude": 51.4063105,
+    "longitude": 0.014178,
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
-    "name": "Sainburys",
+    "name": "Sainbury\u2019s",
     "address": "73 High Street Chislehurst BR7 5AG",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Saturday, 7am-10pm Sunday, 10am  4pm",
+    "opening_hours": "Monday \u2013 Saturday, 7am-10pm Sunday, 10am \u2013 4pm",
     "latitude": 51.4187873,
     "longitude": 0.0665128,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
-    "name": "Sainburys",
+    "name": "Sainbury\u2019s",
     "address": "Pallant Way, Locksbottom, BR6 8NZ",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Friday, 7am-12 Midnight Saturday, 7am-10pm Sunday, 10am-4pm",
+    "opening_hours": "Monday \u2013 Friday, 7am-12 Midnight Saturday, 7am-10pm Sunday, 10am-4pm",
     "latitude": 51.3660657,
     "longitude": 0.05548579999999999,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
-    "name": "Sainburys",
+    "name": "Sainbury\u2019s",
     "address": "158-162 High Street, Penge, SE20 7QS",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Friday, 7am-10pm Saturday, 7am-9pm Sunday, 11am-5pm",
-    "latitude": 51.41264880000001,
-    "longitude": -0.0515878,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "opening_hours": "Monday \u2013 Friday, 7am-10pm Saturday, 7am-9pm Sunday, 11am-5pm",
+    "latitude": 51.4126573,
+    "longitude": -0.05161549999999999,
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
-    "name": "Sainburys",
+    "name": "Sainbury\u2019s",
     "address": "76 Station Road, West Wickham BR4 0PU",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Saturday, 8am-9pm, Sunday 11am-5pm",
-    "latitude": 51.376873,
-    "longitude": -0.014903,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "opening_hours": "Monday \u2013 Saturday, 8am-9pm, Sunday 11am-5pm",
+    "latitude": 51.3767787,
+    "longitude": -0.0150144,
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -290,10 +290,10 @@
     "address": "109-111 Queensway, Petts Wood BR5 1DG",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Sunday, 9am-11.30pm",
+    "opening_hours": "Monday \u2013 Sunday, 9am-11.30pm",
     "latitude": 51.3893204,
     "longitude": 0.0720799,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -301,10 +301,10 @@
     "address": "11-73 High Street, West Wickham, BR4 0LS",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday- Friday, 6.30am  7.30pm Saturday, 7am - 7.30pm Sunday, 7.30am  6.30pm",
+    "opening_hours": "Monday- Friday, 6.30am \u2013 7.30pm Saturday, 7am - 7.30pm Sunday, 7.30am \u2013 6.30pm",
     "latitude": 51.3763127,
     "longitude": -0.0183084,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -312,10 +312,10 @@
     "address": "260 -262 High Street, Bromley BR1 1PG",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday  Saturday, 11.30am  11pm Sunday, 11am  11pm",
+    "opening_hours": "Monday \u2013 Saturday, 11.30am \u2013 11pm Sunday, 11am \u2013 11pm",
     "latitude": 51.407131,
     "longitude": 0.0116197,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -323,10 +323,10 @@
     "address": "Croydon Road Elmers End BR3 4AA",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday to Saturday 6.00am  12 Midnight Sunday, 10.00am  4.00pm",
+    "opening_hours": "Monday to Saturday 6.00am \u2013 12 Midnight Sunday, 10.00am \u2013 4.00pm",
     "latitude": 51.4067265,
     "longitude": -0.0327443,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -334,10 +334,10 @@
     "address": "High Street, Bromley BR1 1DN",
     "wheelchair": false,
     "baby_change": true,
-    "opening_hours": "Monday, Tuesday, Wednesday, Friday, Saturday, 9am  7pm Thursday, 9am  9pm Sunday, 11am - 5pm",
+    "opening_hours": "Monday, Tuesday, Wednesday, Friday, Saturday, 9am \u2013 7pm Thursday, 9am \u2013 9pm Sunday, 11am - 5pm",
     "latitude": 51.40373,
     "longitude": 0.016433,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -345,10 +345,10 @@
     "address": "Commonside, Keston, BR2 6BP",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday to Saturday, 11.00am  11.00pm Sunday, 12.00pm  10.30pm",
+    "opening_hours": "Monday to Saturday, 11.00am \u2013 11.00pm Sunday, 12.00pm \u2013 10.30pm",
     "latitude": 51.3626404,
     "longitude": 0.0279573,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -356,10 +356,10 @@
     "address": "Leaves Green Road, Keston BR2 6DU",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday to Saturday 11.00am  11.00pm Sunday 11.00am  10.00pm",
+    "opening_hours": "Monday to Saturday 11.00am \u2013 11.00pm Sunday 11.00am \u2013 10.00pm",
     "latitude": 51.3352508,
     "longitude": 0.029887,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -370,7 +370,7 @@
     "opening_hours": "Monday to Saturday 9am-5.30pm Sunday, 10am-4pm",
     "latitude": 51.3767983,
     "longitude": 0.1018748,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -378,10 +378,10 @@
     "address": "High Street, Green Street Green, BR6 6BJ",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday to Saturday 12.00 Midday  11.00pm Sunday 12.00 Midday  10.30pm",
+    "opening_hours": "Monday to Saturday 12.00 Midday \u2013 11.00pm Sunday 12.00 Midday \u2013 10.30pm",
     "latitude": 51.3509865,
     "longitude": 0.0888326,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -389,10 +389,10 @@
     "address": "50 High Street, Farnborough BR6 7BA",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday to Saturday, 7.00am  10.00pm Sunday, 11.00am  5.00pm",
+    "opening_hours": "Monday to Saturday, 7.00am \u2013 10.00pm Sunday, 11.00am \u2013 5.00pm",
     "latitude": 51.3592872,
     "longitude": 0.06755549999999999,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -400,10 +400,10 @@
     "address": "56 Hayes Street Hayes BR2 7LD",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday to Sunday, 6.30am  3.30pm",
+    "opening_hours": "Monday to Sunday, 6.30am \u2013 3.30pm",
     "latitude": 51.3784906,
     "longitude": 0.0173186,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -411,10 +411,10 @@
     "address": "1 Southend Road, Beckenham BR3 1SD",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday to Friday, 8.30am  9pm Saturday, 8.30am  8pm Sunday, 11.00am  5pm",
+    "opening_hours": "Monday to Friday, 8.30am \u2013 9pm Saturday, 8.30am \u2013 8pm Sunday, 11.00am \u2013 5pm",
     "latitude": 51.4114892,
     "longitude": -0.0269029,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -422,10 +422,10 @@
     "address": "Main Road, Biggin Hill, TN16 3BB",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday to Friday, 8.30am  9pm Saturday, 8.30am  8pm Sunday, 10.00am  4pm",
+    "opening_hours": "Monday to Friday, 8.30am \u2013 9pm Saturday, 8.30am \u2013 8pm Sunday, 10.00am \u2013 4pm",
     "latitude": 51.3084663,
     "longitude": 0.038803,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -433,10 +433,10 @@
     "address": "4 Bromley Road, Beckenham BR3 5JE",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Sunday 9am  5pm",
+    "opening_hours": "Monday \u2013 Sunday 9am \u2013 5pm",
     "latitude": 51.40859769999999,
     "longitude": -0.0245028,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -444,10 +444,10 @@
     "address": "Church Road, Biggin Hill, TN16 3LB",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Saturday 10am-2pm",
+    "opening_hours": "Monday \u2013 Saturday 10am-2pm",
     "latitude": 51.3121833,
     "longitude": 0.0345898,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -455,10 +455,10 @@
     "address": "Church Road, Biggin Hill TN16 3LB",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Friday 7.00am  9.30pm Saturday &amp; Sunday 8.00am  7.30pm",
+    "opening_hours": "Monday \u2013 Friday 7.00am \u2013 9.30pm Saturday &amp; Sunday 8.00am \u2013 7.30pm",
     "latitude": 51.3121036,
     "longitude": 0.0344821,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -466,10 +466,10 @@
     "address": "Stockwell Close Bromley BR1 3UH",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Friday 8.30am-5.30pm",
+    "opening_hours": "Monday \u2013 Friday 8.30am-5.30pm",
     "latitude": 51.4040913,
     "longitude": 0.0200754,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -480,7 +480,7 @@
     "opening_hours": "Monday -Sunday 7am-7pm",
     "latitude": 51.41984180000001,
     "longitude": 0.0891476,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -488,10 +488,10 @@
     "address": "York Rise, Orpington, BR6 8PR",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Friday 8am  4pm",
+    "opening_hours": "Monday \u2013 Friday 8am \u2013 4pm",
     "latitude": 51.3735151,
     "longitude": 0.087235,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -499,10 +499,10 @@
     "address": "Lovibonds Avenue, Orpington, BR6 8EW",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday  Friday 12pm-7pm Saturday &amp; Sunday 9am-6pm",
+    "opening_hours": "Monday \u2013 Friday 12pm-7pm Saturday &amp; Sunday 9am-6pm",
     "latitude": 51.3685872,
     "longitude": 0.06894539999999999,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -510,10 +510,10 @@
     "address": "Magpie Hall Lane, Bromley Common BR2 8EH",
     "wheelchair": false,
     "baby_change": false,
-    "opening_hours": "Monday-Sunday, 7am  7pm",
+    "opening_hours": "Monday-Sunday, 7am \u2013 7pm",
     "latitude": 51.3866015,
     "longitude": 0.04778839999999999,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -524,7 +524,7 @@
     "opening_hours": "Monday -Sunday 7am-4.30am",
     "latitude": 51.4035514,
     "longitude": -0.0345947,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -535,7 +535,7 @@
     "opening_hours": "Monday-Sunday 7am-7pm",
     "latitude": 51.4221083,
     "longitude": -0.0709457,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -546,7 +546,7 @@
     "opening_hours": "Monday -Sunday 7am-5pm",
     "latitude": 51.3520718,
     "longitude": 0.0741282,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -557,7 +557,7 @@
     "opening_hours": "Monday-Sunday 7am-9.30pm",
     "latitude": 51.4020302,
     "longitude": -0.022236,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -565,10 +565,10 @@
     "address": "The Walnuts Centre, Orpington BR6 0TW",
     "wheelchair": false,
     "baby_change": true,
-    "opening_hours": "Monday, 10am  6pm Tuesday-Friday, 9.30am  6pm Saturday, 9.30am  5pm",
+    "opening_hours": "Monday, 10am \u2013 6pm Tuesday-Friday, 9.30am \u2013 6pm Saturday, 9.30am \u2013 5pm",
     "latitude": 51.3773656,
     "longitude": 0.1007092,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -576,10 +576,10 @@
     "address": "The Glades, Kentish Way, Bromley BR1 3EF",
     "wheelchair": true,
     "baby_change": true,
-    "opening_hours": "Monday  Friday 6.30am  9pm Saturday &amp; Sunday 8am  6pm",
+    "opening_hours": "Monday \u2013 Friday 6.30am \u2013 9pm Saturday &amp; Sunday 8am \u2013 6pm",
     "latitude": 51.4038327,
     "longitude": 0.0181556,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -587,10 +587,10 @@
     "address": "46 Green Lane, London SE20 7JX",
     "wheelchair": false,
     "baby_change": true,
-    "opening_hours": "Monday-Saturday 10am  2pm",
+    "opening_hours": "Monday-Saturday 10am \u2013 2pm",
     "latitude": 51.4139788,
     "longitude": -0.05118789999999999,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -601,7 +601,7 @@
     "opening_hours": "Mondays 6.30am-9pm Saturday &amp; Sunday 8am -6pm",
     "latitude": 51.3795812,
     "longitude": -0.0138656,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -612,7 +612,7 @@
     "opening_hours": "Monday-Sunday 7am-8pm",
     "latitude": 51.392627,
     "longitude": 0.077793,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   },
   {
@@ -623,7 +623,7 @@
     "opening_hours": "Monday-Friday 6.3am-9pm Saturday &amp; Sunday 8am-6pm",
     "latitude": 51.4091876,
     "longitude": -0.0375716,
-    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 24/07/2022",
+    "data_source": "bromley.gov.uk/street-care-cleaning/community-public-toilets 27/07/2022",
     "borough": "Bromley"
   }
 ]

@@ -5,7 +5,7 @@ IS_CLOSED_KEYWORDS = ["library", "caf", "centre", "bar", "brasserie", "public ho
                       "club", "centre", "restaurant", "court", "coffee", "tea", "kebab", "curry", "hall", "hair"]
 DISABLED_KEYWORDS = ["accessible", "disabled", "wheelchair", "access"]
 BABY_CHANGE_KEYWORDS = ["baby", "babychange", "change", "changing", "baby change"]
-OPENING_HOURS_KEYWORDS = ["mon", "tue", "wed", "thur", "fri", "sat", "sun", "holidays", ":00", "00", "24hr"]
+OPENING_HOURS_KEYWORDS = ["mon", "tue", "wed", "thur", "fri", "sat", "sun", "holidays", ":00", "00", "24hr", "days", "opening", "hours", "sunset", "dusk", "june", "july"]
 NOT_ADDRESS_KEYWORDS = ["yes", "no", "available", "only", "free"]
 IS_FEE_KEYWORDS = ["20p", "pound", "free", "50p", "75p", "paid"]
 

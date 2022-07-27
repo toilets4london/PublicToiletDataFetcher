@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Langtons Gardens",
+    "address": "Langtons Gardens (courtyard) Hornchurch RM11 1XR",
+    "latitude": 51.56558,
+    "longitude": 0.216599,
+    "opening_hours": "see opening times Monday - Saturday",
+    "data_source": "www.havering.gov.uk/info/20096/community/822/public_toilet_facilities_in_havering",
+    "borough": "Havering"
+  },
+  {
+    "name": "Harrow Lodge Park",
+    "address": "Harrow Lodge Park (cafe by the lake) Hornchurch RM12 4PL",
+    "latitude": 51.55595,
+    "longitude": 0.202368,
+    "opening_hours": "see cafe opening times Monday - Sunday",
+    "data_source": "www.havering.gov.uk/info/20096/community/822/public_toilet_facilities_in_havering",
+    "borough": "Havering"
+  },
+  {
+    "name": "Raphael Park",
+    "address": "Raphael Park (in the foyer by the restaurant at Main Road and by the kiosk at Parkway) Romford RM2 5EB",
+    "latitude": 51.5864,
+    "longitude": 0.192089,
+    "opening_hours": "see restaurant opening times",
+    "data_source": "www.havering.gov.uk/info/20096/community/822/public_toilet_facilities_in_havering",
+    "borough": "Havering"
+  },
+  {
+    "name": "Romford Market",
+    "address": "Romford Market (ground floor of Tollgate House) Romford RM1 3ER",
+    "latitude": 51.57907,
+    "longitude": 0.181388,
+    "opening_hours": "market days only",
+    "data_source": "www.havering.gov.uk/info/20096/community/822/public_toilet_facilities_in_havering",
+    "borough": "Havering"
+  },
+  {
+    "name": "South Street",
+    "address": "South Street Romford (Marks and Spencer) Romford RM1 1NA",
+    "latitude": 51.5774,
+    "longitude": 0.182305,
+    "opening_hours": "automated unit 24 hours",
+    "data_source": "www.havering.gov.uk/info/20096/community/822/public_toilet_facilities_in_havering",
+    "borough": "Havering"
+  },
+  {
+    "name": "Adjacent to Gidea Park Station",
+    "address": "Adjacent to Gidea Park Station Gidea Park RM2 6DA",
+    "latitude": 51.58152,
+    "longitude": 0.205784,
+    "opening_hours": "automated unit 24 hours",
+    "data_source": "www.havering.gov.uk/info/20096/community/822/public_toilet_facilities_in_havering",
+    "borough": "Havering"
+  },
+  {
+    "name": "Corbets Tey Road public toilets",
+    "address": "Corbets Tey Road public toilets Upminster RM14 2ED",
+    "latitude": 51.54977,
+    "longitude": 0.247083,
+    "opening_hours": "6am to half hour after sunset or 9.30pm in June and July",
+    "data_source": "www.havering.gov.uk/info/20096/community/822/public_toilet_facilities_in_havering",
+    "borough": "Havering"
+  }
+]

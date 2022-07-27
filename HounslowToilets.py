@@ -1,15 +1,18 @@
-"""
-To get the contents of hounslow_raw:
-- Go to https://maps.hounslow.gov.uk/map/Aurora.svc/GetRecordsByPoint?sessionId=dfd98443-8798-4176-94c8-9aa4b10c541b&x=510638.7263847503&y=178875.600798287&radius=860000.69866666666667&scaleDenominator=65536&callback=_jqjsp&_1658616689635=
-(replace the sessionId with a newer one)
-- Copy the json output to hounslow_raw
-"""
-
-
 import json
 import re
 import Geocoder
 from datetime import date
+import requests
+
+
+def get_data():
+    resp = requests.get(
+        "https://maps.hounslow.gov.uk/map/Aurora.svc/RequestSession?userName=GUEST&password=&script=%5CAurora%5CFind_your_nearest_Public+Toilets.AuroraScript%24")
+    sid = re.findall('"SessionId":"([A-Za-z0-9_-]*)"', resp.text)[0]
+    requests.get(f"https://maps.hounslow.gov.uk/map/Aurora.svc/OpenScriptMap?sessionId={sid}")
+    resp = requests.get(
+        f"https://maps.hounslow.gov.uk/map/Aurora.svc/GetRecordsByPoint?sessionId={sid}&x=515918.6751847503&y=174584.016798287&radius=860000000000.69866666666667&scaleDenominator=65536")
+    return resp.json()["Html"]
 
 
 def cleanhtml(raw_html):
@@ -17,22 +20,16 @@ def cleanhtml(raw_html):
     cleantext = re.sub(cleanr, '', raw_html)
     return cleantext
 
+
 def clean_addr(line):
     return line.replace("Rd", "Road").replace("Hounslow", "").replace("&#39;", "").replace("  ", " ")
 
 
 def get_hounslow_toilets():
-    print("Hounslow toilets [WARNING] Remember to redownload newer raw data!")
     today = date.today()
-
-    """ https://maps.hounslow.gov.uk/map/Aurora.svc/run?script=%5cAurora%5cFind_your_nearest_Public+Toilets
-    .AuroraScript%24&nocache=747441043&resize=always """
-
-    with open("Data/hounslow_raw.json") as dataFile:
-        jsonData = json.loads(dataFile.read())
-        htmlData = jsonData['Html']
-        lines = htmlData.split("\n")
-        lines = [cleanhtml(l).replace("\r", "") for l in lines]
+    htmlData = get_data()
+    lines = htmlData.split("\n")
+    lines = [cleanhtml(l).replace("\r", "") for l in lines]
     toilets = []
     t = {}
     for line in lines:
@@ -41,7 +38,7 @@ def get_hounslow_toilets():
         if "address" in line.lower():
             a = line.replace("Address: ", "")
             t["address"] = clean_addr(a)
-            coords = Geocoder.geocode(t["name"]+", "+a)
+            coords = Geocoder.geocode(t["name"] + ", " + a)
             if coords == "unavailable":
                 print("Can only geocode postcode")
                 parts = a.split(" ")

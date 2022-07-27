@@ -4,19 +4,28 @@ import json
 from Helpers import is_related_to_babychange, is_related_to_disabled
 from datetime import date
 
-# Difficult the get the request body because of cross site requests / cookies - Copy json from devtools manually and
-# parse
-
 BASE_URL = "https://www.brent.gov.uk/"
 URL = "https://www.brent.gov.uk/services-for-residents/transport-and-streets/public-toilets/"
 
 
+def get_brent_json():
+    resp = requests.post("https://www.brent.gov.uk/brent-api/search/list",
+                         json={"search": "",
+                               "facets": [],
+                               "filter": "template_1 eq '21028f0a3c334993bc40ae9327463a46' and brent_item_has_layout and path_1/any(t:t eq '110d559fdea542ea9c1c8a5df7e70ef9')",
+                               "orderBy": ["brent_item_title"],
+                               "searchType": "Directory",
+                               "size": 25},
+                         headers={
+                             "content-type": "application/json",
+                             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+                         })
+    return resp.json()
+
+
 def get_brent_toilets():
     today = date.today()
-    print("Brent toilets: [Warning] - remember to revisit url and copy json from api response body to "
-          "data/brent_raw.json")
-    with open("data/brent_raw.json", "r") as rawfile:
-        data = json.load(rawfile)
+    data = get_brent_json()
     toilets = []
     for entry in data["results"]:
         doc = entry["document"]
@@ -51,4 +60,3 @@ def get_brent_toilets():
 
 if __name__ == '__main__':
     get_brent_toilets()
-

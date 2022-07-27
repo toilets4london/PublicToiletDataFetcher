@@ -69,11 +69,11 @@ This doesn't mean I have no data for that borough. It just means instead I use t
 - [x] Ealing
 - [x] Enfield
 - [x] Greenwich
-- [ ] Hackney
+- [x] Hackney
 - [ ] Hammersmith and Fulham
 - [x] Haringey
 - [ ] Harrow
-- [ ] Havering
+- [x] Havering
 - [x] Hillingdon
 - [x] Hounslow
 - [ ] Islington
@@ -91,6 +91,45 @@ This doesn't mean I have no data for that borough. It just means instead I use t
 - [x] Waltham Forest
 - [x] Wandsworth
 - [x] Westminster
+
+## TODO
+
+### Writing
+
+- Islington
+- Kingston upon Thames
+
+### Updating
+
+- Barking
+- Barnet
+- Camden
+- Hillingdon
+- Lambeth
+- Lewisham
+- Merton
+- Newham
+- Redbridge
+- Richmond
+- Southwark
+- Sutton
+- Wandsworth
+
+## Information regarding missing boroughs (last updated 27/07/2022)
+
+### Croydon
+
+[Croydon council's website](https://www.croydon.gov.uk/parking-streets-and-transport/street-maintenance-repairs-and-improvements/street-cleaning/public-conveniences) says
+ 
+> Due to ongoing concerns in relation to the COVID-19 pandemic Croydon Council are not currently in a position to introduce the planned Community Toilet Scheme across the borough.
+
+and also 
+
+>  Croydon Council will provide an update on the Community Toilet Scheme in due course.
+
+### Hammersmith and Fulham, Harrow, Tower Hamlets
+
+Couldn't find any good primary sources to scrape data from for these boroughs - let me know if you do :)
 
 ## Other data sources
 

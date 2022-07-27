@@ -29,6 +29,8 @@ import EnfieldToilets
 import CityOfLondonToilets
 import BarkingToilets
 import BexleyToilets
+import HackneyToilets
+import HaveringToilets
 
 
 def osm():
@@ -65,11 +67,11 @@ class DataFetcher():
                             "Ealing": EalingToilets.get_ealing_data,
                             "Enfield": EnfieldToilets.enfield_data_to_json,
                             "Greenwich": GreenwichToilets.extract_greenwich_data,
-                            "Hackney": [],
+                            "Hackney": HackneyToilets.get_hackney_data,
                             "Hammersmith and Fulham": [],
                             "Haringey": HaringeyToilets.get_haringey_data,
                             "Harrow": [],
-                            "Havering": [],
+                            "Havering": HaveringToilets.get_havering_toilets,
                             "Hillingdon": HillingdonToilets.hillingdon_csv_to_json,
                             "Hounslow": HounslowToilets.get_hounslow_toilets,
                             "Islington": [],
@@ -102,3 +104,4 @@ class DataFetcher():
 
 if __name__ == "__main__":
     fetcher = DataFetcher()
+    fetcher.fetch("Lewisham")

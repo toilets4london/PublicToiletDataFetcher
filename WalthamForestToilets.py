@@ -24,6 +24,7 @@ def parse_wf_data(raw_data):
     tables = soup.find_all("table")
     toilets = []
     today = date.today()
+    seen = set()
     for t in tables:
         rows = t.find_all("tr")
         for r in rows:
@@ -36,6 +37,10 @@ def parse_wf_data(raw_data):
                 t["name"] = name
                 t["latitude"] = lat
                 t["longitude"] = lng
+                tid = name+str(lat)+str(lng)
+                if tid in seen:
+                    continue
+                seen.add(tid)
                 addr = r.find_all("p")[0]
                 addr = ' '.join(addr.find_all(text=True))
                 addr = Helpers.only_single_whitespace(addr)
