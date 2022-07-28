@@ -96,8 +96,6 @@ This doesn't mean I have no data for that borough. It just means instead I use t
 
 ### Writing
 
-- Kingston upon Thames
-
 ### Updating
 
 - Barking
