@@ -76,9 +76,9 @@ This doesn't mean I have no data for that borough. It just means instead I use t
 - [x] Havering
 - [x] Hillingdon
 - [x] Hounslow
-- [ ] Islington
+- [x] Islington
 - [x] Kensington and Chelsea
-- [ ] Kingston upon Thames
+- [x] Kingston upon Thames
 - [x] Lambeth
 - [x] Lewisham
 - [x] Merton
@@ -96,7 +96,6 @@ This doesn't mean I have no data for that borough. It just means instead I use t
 
 ### Writing
 
-- Islington
 - Kingston upon Thames
 
 ### Updating

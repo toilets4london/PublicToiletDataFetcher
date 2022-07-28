@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Car park toilet",
+    "address": "The Rose car park",
+    "opening_hours": "7am-midnight",
+    "latitude": 51.407272,
+    "longitude": -0.3067043,
+    "data_source": "https://www.kingston.gov.uk/environment/public-toilets",
+    "borough": "Kingston upon Thames",
+    "wheelchair": true
+  },
+  {
+    "name": "Car park toilet",
+    "address": "Bittoms car park",
+    "opening_hours": "7am-5:30pm",
+    "latitude": 51.4056892,
+    "longitude": -0.3050931,
+    "data_source": "https://www.kingston.gov.uk/environment/public-toilets",
+    "borough": "Kingston upon Thames",
+    "wheelchair": true
+  },
+  {
+    "name": "Car park toilet",
+    "address": "Blagdon Road car park",
+    "opening_hours": "7am-5:30pm",
+    "latitude": 51.4001375,
+    "longitude": -0.2543234,
+    "data_source": "https://www.kingston.gov.uk/environment/public-toilets",
+    "borough": "Kingston upon Thames",
+    "wheelchair": true
+  },
+  {
+    "name": "Park toilet",
+    "address": "Athelstan Rec, Kingston",
+    "opening_hours": "dawn - dusk daily",
+    "latitude": 51.41233,
+    "longitude": -0.300689,
+    "data_source": "https://www.kingston.gov.uk/environment/public-toilets",
+    "borough": "Kingston upon Thames",
+    "wheelchair": true
+  },
+  {
+    "name": "Park toilet",
+    "address": "Latchmere, Rec North Kingston",
+    "opening_hours": "dawn - dusk daily",
+    "latitude": 51.42369799999999,
+    "longitude": -0.295025,
+    "data_source": "https://www.kingston.gov.uk/environment/public-toilets",
+    "borough": "Kingston upon Thames",
+    "wheelchair": true
+  },
+  {
+    "name": "Park toilet",
+    "address": "Manor Park, New Malden",
+    "opening_hours": "dawn - dusk daily",
+    "latitude": 51.3867413,
+    "longitude": -0.2494991,
+    "data_source": "https://www.kingston.gov.uk/environment/public-toilets",
+    "borough": "Kingston upon Thames",
+    "wheelchair": true
+  },
+  {
+    "name": "Park toilet",
+    "address": "Beverley Park, New Malden",
+    "opening_hours": "dawn - dusk daily",
+    "latitude": 51.4035436,
+    "longitude": -0.2461409,
+    "data_source": "https://www.kingston.gov.uk/environment/public-toilets",
+    "borough": "Kingston upon Thames",
+    "wheelchair": true
+  },
+  {
+    "name": "Park toilet",
+    "address": "Alexandra Rec, Surbiton",
+    "opening_hours": "dawn - dusk daily",
+    "latitude": 51.3870477,
+    "longitude": -0.2892099,
+    "data_source": "https://www.kingston.gov.uk/environment/public-toilets",
+    "borough": "Kingston upon Thames",
+    "wheelchair": true
+  },
+  {
+    "name": "Park toilet",
+    "address": "Queens Promenade, Kingston",
+    "opening_hours": "dawn - dusk daily",
+    "latitude": 51.4012338,
+    "longitude": -0.3084313,
+    "data_source": "https://www.kingston.gov.uk/environment/public-toilets",
+    "borough": "Kingston upon Thames",
+    "wheelchair": true
+  },
+  {
+    "name": "Park toilet",
+    "address": "Victoria Rec, Surbiton",
+    "opening_hours": "dawn - dusk daily",
+    "latitude": 51.38955680000001,
+    "longitude": -0.3150577,
+    "data_source": "https://www.kingston.gov.uk/environment/public-toilets",
+    "borough": "Kingston upon Thames",
+    "wheelchair": true
+  }
+]

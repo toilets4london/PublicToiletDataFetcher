@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Chapel Market toilet",
+    "latitude": 51.53378935888524,
+    "longitude": -0.10867538244253722,
+    "borough": "Islington",
+    "address": "15 White Conduit St, N1 9EL",
+    "opening_hours": "8am to 6.30pm Monday to Saturday and 8am to 4pm on Sundays",
+    "data_source": "https://www.islington.gov.uk/roads/public-toilets"
+  },
+  {
+    "name": "Holloway Road Automated Public Convenience ",
+    "latitude": 51.5561298,
+    "longitude": -0.1170785,
+    "borough": "Islington",
+    "address": "Junction of Holloway Road/Camden Road N7 0RN",
+    "opening_hours": "24hrs",
+    "data_source": "https://www.islington.gov.uk/roads/public-toilets",
+    "fee": "20p",
+    "rating": 5.0,
+    "num_ratings": 2
+  },
+  {
+    "name": "Seven Sisters Road Automated Public Convenience ",
+    "latitude": 51.5828338,
+    "longitude": -0.07477299999999999,
+    "borough": "Islington",
+    "address": "Seven Sisters Road (near junction with Fonthill Road) N4 3GG ",
+    "opening_hours": "24hrs",
+    "data_source": "https://www.islington.gov.uk/roads/public-toilets",
+    "fee": "20p"
+  },
+  {
+    "name": "Highbury Crescent Automated Public Convenience ",
+    "latitude": 51.5476491,
+    "longitude": -0.1033805,
+    "borough": "Islington",
+    "address": "Highbury Crescent (near Highbury Pool) N5 1RN ",
+    "opening_hours": "24hrs",
+    "data_source": "https://www.islington.gov.uk/roads/public-toilets",
+    "fee": "20p"
+  },
+  {
+    "name": "Highbury Fields Automated Public Convenience ",
+    "latitude": 51.55236379999999,
+    "longitude": -0.1014703,
+    "borough": "Islington",
+    "address": "Highbury Fields Tennis Courts (off Church Path) N5 1QL ",
+    "opening_hours": "24hrs",
+    "data_source": "https://www.islington.gov.uk/roads/public-toilets",
+    "fee": "20p"
+  },
+  {
+    "name": "Newington Green Automated Public Convenience ",
+    "latitude": 51.551502,
+    "longitude": -0.085149,
+    "borough": "Islington",
+    "address": "Newington Green N16 9PX ",
+    "opening_hours": "24hrs",
+    "data_source": "https://www.islington.gov.uk/roads/public-toilets",
+    "fee": "20p"
+  },
+  {
+    "name": "City Road Automated Public Convenience ",
+    "latitude": 51.5297397,
+    "longitude": -0.09746909999999999,
+    "borough": "Islington",
+    "address": "Junction of City Road/Central Street EC1V 8AY ",
+    "opening_hours": "24hrs",
+    "data_source": "https://www.islington.gov.uk/roads/public-toilets",
+    "fee": "20p",
+    "rating": 2.5,
+    "num_ratings": 2
+  }
+]
