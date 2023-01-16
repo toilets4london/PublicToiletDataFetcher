@@ -33,6 +33,11 @@ import HackneyToilets
 import HaveringToilets
 import KingstonToilets
 import IslingtonToilets
+import IslingtonToilets2
+
+def islington():
+    IslingtonToilets.get_islington_data()
+    IslingtonToilets2.islington_excel_to_json()
 
 
 def osm():
@@ -76,7 +81,7 @@ class DataFetcher():
                             "Havering": HaveringToilets.get_havering_toilets,
                             "Hillingdon": HillingdonToilets.hillingdon_csv_to_json,
                             "Hounslow": HounslowToilets.get_hounslow_toilets,
-                            "Islington": IslingtonToilets.get_islington_data,
+                            "Islington": islington,
                             "Kensington and Chelsea": KensingtonChelseaToilets.kensington_data_to_json,
                             "Kingston upon Thames": KingstonToilets.get_kingston_data,
                             "Lambeth": LambethToilets.lambeth_excel_to_json,
